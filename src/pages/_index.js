@@ -17,11 +17,11 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
-          <Link
+          {/* <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
             Docusaurus Tutorial - 5min ⏱️
-          </Link>
+          </Link> */}
         </div>
       </div>
     </header>
@@ -36,7 +36,10 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
+        <div className="container" style={{textAlign: 'center', fontSize: 1.5 + 'rem'}}>
+          블로그부터 시작합니다.
+        </div>
       </main>
     </Layout>
   );
