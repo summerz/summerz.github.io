@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://summerz.net/blog</id>
+    <title>summerz.net Blog</title>
+    <updated>2024-06-02T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://summerz.net/blog"/>
+    <subtitle>summerz.net Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[도큐사우루스 설치]]></title>
+        <id>https://summerz.net/blog/2024/06/02/install-docusaurus</id>
+        <link href="https://summerz.net/blog/2024/06/02/install-docusaurus"/>
+        <updated>2024-06-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[도큐사우루스 를 설치했습니다.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">도큐사우루스</a> 를 설치했습니다.</p>
+<p>아마도 과거의 블로그 글들은 수동으로 가져와서 다시 아카이빙 할 것 같습니다.</p>
+<p>맨 처음 홈페이지를 직접 html로 만들었을 때를 제외하고는, 여러 설치형/서비스형 블로그를 쓰면서 매번 데이터를 어떻게 가지고 있어야 하나 고민을 했는데, 결국은 툴은 설치형을 쓰되, 데이터는 마크다운으로 가지고 있자는 결론에 도달했습니다.</p>
+<p>20년 전 존 그루버가 마크다운을 제안했을 때만 해도 이런 게 필요할까 싶었는데, 수많은 서비스가 마크다운 베이스로 가는 걸 보면 가장 필요한 단 하나의 가치에 집중한다는 게 어떤 의미를 가지는지 다시 생각해 보게 됩니다.</p>
+<p>일단은, 이렇게 적어두고 10년 만에 글을 올립니다.</p>]]></content>
+        <author>
+            <name>summerz</name>
+        </author>
+        <category label="Docusaurus" term="Docusaurus"/>
+        <category label="markdown" term="markdown"/>
+    </entry>
+</feed>
