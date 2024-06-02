@@ -20,11 +20,12 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'summerz.net', // Usually your GitHub org/user name.
-  projectName: 'website', // Usually your repo name.
+  organizationName: 'summerz', // Usually your GitHub org/user name.
+  projectName: 'summerz.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
