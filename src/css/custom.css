@@ -28,3 +28,27 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+#__blog-post-container img + em,
+#__blog-post-container iframe + em {
+  display: block;
+  text-align: center;
+  font-size: 0.8em;
+  color: #999;
+}
+
+#__blog-post-container img {
+  display: block;
+  margin: 0 auto;
+}
+
+#__blog-post-container hr {
+  border: 0;
+  height: 1px;
+  width: 50%;
+  position: relative;
+  margin: 3em auto;
+  box-sizing: content-box;
+  overflow: visible;
+  display: block;
+}

@@ -49,7 +49,10 @@ const config = {
           //   'https://github.com/summerz/summerz.github.io/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          postsPerPage: 10,
           showReadingTime: true,
+          blogSidebarCount: 10,
+          blogSidebarTitle: 'Recent posts (10)',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
