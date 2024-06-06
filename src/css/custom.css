@@ -30,19 +30,23 @@
 }
 
 #__blog-post-container img + em,
-#__blog-post-container iframe + em {
+#__blog-post-container iframe + em,
+.container article .markdown img + em,
+.container article .markdown iframe + em {
   display: block;
   text-align: center;
   font-size: 0.8em;
   color: #999;
 }
 
-#__blog-post-container img {
+#__blog-post-container img,
+.container article .markdown img {
   display: block;
   margin: 0 auto;
 }
 
-#__blog-post-container hr {
+#__blog-post-container hr,
+.container article .markdown hr {
   border: 0;
   height: 1px;
   width: 50%;
