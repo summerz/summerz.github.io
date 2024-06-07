@@ -8,6 +8,8 @@ tags:
 
 문득 ["싸이 '강남스타일' 글로벌 확산 경로"](https://venturesquare.net/2976)라는 글을 봤는데, 그 글은 트위터에서의 급격한 확산지를 저스틴 비버의 매니저인 스쿠터 브라운의 트윗을 꼽고 있다.
 
+<!-- truncate -->
+
 <blockquote>
 HOW DID I NOT SIGN THIS GUY!?!??! [youtu.be/9bZkp7q19f0](https://t.co/i9s2rwKx) GANGNAM STYLE!!!! [#THEGREATEST](https://twitter.com/search/?q=%23THEGREATEST)
 — Scooter Braun (@scooterbraun) [July 31, 2012](https://twitter.com/scooterbraun/status/230382776401154048)

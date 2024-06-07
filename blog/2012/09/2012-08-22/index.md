@@ -8,6 +8,8 @@ tags:
 
 네이버에서 ['룸살롱'](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EB%A3%B8%EC%82%B4%EB%A1%B1&x=0&y=0)을 검색하면 19금 인증을 받으라는 화면이 뜬다.
 
+<!-- truncate -->
+
 ![](스크린샷%202012-08-22%20오전%2012.49.24.png)
 
 그런데, ['안철수 룸살롱'](https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&ie=utf8&query=%EC%95%88%EC%B2%A0%EC%88%98+%EB%A3%B8%EC%82%B4%EB%A1%B1&x=0&y=0)을 입력하면 19금 인증 따윈 없다. 그냥 바로 검색 결과가 나온다.
