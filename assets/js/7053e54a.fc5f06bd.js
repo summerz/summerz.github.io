@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksummerz=self.webpackChunksummerz||[]).push([[8261],{7818:l=>{l.exports=JSON.parse('{"tag":{"label":"HTML5","permalink":"/blog/tags/html-5","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/html-5","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

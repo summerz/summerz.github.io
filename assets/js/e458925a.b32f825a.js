@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksummerz=self.webpackChunksummerz||[]).push([[6712],{4860:t=>{t.exports=JSON.parse('{"tag":{"label":"SKT","permalink":"/blog/tags/skt","allTagsPath":"/blog/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/skt","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

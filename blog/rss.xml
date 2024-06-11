@@ -27,8 +27,8 @@
             <link>https://summerz.net/blog/2012/11/01</link>
             <guid>https://summerz.net/blog/2012/11/01</guid>
             <pubDate>Thu, 01 Nov 2012 00:00:00 GMT</pubDate>
-            <description><![CDATA[제가 summerz.pe.kr 도메인을 등록한 것은 2002년 5월. 그 이전에는 당시 intizen 이나 dreamwiz 등의 서비스에 얹혀 살았던 걸로 기억해요. 그 때 사용했던 서비스들은 다 업어졌지만요.]]></description>
-            <content:encoded><![CDATA[<p>제가 summerz.pe.kr 도메인을 등록한 것은 2002년 5월. 그 이전에는 당시 intizen 이나 dreamwiz 등의 서비스에 얹혀 살았던 걸로 기억해요. 그 때 사용했던 서비스들은 다 업어졌지만요.</p>
+            <description><![CDATA[제가 summerz.pe.kr 도메인을 등록한 것은 2002년 5월. 그 이전에는 당시 intizen 이나 dreamwiz 등의 서비스에 얹혀 살았던 걸로 기억해요. 그 때 사용했던 서비스들은 다 없어졌지만요.]]></description>
+            <content:encoded><![CDATA[<p>제가 summerz.pe.kr 도메인을 등록한 것은 2002년 5월. 그 이전에는 당시 intizen 이나 dreamwiz 등의 서비스에 얹혀 살았던 걸로 기억해요. 그 때 사용했던 서비스들은 다 없어졌지만요.</p>
 <p>날코딩 해가며 홈페이지를 운영하다가 블로그로 바꾼 것은 2004년 4월이었습니다. 태터툴즈를 깔아서 운영했었고, 2008년 6월에 텍스트큐브닷컴으로 옮겼다가 2009년 10월 티스토리로 옮겼고 지금까지 사용했습니다.</p>
 <p>그리고, 올해 summerz.net 도메인을 구입했습니다. 원래는 summerz.pe.kr 에 쌓여있던 글들을 몽땅 워드프레스로 옮겨서 도메인까지 이사를 가려고 했는데, 그냥 두었습니다. 그냥 단순히 글을 옮기는 것이 별 의미가 없어 보여서요.</p>
 <p>이 공간은 이제 업데이트가 되지 않을 겁니다. 아마도 조만간 or 추후에 old.summerz.net 정도로 도메인이 바뀌는 것 이외에는 다른 변화도 없을 겁니다.</p>
@@ -230,6 +230,263 @@
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/y8AWFf7EAc4?si=VK_BooJiI_cTJRgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 <div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">by Jeff Buckley</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Well I heard there was a secret chord</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">That David played, and it pleased the Lord</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">But you don't really care for music, do ya?</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Well it goes like this</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">The fourth, the fifth</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">The minor fall and the major lift</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">The baffled king composing Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Well Your faith was strong but you needed proof</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">You saw her bathing on the roof</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Her beauty and the moonlight overthrew you</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">she tied you to her kitchen chair</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">And she broke your throne and she cut your hair</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">And from your lips she drew the Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Well baby I've been here before</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">I've seen this room and I've walked this floor</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">I used to live alone before I knew ya</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">I've seen your flag on the marble arch</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Love is not a victory march</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">It's a cold and it's a broken Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Well there was a time when you let me know</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">What's really going on below</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">But now you never show that to me do you?</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">And remember when I moved in you?</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">And the holy dove was moving too</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">And every breath we drew was Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Well maybe there's a God above</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">But all I've ever learned from love</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Was how to shoot somebody who'd out drew ya</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">And it's not a cry that you hear at night</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">It's not somebody who's seen in the light</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">It's a cold and it's a broken Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">Hallelujah</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content:encoded>
             <category>hooked on music</category>
+        </item>
+        <item>
+            <title><![CDATA[my tweets, retweeted (2011년, 45번째 주)]]></title>
+            <link>https://summerz.net/blog/2011/11/01</link>
+            <guid>https://summerz.net/blog/2011/11/01</guid>
+            <pubDate>Tue, 01 Nov 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[지난 주 제가 날린 트윗들 중 리트윗 받은 글들만.]]></description>
+            <content:encoded><![CDATA[<p>지난 주 제가 날린 트윗들 중 리트윗 받은 글들만.</p>
+<blockquote><p>2011-10-30</p><p>14개; RT @sungchi: 전 10개 맞았어요;; RT @xguru HTML5 기본에 대해 얼마나 아는지 테스트해보는 퀴즈<a href="https://t.co/pLArJfN2" target="_blank" rel="noopener noreferrer">j.mp/taTXqm</a> 총 18문제인데.. 2개 틀렸네요 ㅠㅠ</p><p>= HTML5에 관심있는 분들은 테스트 고고씽;</p></blockquote>
+<hr>
+<blockquote><p>2011-10-30
+(아이폰 팁) 확실히 "시간대 설정 중"을 끄니 배터리가 오래가는 것 같다. 설정 - 위치 서비스 - 시스템 서비스 들어가서 끄면 됨<a href="https://t.co/brtXAnAq" target="_blank" rel="noopener noreferrer">twitpic.com/788v4g </a></p><p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/_blog_upload-d59ff297c72f08ab45824b85fb0ebaf2.jpg" width="480" height="720" class="img_ev3q"></p><p>= 약간이지만 확실히 나아졌다는 느낌이 듭니다.</p></blockquote>
+<hr>
+<blockquote><p>2011-10-30</p><p>진사마가 나꼼수에 대해 "야담과 실화. 저열하고 비열한 공격. 언젠가 똑같이 당할 겁니다." 라고 했다는데 100% 동감하면서도 난 진사마가 대구의 밤문화 어쩌고 하는 식으로 깐죽거리는 것도 좋아하는데;</p><p>= 한 쪽에서 저열하고 비열하게 하지 않는다고 다른 쪽에서도 비열하지 않게 하지 않으리란 보장이 없다는 게 함정?</p></blockquote>
+<hr>
+<blockquote><p>2011-10-30</p><p>응? 구글이 다음을 인수할 지도 모른다는 루머? <a href="https://t.co/x1zlpAFS" target="_blank" rel="noopener noreferrer">economy.hankooki.com/lpage/industry...</a>
+= 구글이 다음을 노렸다는 것도 놀랍지만, SKT가 다음을 노리고 있다는 것도 놀랍다.</p></blockquote>
+<hr>
+<blockquote><p><strong>2011-10-28</strong></p><p><strong>정말 요즘 정동영을 보면 예전의 그 정동영이 맞나 싶다. 과거가 어쨌든 지금은 민주당에서 제일 나은 듯.</strong></p><p>= 정말 놀라울 뿐. ㄷㄷㄷ 지금의 정동영이라면 그의 유일한 단점이 민주당 소속이라는 것일 뿐일 정도다. 놀랍지 않은가.</p></blockquote>
+<hr>
+<blockquote><p>2011-10-28</p><p>(유튜브) 휘어지는 스마트폰, 새로운 인터페이스 (비틀기), 노키아 키네틱 디바이스 <a href="https://t.co/QT2WFFx7" target="_blank" rel="noopener noreferrer">youtube.com/watch?v=b4jKWT...</a> 역시 노키아!</p><iframe width="100%" height="315" src="https://www.youtube.com/embed/sSUJepHJ_ZQ?si=aidO-RP-bZFRu43w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe></blockquote>
+<hr>
+<blockquote><p>2011-10-24</p><p>안철수연구소 오늘 상한가. 벌써 주당 10만원. 확실히 이건 비정상이다.</p><p>= 주식이 무슨 like 버튼도 아니고, 아고라 서명도 아니고... 관계자가 뉴스에 오르내리면 주가가 오르는 건 도대체 뭘까?</p></blockquote>]]></content:encoded>
+            <category>media &amp; world</category>
+            <category>SKT</category>
+            <category>구글</category>
+            <category>아이폰</category>
+            <category>다음</category>
+            <category>노키아</category>
+            <category>HTML5</category>
+        </item>
+        <item>
+            <title><![CDATA[my tweets, retweeted (2011년, 44번째 주)]]></title>
+            <link>https://summerz.net/blog/2011/10/25</link>
+            <guid>https://summerz.net/blog/2011/10/25</guid>
+            <pubDate>Tue, 25 Oct 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[역시 지난 주 제가 날린 트윗들 중 리트윗 받은 글들만.]]></description>
+            <content:encoded><![CDATA[<p>역시 지난 주 제가 날린 트윗들 중 리트윗 받은 글들만.</p>
+<blockquote><p>2011-10-23</p><p>원래 사이트는 디어 포토그래피 <a href="https://dearphotograph.com/" target="_blank" rel="noopener noreferrer">dearphotograph.com</a> RT @sungchi: 과거를 보는 창, 사진 <a href="https://bit.ly/rtGDhf" target="_blank" rel="noopener noreferrer">bit.ly/rtGDhf</a></p><p>= 멋진 기획에 멋진 참여자들이 만드는 과거와 현재, 비주얼과 스토리들.</p></blockquote>
+<hr>
+<blockquote><p><strong>2011-10-22</strong></p><p><strong>이번 선거는 '아름다운 재단과 아름다운 피부'의 대결 혹은 '기부냐 피부냐'의 대결이다.</strong></p><p>= 슬픈 건 이번에도 역시 정책과는 전혀 관계없는 이슈들로 중요한 선거가 치뤄지고 있다는 것.</p></blockquote>
+<hr>
+<blockquote><p>2011-10-22</p><p>급식시설이 열악하니까 급식카트 사용한다? <a href="https://twitpic.com/73dp6r" target="_blank" rel="noopener noreferrer">twitpic.com/73dp6r</a> 정말 이해할 수 없는 마인드. 전국 학교에 급식실 건설 핑계 토건 마인드 발동?</p><p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/_blog-6c61e52fc7bc7bbdad4e88f6bedc30c7.jpg" width="533" height="3126" class="img_ev3q"></p><p>= 잘 사는 동네도 급식카트 사용하는 학교들 많고, 급식 카트를 사용하는 학교에서도 그걸 싫어라 하지 않는 학생들이 많다. 내가 보기엔 아무리 생각해도 반대를 위한 반대. 토건을 위한 반대.</p></blockquote>
+<hr>
+<blockquote><p>2011-10-20</p><p>트윗피드로 증식되는 주어없는 그녀 트윗의 RT들 <a href="https://twitpic.com/732th7" target="_blank" rel="noopener noreferrer">twitpic.com/732th7</a> 대놓고 트윗피드로 숫자 늘리는 걸 보면 쟤네는 앞으로도 안변하겠구나 싶다; 얼굴도 초상권 안따지고 그냥 갖다 쓴 거 같은데;</p><p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/_blog-na-63d9d04ecb6c8bc46cfd985a43969902.jpg" width="569" height="1063" class="img_ev3q"></p><p>= twitterfeed 를 사용해서 복제를 하다니... 정말 할 말이 없을 따름이다.</p></blockquote>
+<hr>
+<blockquote><p>2011-10-20</p><p>누구는 딸이 왕따를 당해서 위장전입, 누구는 딸 치료차 1억짜리 피부관리... 정치인들의 자식이 무슨 죄가 있냐;;;</p><p>= 저런 정치인들 집에서 부모와 자식이 어떤 대화를 하는지 정말 궁금하다.</p></blockquote>
+<hr>
+<blockquote><p>2011-10-20</p><p>다이아는 20년 전에 받아서 20년 전 가격으로 신고; RT @so_picky: 수수료는 직원 통장으로 받고 피부 클리닉은 실비 수준으로 했고 ... 나경원 씨 참 어렵게 살아오셨네</p><p>= 20년 전에 다이아반지를 받았으니 20년 전 가격으로 300만원이라고 우기면, 그럼 30년 전에 지은 집이었다면 100만원으로 신고할 거냐?</p></blockquote>
+<hr>
+<blockquote><p>2011-10-20</p><p>(조선일보) 소망교회 목사 폭행 부목사들 집행유예 <a href="https://t.co/KWkNss2h" target="_blank" rel="noopener noreferrer">https://t.co/KWkNss2h</a> "징역형을 받으면 앞으로 목사일을 하는데 흠이 될수 있는 점을 참작해 집행유예를 선고" 목사라는 직업은 천하무적</p><p>= 목사하면 징역 면제; 할렐루야. 판사가 뭐 저따위야.</p></blockquote>
+<hr>
+<blockquote><p>2011-10-19</p><p>정말 1:129 로 싸우는 장면들 같군요 ㄷㄷㄷ RT @sungchi: <a href="https://t.co/FeYLCu7b" target="_blank" rel="noopener noreferrer">https://t.co/FeYLCu7b</a> 정봉주 국회 활약상 사진들</p><p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/_blog_-5fcdfa5aa68ee803b108a705a535824f.jpg" width="500" height="338" class="img_ev3q"></p><p>= 이건 거의 야인시대 드라마 촬영장이라고 해도 믿을 듯.</p></blockquote>
+<hr>
+<blockquote><p>2011-10-19</p><p>안드로이드 아이스크림 샌드위치 발표에서 페이스 락 (얼굴인식 잠금화면) 시연하는데, 폰 주인의 얼굴인식에 실패;;; ㅡ.ㅡ</p></blockquote>
+<hr>
+<blockquote><p>2011-10-18</p><p>(유튜브) 피자의 기원에 대한 진실 <a href="https://t.co/kyJnqP5a" target="_blank" rel="noopener noreferrer">https://t.co/kyJnqP5a</a> 한국은 피자의 나라 / 새로운 LG 초콜렛폰 - 동방선사들<a href="https://t.co/Pv4fdOW8" target="_blank" rel="noopener noreferrer">https://t.co/Pv4fdOW8</a> 과 같은 제작사인 듯?</p><p><iframe width="100%" height="315" src="https://www.youtube.com/embed/QizaFkegFcQ?si=VzBQezTZsKSdk5Mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><em>The True Origins of Pizza (한글자막)</em></p><p><iframe width="100%" height="315" src="https://www.youtube.com/embed/51tl3mdOtEY?si=Jy3o7wVE_mZcRORL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><em>The new LG Chocolate - Masters from the East</em></p><p>= 근데 분명 한국 광고인데 왜 등장인물들이 다 일본이나 중국 등 한국인이 아닌 다른 아시아인들로 보이는 거냐.</p></blockquote>
+<hr>
+<blockqoute><p>2011-10-18</p><p>온라인_이력서를_넣지_못하는_이유.jpg <a href="https://t.co/bc1h0r1s" target="_blank" rel="noopener noreferrer">https://t.co/bc1h0r1s</a> 어떻게 해도 기준 미달 ㅠ.ㅠ</p><p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/_blog__-214e4159c64dd1bb9bd75eace38799d5.jpg" width="470" height="557" class="img_ev3q"></p><p>= 뭐, 그냥 유머죠;</p></blockqoute>]]></content:encoded>
+            <category>media &amp; world</category>
+            <category>리트윗</category>
+            <category>트윗</category>
+        </item>
+        <item>
+            <title><![CDATA[(심야식당 때문에) 문득 생각난 짝퉁들 3가지]]></title>
+            <link>https://summerz.net/blog/2011/10/24</link>
+            <guid>https://summerz.net/blog/2011/10/24</guid>
+            <pubDate>Mon, 24 Oct 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[#1 한독약품 훼스탈 플러스 광고]]></description>
+            <content:encoded><![CDATA[<p><strong>#1 한독약품 훼스탈 플러스 광고</strong></p>
+<p>작년에 한독약품에서 나온 소화제 광고를 보고 뜨악한 적이 있었습니다. 제가 좋아하는 드라마 &lt;심야식당&gt;을 그대로 베껴놓았더군요.</p>
+<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/yOhPaDzF0hA?si=MEiBQHfsQ2oX-X2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><em>훼스탈 플러스 광고 (노골적인 심야식당 표절 아닌가요?)</em></p>
+<p>드라마 &lt;심야식당&gt; 측으로부터 허락을 받았다든지, 아니면 라이센스를 구했다든지 하면 문제가 없겠지만 아무리 찾아봐도 인터넷에는 그랬다는 정보는 없더군요. 상당히 노골적인 표절이었다고 생각합니다.</p>
+<p>게다가 이게 더욱 코미디인 건 한독약품은 <a href="https://www.newswire.co.kr/newsRead.php?no=510111&amp;lmv=A01" target="_blank" rel="noopener noreferrer">"김갑수와 함께하는 훼스탈® 심야식당"</a> 이라는 이벤트를 열기도 했고, 한국광고주협회와 문화체육관광부가 공동 주최하는 <a href="https://www.medisobizanews.com/news/articleView.html?idxno=8061" target="_blank" rel="noopener noreferrer">'제19회 소비자가 뽑은 좋은 광고상'에서 수상</a> 을 했다는 것이지요.</p>
+<p><strong>#2 책 제목 "심야 치유 식당"</strong></p>
+<p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/8971848545_3-442c7d6d3258502d927ff9d49e294e8c.jpg" width="200" height="264" class="img_ev3q"></p>
+<p>책은 보지 않아서 내용은 모릅니다만, <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8971848545" target="_blank" rel="noopener noreferrer">책 소개</a> 를 보니 정신과 전문의 하지현이 쓴 에세이집이라는데 한 정신과 의사가 대학가 뒷골목에 '노사이드'라는 바를 차려서 손님들에게 조언을 한다는 내용이래요.</p>
+<p>그런데, 심야식당이 무슨 고유명사도 아니고, 책 속에서도 식당이 아니라 바를 차렸다면서 책 제목은 심야 치유 식당, 게다가 책 표지를 보니 '심야'와 '식당'을 의도적으로 한 톤으로 눈에 띄게 해놓았더군요.</p>
+<p>누가 책 제목을 짓고 기획을 했는지 모르겠지만 참 우습다 싶었습니다.</p>
+<p><strong>#3 책 제목 "거의 모든 IT의 역사"</strong></p>
+<p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/9726417-ae6de2371a3081ba6a1af161aeeba1f6.jpg" width="147" height="220" class="img_ev3q"></p>
+<p>(아, 이건 심야식당과는 관련이 없지만 책 제목을 보자마자 기억에 남았던 책이라)</p>
+<p>제가 알기로 2003년 빌 브라이슨이 쓴 <a href="http://www.aladin.co.kr/shop/wproduct.aspx?ISBN=8972913642" target="_blank" rel="noopener noreferrer">거의 모든 것의 역사 (A Short History of Nearly Everything</a> 는 국내에서도 상당히 히트한 책입니다. 책 제목은 '거의 모든 것의 역사'이지만 사실은 과학 위주의 내용을 담고 있기 때문인지 올해는 &lt;거의 모든 사생활의 역사 (At Home : A Short History of Private Life)&gt; 라는 책이 나오기도 했죠.</p>
+<p>작년에 &lt;거의 모든 IT의 역사&gt;라는 책이 나왔길래 빌 브라이슨이 뭔가 다른 책을 썼나 하고 유심히 보니 우리나라 저자가 쓴 책이더군요. 책 제목이 하도 비슷해서 그리고 시리즈처럼 보여서 뭔가 빌 브라이슨과 연관성이 있는 책인가 싶어 한참을 찾아본 기억이 납니다. 그런데, 전혀 그렇지 않더군요. 이 책도 거의 모든 IT의 역사라고는 하지만 MS, 구글, 애플 위주의 이야기가 내용의 거의 전부입니다.</p>
+<p>이 책을 기획하거나 직접 쓴 분이 빌 브라이슨의 책을 모를리 없을텐데 저처럼 <strong>"저 제목은 짝퉁이야"</strong> 라고 생각할 사람들이 많을 것임에도 불구하고 왜 저런 제목을 달았을까 궁금하더군요.</p>
+<p><strong>## 그리고</strong></p>
+<p>참, 이 책 때문에 인터넷 서점에서 검색을 해보니 빌 브라이슨의 책 이후로 "거의 모든 ~~의 OO" 으로 제목이 번안되거나 쓰여진 책들이 종종 있더군요. 아래는 잠깐 찾아본 책 제목들입니다.</p>
+<ul>
+<li>거의 모든 것의 미래</li>
+<li>M-everything 미디어 혁신에 관한 거의 모든 시선</li>
+<li>거의 모든 죽음의 역사</li>
+<li>거의 모든 사람들을 위한 과학</li>
+<li>농업, 거의 모든 것의 역사</li>
+<li>거의 모든 스파이의 역사</li>
+</ul>
+<p>위의 책들은 모두 2003년 이후에 출간된 책들이고 이 책들 중 원제가 영어인 것들 중 nearly everything 이라는 말이 들어간 책은 하나도 없더군요. 그런데, 참 유용한 표현인 것 같긴 해요. "거의 모든 것의 역사"라니... 언급이 안된 것에 대해서는 "내가 볼 때 별로 중요하지 않아서 빼놓았다" 혹은 "내가 언제 '모든 것'의 역사"라고 그랬느냐" 라고 핑계를 대면 될테니까요. :-p</p>]]></content:encoded>
+            <category>media &amp; world</category>
+            <category>제목</category>
+            <category>짝퉁</category>
+            <category>심야식당</category>
+        </item>
+        <item>
+            <title><![CDATA[福原希己江 - できること (후쿠하라 키미에 - 할 수 있는 일)]]></title>
+            <link>https://summerz.net/blog/2011/10/23</link>
+            <guid>https://summerz.net/blog/2011/10/23</guid>
+            <pubDate>Sun, 23 Oct 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[福原希己江 - できること (live, 2011년 5월 21일, 장소 : 草枕(西新橋))]]></description>
+            <content:encoded><![CDATA[<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/k7Xs4QK5QIs?si=mJ5-FK1E6Rd-6bdj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><em>福原希己江 - できること (live, 2011년 5월 21일, 장소 : 草枕(西新橋))</em></p>
+<p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/%EC%8B%AC%EC%95%BC_%EC%8B%9D%EB%8B%B9-0b2afb08c0dcf0e00a2cadac05037285.jpg" width="288" height="418" class="img_ev3q"></p>
+<p>저는 일본 드라마 &lt;심야식당&gt;의 팬입니다. 신주쿠 근처의 어느 골목에서 한 요리사가 혼자 한 식당을 자정부터 새벽까지 운영하는데 특이하게도 손님이 원하는 모든 음식을 만들어주죠. TBC에서 제작한 이 드라마는 원래 만화가 원작입니다.</p>
+<p>한 편에 35분 내외, 총 10편으로 이루어진 &lt;심야식당&gt; (1기, 2009년)은 소박한 분위기와 여러 인물들의 다양한 이야기들이 담담하게 그려지죠. 맛을 내기 위해 억지로 자극적인 기술을 구사하거나 과한 조미료를 넣거나 하지 않습니다.</p>
+<p>그런 &lt;심야식당&gt;의 2기가 시작되었습니다. 첫 번째 에피소드는 "다시 빨간 비엔나 소세지"인데, 1기의 첫 번째 에피소드인 "비엔나 소세지와 계란말이"의 이야기에서 다 밝히지 않은 이야기를 이어갑니다.</p>
+<p>내용은 드라마를 직접 보시면 아실테고, 2기의 첫 번째 에피소드 후반부에 삽입된 노래가 아아- 참 좋더군요.</p>
+<p>노래를 부른 가수는 후쿠하라 키미에 (福原希己江, Fukuhara Kimie)라고 하는데 <a href="https://2gwang2.blog.me/100135465457" target="_blank" rel="noopener noreferrer">조그만 카페에서 라이브</a> 를 했다거나 <a href="https://www.myspace.com/fukuharakimie" target="_blank" rel="noopener noreferrer">마이 스페이스에 올라온 몇몇 곡들</a> 정도는 찾았는데, 일본어를 못해서 앨범을 냈는지 어떤지 그런 것들은 알지 못합니다. 아, 1979년 하네다에서 태어났대요.</p>
+<div class="codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-text codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token plain">할 수 있는 일</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">by 福原希己江</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">추억을 잊고 싶다면</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">자, 내가 지우개로 지워줄게요</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">안심하고 주무세요</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">얼어붙을 듯 추운 아침도 떨리는 대지도</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">몸에 새겨진 기억이</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">당신을 강하게 만드는 거겠죠</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">이윽고 흙에 돌아갈 거라는 걸 알아도</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">이 마음을 어떻게 하면,</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">어떻게 하면 좋을까</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">내 노래는 아무런 힘도 없지만</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">당신의 마음을</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">조금이나마 위로할 정도는 될 거예요</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">추억을 잊고 싶다면</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">자, 내가 지우개로 지워줄게요</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain">안심하고 주무세요</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content:encoded>
+            <category>hooked on music</category>
+            <category>드라마</category>
+            <category>위로</category>
+            <category>심야식당</category>
+        </item>
+        <item>
+            <title><![CDATA[어떤 미술 아니 영어 교육. 혹은 동시 교육?]]></title>
+            <link>https://summerz.net/blog/2011/10/19</link>
+            <guid>https://summerz.net/blog/2011/10/19</guid>
+            <pubDate>Wed, 19 Oct 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[갑자기 생각나서 한 마디. 어느 오후에 실제 눈으로 구경한 돈 많은 자들의 초현실적인 교육 풍경.]]></description>
+            <content:encoded><![CDATA[<p>갑자기 생각나서 한 마디. 어느 오후에 실제 눈으로 구경한 돈 많은 자들의 초현실적인 교육 풍경.</p>
+<p>얼마 전 과천에 있는 <a href="http://www.moca.go.kr/" target="_blank" rel="noopener noreferrer">국립현대미술관</a> 에 <a href="http://www.moca.go.kr/exhibition/exhibitionManager.do?_method=exhView&amp;retMethod=getExhProgressList&amp;tpCd=&amp;exhId=201101170002861" target="_blank" rel="noopener noreferrer">&lt;올해의 작가 23인의 이야기 1995-2010&gt;</a> 을 보러 갔을 떼의 일이었다.</p>
+<p>한참 전시된 작품들을 보고 있는데 갑자기 한 무리의 꼬마애들이 들어오는 것이 아닌가. 대부분 아직 초등학교 입학 전의 아이들로 보였는데 20여명은 족히 되어 보였다. 뒤이어 아이들 수만큼의 여성분들이 들어왔는데 딱 봐도 어머니나 보호자로 보였다.</p>
+<p>그런데, 갑자기 한 서양인이 "Hey- Guys- Come here and sit down..." 어쩌고 저쩌고를 하며 아이들 모두를 한 작품 앞에 앉히더니 저 작품이 뭘로 보이냐는 둥, 작품을 보니 어떤 생각이 났냐는 둥, 이 작품의 재료는 뭐고 어쩌고 저쩌고 하는 설명을 영어로 하는 게 아닌가.</p>
+<p>아이들이 전부 알아듣는 것은 고사하고 절반은 별 관심없이 그냥 자기들끼리 떠들고 있었고 그 외국인이 미술관의 정식 허가 하에 그런 투어링을 하고 있어 보이지도 않았다. (그 날, 정식으로 마이크를 구비하고 관람객들에게 또박또박 작품 설명을 해주는 분들은 따로 있었다. 물론 한국어로.)</p>
+<p>잠깐... 그런데, 이 작품들은 한국 미술계에서 매년 의미가 있는 작가들의 작품 아닌가? 그런데, 그걸 이 꼬마애들에게 작품 소개를 힐끗 힐끗 보는 서양인이 거의 눈썹이 휘날리는 듯한 속도로 이야기를 한다? "내가 생각할 때는 어쩌고 저쩌고" 하며 작품 해설까지 해가면서? 이건 무엇을 의도한 교육일까? 어머니들의 생각이 정말 듣고 싶었다. 이 분들이야 말로 "국어를 영어로 가르치는 커리큘럼"에 동의하실 분들이 아닌가 싶은 생각도 들었고.</p>
+<p>문득 그 아이들의 교육비가 궁금해지며 "내가 한 달에 밥 먹고 술 먹고 하는 것 만큼은 되겠지?" 라는 생각을 하고 있는 나를 보며 "너도 참 후지다" 라는 생각이 동시에 떠올랐다.</p>
+<p>미술관 바로 옆에 잔디밭도 넓고, 놀이공원도 있는데, 날도 정말 좋았는데, 애먼 학습의 현장에 투입된 그날의 아이들에게 진심으로 동정을 보낸다.</p>]]></content:encoded>
+            <category>recharge my life</category>
+            <category>영어교육</category>
+            <category>미술교육</category>
+        </item>
+        <item>
+            <title><![CDATA[my tweets, retweeted (2011년, 43번째 주)]]></title>
+            <link>https://summerz.net/blog/2011/10/17</link>
+            <guid>https://summerz.net/blog/2011/10/17</guid>
+            <pubDate>Mon, 17 Oct 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[지난 주 제가 한 트윗들 중에서 리트윗 받은 글들을 모아봤습니다. 추가설명이 필요한 것은 한번 붙여봤어요.]]></description>
+            <content:encoded><![CDATA[<p>지난 주 제가 한 트윗들 중에서 리트윗 받은 글들을 모아봤습니다. 추가설명이 필요한 것은 한번 붙여봤어요.</p>
+<blockquote><p>2011-10-16</p><p>(유튜브) 한국식 발음 iPhone 4S 음성 키보드 테스트 <a href="http://t.co/iwpMJSfo" target="_blank" rel="noopener noreferrer">http://t.co/iwpMJSfo</a> 정말 J가 이야기한 것처럼 한국 아줌마들 사이에서 아이들 영어실력 인증 테스트기로 쓰이겠;</p><iframe width="560" height="315" src="https://www.youtube.com/embed/StzmFmUFFcM?si=QBv4Ld0NMpkpxIzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><p>= 비정상적이고 희한한 교육열, 특히 영어 교육열이 강한 우리나라에서는 충분히 가능한 일 아닐까요? 우리나라에서는 별 것 아닌 전자기기도 교육용으로 타겟팅하면 성공한다는 속설도 있잖아요.</p></blockquote>
+<hr>
+<blockquote><p>2011-10-16</p><p>(정정) 주어 없는 그녀의 트윗 소동을 oAuth 연동하여 트윗 쏘는 식으로 구현하려다 실수한 줄 알았는데 홈페이지에 구현된 걸 보니 단순 링크로만 구현되어 있구나; 그럼 정말 알바들이 나경원 트위터 계정으로 로그인한 줄 모르고 쏜 게 맞는 듯;</p><p>= 다른 분이 캡쳐한 화면을 보니 트윗을 발송한 클라이언트가 <a href="http://www.livere.co.kr/" target="_blank" rel="noopener noreferrer">LiveRe</a> 라는 회사의 소셜댓글 서비스더군요. 즉, 제가 봤던 주어 없는 그녀의 홈페이지는 이미 LiveRe 댓글 서비스를 치워버린 후였던 모양입니다. 어쨌든 그래도 관계자가 나경원 트위터 계정으로 로그인한 줄 모르고 쏜 것은 맞는 것 같아요. 설명이 길어져서 생략;</p></blockquote>
+<hr>
+<blockquote><p>2011-10-16</p><p>애는 귀여운데 현실은 왠지 무섭; RT @estima7: 아이패드에 익숙한 1살짜리 아기. 종이잡지를 보고 "고장난 아이패드"라고 생각. <a href="http://t.co/8MoHNSSQ" target="_blank" rel="noopener noreferrer">http://t.co/8MoHNSSQ</a> 세상은 이렇게 변해간다는...</p></blockquote>
+<hr>
+<blockquote><p>2011-10-13</p><p>이건 좀 대단하다. 개발자들이 다 치킨집 주인만 되는 건 아닌 듯?;;; RT @zizukabi: ㅎㅎㅎ RT 사과가게의 상술...ㅋㅋㅋ <a href="http://t.co/SfQPICqP" target="_blank" rel="noopener noreferrer">http://t.co/SfQPICqP</a></p></blockquote>
+<hr>
+<blockquote><p>2011-10-13</p><p>전문은 <a href="http://t.co/eGYyQzCx" target="_blank" rel="noopener noreferrer">http://t.co/eGYyQzCx</a> 그리고 그 다음 글은 <a href="http://t.co/qfB5cz4k" target="_blank" rel="noopener noreferrer">http://t.co/qfB5cz4k</a> RT @n0lb00: '나도 구글+가 걱정된다' 메일이 유출 <a href="http://t.co/bCSZ3wzD" target="_blank" rel="noopener noreferrer">http://t.co/bCSZ3wzD</a> 구글은 플랫폼이 뭔지 이해하지 못하고 있다</p></blockquote>
+<hr>
+<blockquote><p>2011-10-13</p><p>카카오톡의 플러스 친구의 효과 <a href="http://t.co/vTEFovKs" target="_blank" rel="noopener noreferrer">http://t.co/vTEFovKs</a></p></blockquote>
+<hr>
+<blockquote><p><strong>2011-10-13</strong></p><p><strong>역시 예상대로 아이폰 4s를 수령자들이 나타나면서 Siri에 대한 각종 '인문학적인 에피소드'들이 공개되고 있다. 대부분의 다른 업체들이 1년 내내 스펙 자랑만 해야하는 것과는 확실히 대조적.</strong></p><p>= Siri 가 소개됐을 때부터 생각했던 건데, 정말로 <a href="http://stuffsirisaid.com/" target="_blank" rel="noopener noreferrer">http://stuffsirisaid.com/</a> 라는 사이트가 생겼더군요. 생각해 보면 아이폰 자동완성 때문에 벌어진 웃지 못할 해프닝을 모은 <a href="http://damnyouautocorrect.com/" target="_blank" rel="noopener noreferrer">http://damnyouautocorrect.com/</a> 라는 사이트도 있죠.</p></blockquote>
+<blockquote><p>2011-10-13</p><p>메인 트위터 클라이언트로 트윗봇을 쓰고 있는데 트윗레이터 노이어 <a href="http://t.co/kmWkPLLg" target="_blank" rel="noopener noreferrer">http://t.co/kmWkPLLg</a> 영상을 보고 구입. UI에 신경 정말x2 많이 썼네 <a href="http://t.co/OdhDZSqw" target="_blank" rel="noopener noreferrer">http://t.co/OdhDZSqw</a></p><p><iframe title="vimeo-player" src="https://player.vimeo.com/video/30441215?h=096a2f7b29" width="100%" height="360" frameborder="0"></iframe><em><a href="http://vimeo.com/30441215" target="_blank" rel="noopener noreferrer">Twittelator Neue. Tweet Different.</a> from <a href="http://vimeo.com/olliewagner" target="_blank" rel="noopener noreferrer">Ollie Wagner</a> on <a href="http://vimeo.com/" target="_blank" rel="noopener noreferrer">Vimeo</a>.</em></p><p>= 잘 만들긴 했는데 조금 과한 것 같은 느낌이 드는 것도 사실입니다. 유니버셜 앱이 아니라는 게 또 하나의 단점이고요.</p></blockquote>]]></content:encoded>
+            <category>media &amp; world</category>
+            <category>리트윗</category>
+            <category>트윗</category>
+        </item>
+        <item>
+            <title><![CDATA[노래하는 아빠와 딸 - Jorge & Alexa Narvaez]]></title>
+            <link>https://summerz.net/blog/2011/10/16</link>
+            <guid>https://summerz.net/blog/2011/10/16</guid>
+            <pubDate>Sun, 16 Oct 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[유튜브를 보다가 깜찍한 영상들을 발견했습니다. 아빠와 딸이 나란히 앉아서 노래를 부르는 영상인데 딸이 정말 귀엽네요. 아빠 역시 연주도 잘 하고 노래도 잘 하고요.]]></description>
+            <content:encoded><![CDATA[<p>유튜브를 보다가 깜찍한 영상들을 발견했습니다. 아빠와 딸이 나란히 앉아서 노래를 부르는 영상인데 딸이 정말 귀엽네요. 아빠 역시 연주도 잘 하고 노래도 잘 하고요.</p>
+<p>아빠는 호세 나바에즈, 딸은 알렉사 나바에즈. 알렉사는 미국 나이로 올해 6살이래요. 알렉사가 제법 아빠의 연주에 신경쓰며 진지하게 노래를 부르는 게 너무 귀여워요.</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/L64c5vT3NBw?si=ciaStMRNLQT_unJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<p><em>Home - Edward Sharpe and The Magnetic Zeros Acoustic Cover (이건 5살인 작년 말에 녹음한 거군요)</em></p>
+<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/M2WGaTr_7Io?si=7YUw9qYL4jOhuD17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><em>Be My Baby - The Ronettes Acoustic Cover</em></p>
+<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/tHqFWYYOUAM?si=mdBSp9Wwt7qxA0W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><em>What's up (What's Going On)- 4 Non Blondes Acoustic Cover</em></p>
+<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/YBlLaOf1DV8?si=pdMCRpOOMA3-U56z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><em>Wake Me Up When September Ends - Green Day Acoustic Cover</em></p>
+<hr>
+<p>그러더니 <a href="https://www.dailymotion.com/video/x8uwn7i" target="_blank" rel="noopener noreferrer">엘렌 드제너러스 쇼에도 출연</a>했습니다!</p>
+<p>엘렌 쇼에 나와서도 전혀 떨지 않고 노래를 잘 하더니, 바비 인형을 제일 좋아하는 알렉사가 바비 인형 자동차를 보고서도 관객석에 가서 관객과 포옹을 먼저 하고 돌아오다니. 정말 깜찍하고 귀엽습니다.</p>
+<p>그리고, 락 페스티벌에도 출연했네요.</p>
+<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/vjTv_WZIVPQ?si=14GnPxYDO7fJFfLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"></iframe><em>Indiefest 7 San Diego - Father and Daughter Jorge and Alexa Narvaez perform "Home"</em></p>
+<p>참, 이 부녀가 부른 노래들이 아이튠즈에도 올라가 있더군요.</p>
+<ul>
+<li><a href="http://itunes.apple.com/us/album/home-feat.-alexa-narvaez-single/id448955222" target="_blank" rel="noopener noreferrer">Jorge Narvaez - Home (feat. Alexa Narvaez) - Single</a> at iTunes</li>
+<li><a href="http://itunes.apple.com/us/album/rolling-in-deep-feat.-alexa/id458629631" target="_blank" rel="noopener noreferrer">Jorge Narvaez - Rolling In the Deep (feat. Alexa Narvaez) - Single</a> at iTunes</li>
+<li><a href="http://itunes.apple.com/us/album/next-2-you-feat.-alexa-narvaez/id469528769" target="_blank" rel="noopener noreferrer">Jorge Narvaez - Next 2 You (feat. Alexa Narvaez) - Single</a> at iTunes</li>
+</ul>]]></content:encoded>
+            <category>hooked on music</category>
+            <category>아빠</category>
+            <category>딸</category>
+        </item>
+        <item>
+            <title><![CDATA[씨네21 (for iPad) 1년 정기구독 완료]]></title>
+            <link>https://summerz.net/blog/2011/10/14</link>
+            <guid>https://summerz.net/blog/2011/10/14</guid>
+            <pubDate>Fri, 14 Oct 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[씨네21의 아이패드 앱 이 있는 건 다들 아시죠? 매호 가격은 $0.99 입니다. 원으로 계산해보면 오늘 기준으로 1,157원이네요. 서점이나 가판에서 사면 3천원입니다. 절반도 안되는 가격이죠.]]></description>
+            <content:encoded><![CDATA[<p><a href="http://cine21.com/" target="_blank" rel="noopener noreferrer">씨네21</a>의 <a href="http://itunes.apple.com/kr/app/cine21/id432809312?mt=8" target="_blank" rel="noopener noreferrer">아이패드 앱</a> 이 있는 건 다들 아시죠? 매호 가격은 $0.99 입니다. 원으로 계산해보면 오늘 기준으로 1,157원이네요. 서점이나 가판에서 사면 3천원입니다. 절반도 안되는 가격이죠.</p>
+<p>말도 안되는 가격입니다. 읽는 재미를 침범하지 않을 정도의 적당한 인터렉션에 적당한 동영상들이 들어있는데 가격이 절반 이하라니요. 아, 물론 책으로 보관하는 재미를 느낄 수는 없죠. 용량이 넘어가면 삭제도 해야하고요. 단, 삭제했다가 다시 다운로드를 받아도 추가 요금이 발생하지는 않아요. 조금 불편할 뿐이죠.</p>
+<p>게다가 저는 가볍게 읽는 편이고, 자료 조사를 위해서 과월호를 자주 다시 찾아보고 꺼내보는 편이 아니기 때문에 용량 때문에 삭제를 해야 하는 게 큰 불편으로 느껴지지 않습니다.</p>
+<p>이런 씨네21 아이패드 앱이 이번에 업데이트 되면서 정기구독 기능이 생겼습니다. 1달에 $2.99, 1년에 $34.99. 계산해보면 1달에 대략 3천5백원, 1년에 4만5백원입니다.</p>
+<blockquote><p><strong>한달 정기구독할 경우</strong></p><p>(종이잡지) 3천원 x 4회 = 1만2천원
+(아이패드) 1달 정기구독 3천5백원</p><p>3천5백원 / 1만2천원 = 약 29%</p><p><strong>1년 정기구독할 경우</strong></p><p>(종이잡지) <a href="http://www.magazine21.co.kr/cine21/help.jsp" target="_blank" rel="noopener noreferrer">1년 정기구독료 15만원</a>
+(아이패드) 1년 정기구독료 4만5백원</p><p>4만5백원 / 15만원 = 27%</p></blockquote>
+<p>실로 엄청난 할인율이죠. 1/3이 안되는 가격으로 씨네21을 볼 수 있습니다. 과연 이 가격으로 뭐가 남나... 아니 과연 망하지 않고 오래 만들 수나 있나 싶을 정도의 가격입니다. (물론 종이잡지를 정기구독하면 영화표나 단행본 등 추가 상품 혜택이 있긴 합니다)</p>
+<p>어쨌든 이런 놀라운 가격 혜택에 힘입어 저는 아이패드용으로 1년 정기구독을 했습니다. 씨네21 자주 보시는 분들이라면 충분히 지를만한 조건이고요, 거의 매주 보시는 분이라면 무조건 질러야 하는 조건입니다.</p>
+<hr>
+<p>아이패드 버전으로의 정기구독은 구독기간이 넘어가면 자동으로 갱신이 되는 형태로 되어 있습니다.</p>
+<p>만약 자동으로 갱신이 되는 걸 원치 않으면 아이튠즈를 실행시켜서 Store 메뉴에서 나의 계정 보기를 선택하면 하단의 설정 카테고리에 구독 항목이 있습니다. 여기서 관리를 선택해서 조정하실 수 있습니다.</p>
+<p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/iTunes-on-085455d1fb41ff2df704fb1acbebb8d2.png" width="853" height="806" class="img_ev3q"><em>자동 갱신이 원래 켜져있는데 위처럼 끌 수 있어요</em></p>
+<hr>
+<p>참고로 올해 6월 28, 29일에 타임지과 씨네21의 아이패드 출판과 운영에 대한 세미나 <a href="http://onoffmix.com/event/3177" target="_blank" rel="noopener noreferrer">씨네21과 타임은 아이패드에서 어떻게 재탄생 했나</a> 있었다고 하더군요.</p>
+<p><a href="http://funnyplan.com/" target="_blank" rel="noopener noreferrer">남반장님</a> 이 그 때의 기록을 잘 <a href="http://funnyplan.com/blog/2011/06/30/how-to-rebuild-ipad-magazine-time-and-cine21/" target="_blank" rel="noopener noreferrer">정리</a> 해두셨더군요. 잘 읽었습니다. :-)</p>
+<p><strong>링크</strong></p>
+<ul>
+<li><a href="http://funnyplan.com/blog/2011/06/30/how-to-rebuild-ipad-magazine-time-and-cine21/" target="_blank" rel="noopener noreferrer">funnyplan.com - 씨네21과 Time은 아이패드 iPad에서 어떻게 재탄생 했나?</a></li>
+<li><a href="http://dl.dropbox.com/u/5522493/how-to-rebuild-ipad-magazine-time-and-cine21_20110628.pdf" target="_blank" rel="noopener noreferrer">funnyplan.com - 씨네21과 Time은 아이패드 iPad에서 어떻게 재탄생 했나? (pdf 버전)</a></li>
+</ul>]]></content:encoded>
+            <category>media &amp; world</category>
+            <category>씨네21</category>
+            <category>아이패드</category>
+        </item>
+        <item>
+            <title><![CDATA[카카오톡의 플러스 친구의 효과]]></title>
+            <link>https://summerz.net/blog/2011/10/13</link>
+            <guid>https://summerz.net/blog/2011/10/13</guid>
+            <pubDate>Thu, 13 Oct 2011 00:00:00 GMT</pubDate>
+            <description><![CDATA[카카오톡이 플랫폼으로서의 변화를 본격적으로 실행하고 있는데 어제 이것저것 발표했더랬죠. 그 중에서도 플러스 친구가 가장 적극적으로 구체화된 기능일테고요.]]></description>
+            <content:encoded><![CDATA[<p>카카오톡이 플랫폼으로서의 변화를 본격적으로 실행하고 있는데 어제 이것저것 발표했더랬죠. 그 중에서도 플러스 친구가 가장 적극적으로 구체화된 기능일테고요.</p>
+<ul>
+<li><a href="http://www.bloter.net/archives/79221" target="_blank" rel="noopener noreferrer">Bloter.net - 대화 넘어 정보 플랫폼으로...진화하는 카카오톡</a></li>
+</ul>
+<p>플러스 친구에 대한 구체화되지 않은 효과들을 배제하고 실제적인 것들만 생각해 보죠.</p>
+<p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202011-10-13%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%2011.05.56-6b9acd6b863c0090e6cd5c0738b35204.png" width="473" height="252" class="img_ev3q"><em>정보라 쓰고 광고라 읽는;;;</em></p>
+<p>우선 플러스 친구를 통해 사용자들에게 광고 문자 보내기 준비가 완료되었다는 겁니다. 사용자들은 자신에게 호감도가 높은 브랜드를 플러스 친구로 추가하고 광고를 받을 준비들을 하겠죠. 즉 이제부터 브랜드들이 쏘는 메시지를 사용자들이 얼마나 광고스럽지 않게 느끼느냐가 관건이겠죠.</p>
+<p>겨우 어제 시작했기 때문에 지금은 살짝 어정쩡한 옵트인을 시도하는 것 같아요. 전적으로 브랜드에 대한 호감도에 의존을 하고 있으니까요. 나중에 실제로 광고 문자가 보내지고 자신의 메시지 스트리밍에 노이즈가 끼면 사용자들이 자발적으로 옵트아웃을 하겠지요.</p>
+<p>어쨌든 국내 회원수가 2천만명이라고 하는 이 거대한 서비스에 <strong>"광고 문자 좀 쏴주세요-"</strong> 하고 달려드는 업체들이 분명히 있을 것이고, 카카오톡 입장에서는 충분히 승산이 있는 모델이라고 생각합니다.</p>
+<p>2000만명 x 문자 1통 (15원) = 3억원
+일단 수치적으로만 보면, 브랜드 입장에서 보면 카카오톡을 이용할 때 문자 1통당 3억원을 아낄 수 있는 겁니다. 물론 국내 회원 전체에게 문자를 쏘지는 않겠죠.</p>
+<p>어제 하루 만에 10만명 정도 친구를 모은 브랜드가 있던데,</p>
+<p>10만명 x 문자 1통 (15원) = 150만원
+즉, 광고 문자 보낼 때마다 150만원 이상씩 절약할 수 있는 플랫폼이 생겼다고 브랜드는 생각할 거고, 카카오톡은 이게 사용자들의 큰 반발없이 궤도에 오르면 브랜드에게 입점비/유지비를 받겠죠. 그럼 적어도 국내의 모바일 광고 시장에 작지 않은 영향을 미칠 수 있을 것 같습니다. 카울리나 애드로컬, 다음, 네이버 같은 업체들은 강력한 경쟁자를 얻은 거죠. 지금도 출혈경쟁 중일텐데... 걱정이 크지 않을까요?</p>
+<hr>
+<p>다만 궁금한 건 과연 얼마나 많은 사용자들이 플러스 친구로부터 나오는 정보를 광고가 아닌 정보로 인식할 것인가 하는 거죠. 쉽게 비교할 수 있는 예는 트위터와 페이스북이 있습니다.</p>
+<p>페이스북은 기업들에게 <a href="http://www.facebook.com/pages/browser.php" target="_blank" rel="noopener noreferrer">페이지</a> 라는 걸 만들어서 홍보활동을 하도록 적극 장려하고 있습니다. 기업들도 이것을 매우 좋아라 하는데, 페이스북의 광고를 클릭하면 다시 페이스북의 페이지로 가는 경우가 많을 정도죠. 사용자들도 큰 반발이 없습니다.</p>
+<p>그런데, 트위터는 어떤가요. <a href="https://support.twitter.com/articles/142101-what-are-promoted-tweets" target="_blank" rel="noopener noreferrer">프로모티드 트윗 (promoted tweet)</a> 이라고 해서 일반 트윗과 똑같은 형태로 기업들의 광고를 쏴주는 프로그램이 있는데, 처음부터 사용자들의 반발이 심했죠. 트위터 공식 모바일 앱에 퀵바 (quick bar)라는 기능을 넣었다가 다시 빼기도 하는 등 처음부터 지금까지 계속 수난을 겪고 있습니다.</p>
+<p>즉, 사용자들이 플랫폼으로써 받아들이는 태도가 서비스마다 다르다는 건데요, 카카오톡은 페이스북과 비슷할까요, 트위터와 비슷할까요? 사용자들은 카카오톡을 어떤 서비스로 인식하고 있는 걸까요?</p>
+<p>그리고, 브랜드 즉 업체들은 카카오톡에서의 광고를 어떤 수단으로 인식하고 있을까요? 카카오톡에 어울리는 광고를 해서 이득을 보는 브랜드들이 있을 거고 별 소득없는 프로모션을 진행하는 브랜드도 있겠죠.</p>
+<hr>
+<p>한 가지 재밌는 사실은 카카오톡이 워낙 회원 정보와 관련하여 소동이 많았기 때문인지, 카카오톡 사용자들의 불만이 축적되어 공개된 장소가 없어서인지 아직까지 별 이야기가 없는 것처럼 보인다는 겁니다.</p>
+<p>국내에 해킹 사건도 워낙에 많아 (하지만 처벌받거나 고소당해서 손해배상하는 업체도 하나 없고) 사용자들이 개인 정보에 대해 거의 포기 수준에 이르렀고, 카카오톡의 고압적인 자세가 맘에 안들지만 친구들이 쓰니까 어쩔 수 없이 쓰게 되는 식으로 정착한 사용자들도 많기 때문인 걸까요? 그냥 배너 광고만 달지 말아라... 이런 수준?</p>
+<p>아니면 아직 하루 밖에 안되서, 광고 문자를 받아보지 않아서 별 이야기가 없는 걸까요?</p>
+<p>앞으로의 진행 사항이 궁금해집니다. :-)</p>
+<h1></h1>]]></content:encoded>
+            <category>media &amp; world</category>
+            <category>광고</category>
+            <category>카카오톡</category>
         </item>
     </channel>
 </rss>
