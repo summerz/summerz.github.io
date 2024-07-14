@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://summerz.net/blog</id>
     <title>summerz.net Blog</title>
-    <updated>2024-06-02T00:00:00.000Z</updated>
+    <updated>2024-07-14T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://summerz.net/blog"/>
     <subtitle>summerz.net Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[나를 찾아줘]]></title>
+        <id>https://summerz.net/blog/2024/07/14</id>
+        <link href="https://summerz.net/blog/2024/07/14"/>
+        <updated>2024-07-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[오랫동안 묻어두었던 버릇을 꺼내드는 건 여간해서 쉽지 않은 일이다. 시간이 지나 시시해졌을 수도 있고, 부끄럽다고 느낄 수도 있고, 과거의 그 감각을 못 느낄 수도 있다.]]></summary>
+        <content type="html"><![CDATA[<p>오랫동안 묻어두었던 버릇을 꺼내드는 건 여간해서 쉽지 않은 일이다. 시간이 지나 시시해졌을 수도 있고, 부끄럽다고 느낄 수도 있고, 과거의 그 감각을 못 느낄 수도 있다.</p>
+<p>예전에는 분명 뭔가 하고 싶은 것 몇 가지가 항상 머릿속에 있고, 그것에 대해 종종 이야기하며, 그 중에 현실화할 수 있는 것들을 깨알 같이 시도하곤 했었는데, 오랫동안 그걸 하지 않으니 머릿속이 텅텅 비어있는 느낌이다.</p>
+<p>엄밀히 말하면 비어있지는 않은데 어디서부터 시작해야 할지 감이 오지 않는달까. 그게 나이를 먹어 더 많이 알게되서 인지, 더 멍청해져서 인지가 불분명하다. 이런 글 쓰는 것조차 '내가 아직도 이러고 있나'라는 생각이 살짝 드니 말 다했지.</p>
+<p>그럼에도, 나에게 적극적으로 말을 걸어봐야겠다. "나를 찾아줘."</p>]]></content>
+        <author>
+            <name>summerz</name>
+        </author>
+        <category label="나" term="나"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도큐사우루스 설치]]></title>
         <id>https://summerz.net/blog/2024/06/02/install-docusaurus</id>
@@ -506,44 +521,5 @@
         <category label="media & world" term="media & world"/>
         <category label="씨네21" term="씨네21"/>
         <category label="아이패드" term="아이패드"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오톡의 플러스 친구의 효과]]></title>
-        <id>https://summerz.net/blog/2011/10/13</id>
-        <link href="https://summerz.net/blog/2011/10/13"/>
-        <updated>2011-10-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[카카오톡이 플랫폼으로서의 변화를 본격적으로 실행하고 있는데 어제 이것저것 발표했더랬죠. 그 중에서도 플러스 친구가 가장 적극적으로 구체화된 기능일테고요.]]></summary>
-        <content type="html"><![CDATA[<p>카카오톡이 플랫폼으로서의 변화를 본격적으로 실행하고 있는데 어제 이것저것 발표했더랬죠. 그 중에서도 플러스 친구가 가장 적극적으로 구체화된 기능일테고요.</p>
-<ul>
-<li><a href="http://www.bloter.net/archives/79221" target="_blank" rel="noopener noreferrer">Bloter.net - 대화 넘어 정보 플랫폼으로...진화하는 카카오톡</a></li>
-</ul>
-<p>플러스 친구에 대한 구체화되지 않은 효과들을 배제하고 실제적인 것들만 생각해 보죠.</p>
-<p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202011-10-13%20%EC%98%A4%EC%A0%84%2011.05.56-6b9acd6b863c0090e6cd5c0738b35204.png" width="473" height="252" class="img_ev3q"><em>정보라 쓰고 광고라 읽는;;;</em></p>
-<p>우선 플러스 친구를 통해 사용자들에게 광고 문자 보내기 준비가 완료되었다는 겁니다. 사용자들은 자신에게 호감도가 높은 브랜드를 플러스 친구로 추가하고 광고를 받을 준비들을 하겠죠. 즉 이제부터 브랜드들이 쏘는 메시지를 사용자들이 얼마나 광고스럽지 않게 느끼느냐가 관건이겠죠.</p>
-<p>겨우 어제 시작했기 때문에 지금은 살짝 어정쩡한 옵트인을 시도하는 것 같아요. 전적으로 브랜드에 대한 호감도에 의존을 하고 있으니까요. 나중에 실제로 광고 문자가 보내지고 자신의 메시지 스트리밍에 노이즈가 끼면 사용자들이 자발적으로 옵트아웃을 하겠지요.</p>
-<p>어쨌든 국내 회원수가 2천만명이라고 하는 이 거대한 서비스에 <strong>"광고 문자 좀 쏴주세요-"</strong> 하고 달려드는 업체들이 분명히 있을 것이고, 카카오톡 입장에서는 충분히 승산이 있는 모델이라고 생각합니다.</p>
-<p>2000만명 x 문자 1통 (15원) = 3억원
-일단 수치적으로만 보면, 브랜드 입장에서 보면 카카오톡을 이용할 때 문자 1통당 3억원을 아낄 수 있는 겁니다. 물론 국내 회원 전체에게 문자를 쏘지는 않겠죠.</p>
-<p>어제 하루 만에 10만명 정도 친구를 모은 브랜드가 있던데,</p>
-<p>10만명 x 문자 1통 (15원) = 150만원
-즉, 광고 문자 보낼 때마다 150만원 이상씩 절약할 수 있는 플랫폼이 생겼다고 브랜드는 생각할 거고, 카카오톡은 이게 사용자들의 큰 반발없이 궤도에 오르면 브랜드에게 입점비/유지비를 받겠죠. 그럼 적어도 국내의 모바일 광고 시장에 작지 않은 영향을 미칠 수 있을 것 같습니다. 카울리나 애드로컬, 다음, 네이버 같은 업체들은 강력한 경쟁자를 얻은 거죠. 지금도 출혈경쟁 중일텐데... 걱정이 크지 않을까요?</p>
-<hr>
-<p>다만 궁금한 건 과연 얼마나 많은 사용자들이 플러스 친구로부터 나오는 정보를 광고가 아닌 정보로 인식할 것인가 하는 거죠. 쉽게 비교할 수 있는 예는 트위터와 페이스북이 있습니다.</p>
-<p>페이스북은 기업들에게 <a href="http://www.facebook.com/pages/browser.php" target="_blank" rel="noopener noreferrer">페이지</a> 라는 걸 만들어서 홍보활동을 하도록 적극 장려하고 있습니다. 기업들도 이것을 매우 좋아라 하는데, 페이스북의 광고를 클릭하면 다시 페이스북의 페이지로 가는 경우가 많을 정도죠. 사용자들도 큰 반발이 없습니다.</p>
-<p>그런데, 트위터는 어떤가요. <a href="https://support.twitter.com/articles/142101-what-are-promoted-tweets" target="_blank" rel="noopener noreferrer">프로모티드 트윗 (promoted tweet)</a> 이라고 해서 일반 트윗과 똑같은 형태로 기업들의 광고를 쏴주는 프로그램이 있는데, 처음부터 사용자들의 반발이 심했죠. 트위터 공식 모바일 앱에 퀵바 (quick bar)라는 기능을 넣었다가 다시 빼기도 하는 등 처음부터 지금까지 계속 수난을 겪고 있습니다.</p>
-<p>즉, 사용자들이 플랫폼으로써 받아들이는 태도가 서비스마다 다르다는 건데요, 카카오톡은 페이스북과 비슷할까요, 트위터와 비슷할까요? 사용자들은 카카오톡을 어떤 서비스로 인식하고 있는 걸까요?</p>
-<p>그리고, 브랜드 즉 업체들은 카카오톡에서의 광고를 어떤 수단으로 인식하고 있을까요? 카카오톡에 어울리는 광고를 해서 이득을 보는 브랜드들이 있을 거고 별 소득없는 프로모션을 진행하는 브랜드도 있겠죠.</p>
-<hr>
-<p>한 가지 재밌는 사실은 카카오톡이 워낙 회원 정보와 관련하여 소동이 많았기 때문인지, 카카오톡 사용자들의 불만이 축적되어 공개된 장소가 없어서인지 아직까지 별 이야기가 없는 것처럼 보인다는 겁니다.</p>
-<p>국내에 해킹 사건도 워낙에 많아 (하지만 처벌받거나 고소당해서 손해배상하는 업체도 하나 없고) 사용자들이 개인 정보에 대해 거의 포기 수준에 이르렀고, 카카오톡의 고압적인 자세가 맘에 안들지만 친구들이 쓰니까 어쩔 수 없이 쓰게 되는 식으로 정착한 사용자들도 많기 때문인 걸까요? 그냥 배너 광고만 달지 말아라... 이런 수준?</p>
-<p>아니면 아직 하루 밖에 안되서, 광고 문자를 받아보지 않아서 별 이야기가 없는 걸까요?</p>
-<p>앞으로의 진행 사항이 궁금해집니다. :-)</p>
-<h1></h1>]]></content>
-        <author>
-            <name>summerz</name>
-        </author>
-        <category label="media & world" term="media & world"/>
-        <category label="광고" term="광고"/>
-        <category label="카카오톡" term="카카오톡"/>
     </entry>
 </feed>
