@@ -7,6 +7,10 @@
 # Generated files
 .docusaurus
 .cache-loader
+.codegraph
+
+# 티스토리 백업 원본 (마이그레이션 작업용, iCloud 원본의 로컬 사본)
+/_tistory
 
 # Misc
 .DS_Store

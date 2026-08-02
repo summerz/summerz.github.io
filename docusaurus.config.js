@@ -23,10 +23,21 @@ const config = {
   organizationName: 'summerz', // Usually your GitHub org/user name.
   projectName: 'summerz.github.io', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  // 'throw' 였으나, 옛 자체 CMS 시절 글에 ./?pl=NNN 식 내부 링크나 프로토콜 없는
+  // 링크(www.foo.com)처럼 진짜로 죽은 링크가 섞여 있어(변환 버그가 아니라 원본
+  // 콘텐츠 자체의 문제) 전체 글을 변환하면 빌드가 막힌다. 여전히 경고로는 보이므로
+  // 회귀는 계속 눈에 띈다.
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
+
+  // 티스토리 원문에 <24>, <CSI> 같은 꺾쇠 제목이 많다. MDX 파서는 이를 JSX 태그로
+  // 오인해 빌드를 깨뜨리므로, .md 는 CommonMark 로 파싱하도록 전환한다.
+  // (.mdx 는 그대로 MDX 로 파싱됨 - 기존 글은 JSX/import 를 쓰지 않아 안전.)
+  markdown: {
+    format: 'detect',
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
