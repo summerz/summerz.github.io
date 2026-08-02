@@ -1,0 +1,34 @@
+---
+slug: 2010/10/21
+title: "나아질 거야 (from... It gets better by google employees)"
+date: 2010-10-21T02:52:08
+authors: summerz
+tags:
+  - "동성애"
+  - "소수자"
+  - "호모포비아"
+---
+
+**[It Gets Better: Google Employees](http://www.youtube.com/watch?v=pYLs4NCgvNU&feature=player_embedded "[http://www.youtube.com/watch?v=pYLs4NCgvNU&feature=player_embedded]로 이동합니다.") from youtube.com**
+
+<!-- truncate -->
+
+그러니 만약 네가 십대이고 고통으로 벗어나기 위한 좋은 방법이 스스로 상처를 주는 거라 생각한다면, 그러지 마. 그냥 조금 나이가 들었다고 생각해 봐. 40살까지는 아니고 한 25살 정도. 그리고 다시 네 자신이 되서 스스로에게 괜찮아 질 거라고 얘기해봐. 왜나면 정말 그러니까.
+
+\*                       \*                       \*
+
+미국에서도 호모포비아들의 질책과 괴롭힘을 이기지 못해 자살하는 10대들이 속출하고 있다는군요. 괴롭히는 사람들의 사건 사고 소식이 언론에 나오는 건 물론이고요.
+
+그리고, **[It Gets Better Project](http://www.itgetsbetterproject.com/ "[http://www.itgetsbetterproject.com/]로 이동합니다.")** 가 있죠. 서로 힘을 나누는 겁니다. 먼저 경험했던 사람들이 별일 없을 거라, 괜찮아 질거라 위로하고 격려하는 거죠.
+
+위의 영상은 구글 직원들이 찍은 영상이고, 유튜브에 가서 **[it gets better](http://www.youtube.com/results?search_query=it+gets+better&aq=f "[http://www.youtube.com/results?search_query=it+gets+better&aq=f]로 이동합니다.")** 로 검색해보면 수없이 많은 비디오들이 쏟아져 나옵니다. 이게 유튜브의 힘일까요? 아니겠죠. 항상 하는 말이지만 인터넷은 현실을 모사할 뿐.
+
+\*                       \*                       \*
+
+구글이라는 법인이 저런 비디오를 찍게 두었다는 사실에 박수를 보내고, 직원들이 저렇게 나서서 비디오를 찍는 것에 박수를 보냅니다. 이런 일이 있으면 항상 '우리나라 기업 중에는…' 하고 떠올려보죠. 하지만 저런 건 고사하고… 작은 인정과 격려라는 것 자체가… 과거에도 없었고, 지금도 없고, 앞으로도… 없겠죠.
+
+또 하나의 가족 삼성은 백혈병이나 뇌종양에 걸린 직원들도 산재처리 안해주고, 대한민국 정부는 노동부를 고용부로 바꿨으며, 기륭전자는… 여전하죠. 대열에서 벗어나는 것에 대해 겁을 주고, 누군가 대열에서 벗어나면 신경쓰지 않고, 자기가 대열에서 벗어나면 겁을 집어먹죠.
+
+\*                       \*                       \*
+
+우리도 소수자 - 어떤 형태의 소수자이건 간에 소수자에 관한, 관련된 인식들이 점점 나아질까요? 그럴 수 있는 걸까요? 노인들에 대한 지하철 무료 승차도 반대하는 시대에, 언제 철거될지 몰라 불안한 두리반이 고개 숙이는 시대에 말이죠.

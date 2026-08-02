@@ -1,0 +1,85 @@
+---
+slug: 2009/12/09
+title: "잡담: 2009년 12월 현재 한국에서 트위터를 대체하는 서비스는?"
+date: 2009-12-09T09:00:00
+authors: summerz
+tags:
+  - "media & world"
+  - "네이버"
+  - "트위터"
+  - "네이트온"
+---
+
+|  |
+| --- |
+| [Twitter bird logo icon illustration](http://www.flickr.com/photos/73532212@N00/3383916444 "Twitter bird logo icon illustration")  Twitter bird logo icon illustration by [Matt Hamm](http://www.flickr.com/photos/73532212@N00) [저작자 표시비영리](http://creativecommons.org/licenses/by-nc/2.0/kr/) |
+
+<!-- truncate -->
+
+답은 뭘까요? 제가 생각한 관점은 이렇습니다. 실시간성과 반응성, 그리고 바로 이슈가 되면서도 사용자 풀이 매우 넓은 서비스. 이렇게 좁혀 놓고 생각한다면 그리 어렵지 않은 답일 듯 합니다.
+
+바로 [**네이버 메인 페이지**](http://www.naver.com/ "[http://www.naver.com/]로 이동합니다.") **+** [**네이버 실시간 급상승 검색어**](http://searchc.naver.com/ntk/ "[http://searchc.naver.com/ntk/]로 이동합니다.")**+ [네이트온 메신저](http://nateonweb.nate.com/ "[http://nateonweb.nate.com/]로 이동합니다.")**가 아닐까요?
+
+\*                     \*                     \*                     \*
+
+|  |
+| --- |
+| [Temptation](http://www.flickr.com/photos/49462908@N00/3792832374 "Temptation")  Temptation by [Stéfan](http://www.flickr.com/photos/49462908@N00) [저작자 표시비영리동일조건 변경허락](http://creativecommons.org/licenses/by-nc-sa/2.0/kr/) |
+
+물론 이 서비스들 사이에서 트위터처럼 개개인의 계정에 데이터가 쌓이거나 서로의 의견들이 상호작용을 일으키는 현상이 나타나는 건 드문 경우입니다. 대부분의 경우 상호작용의 결과물들은 미니홈피나 디시인사이드, 각종 카페 등으로 흩어져 버리죠.
+
+하지만 사람이 많이 모였고, 그들이 무언가 관심 갖는 것에 대해 들여다 보고 반응을 보인다는 관점에서 바라보면 그리 틀린 게 아닐 겁니다. 트위터에서 정보가 유통될 수 있는 3가지 속성과 저 3가지가 크게 다를 바 없다는 거죠.
+
+첫째, 온 국민의 브라우저 홈페이지 - 네이버쩜컴
+
+둘째, 그들이 눌러대는 각종 검색어의 실시간 반영 - 실시간 급상승 검색어
+
+셋째, 놀라운 정보에 대해 그들이 공유하는 강력한 미디어 - 네이트온 메신저
+
+단지 차이점이 있다면 트위터는 모바일 환경에서 강점을 발휘하는데, 네이버 + 네이트온은 모바일 환경에는 쥐약이라는 정도겠지요.
+
+\*                     \*                     \*                     \*
+
+|  |
+| --- |
+| [studying...](http://www.flickr.com/photos/51035611977@N01/9079179 "studying...")  studying... by [fazen](http://www.flickr.com/photos/51035611977@N01) [저작자 표시](http://creativecommons.org/licenses/by/2.0/kr/) |
+
+그럼에도 이런 조합이 트위터와는 다르게 서로간의 상호작용을 일으키지 못하는, 즉 서비스간 시너지가 일어나기 힘든 구조인 이유에는 크게 2가지가 있겠죠.
+
+첫째, 한 회사 내의 서비스가 아니다. (네이버와 네이트)
+
+둘째, 저 3개의 서비스 중에 자신의 의견 표출에 대한 답변을 들을 수 있는 곳은 어디에도 없다.
+
+\*                     \*                     \*                     \*
+
+|  |
+| --- |
+| [Crate full of BrickArms ordnance](http://www.flickr.com/photos/12426416@N00/2936384537 "Crate full of BrickArms ordnance")  Crate full of BrickArms ordnance  by [Dunechaser](http://www.flickr.com/photos/12426416@N00) [저작자 표시비영리동일조건 변경허락](http://creativecommons.org/licenses/by-nc-sa/2.0/kr/) |
+
+네이버가 SK컴즈에 흡수되거나 그 반대의 경우가 일어날 수 없는 조건이라고 본다면 그나마 둘째, 의견 표출에 대한 답변 공유가 어느 쪽에서 더 활발하게 이뤄질까 하는 건데 이것 역시 네이버와 네이트가 거의 쌍박을 이루는 듯 합니다.
+
+**네이버**
+
+장점 : 네이버로의 트래픽이 엄청나다. 뉴스 포함 메인에 걸린 링크에 답글이 많이 달린다.
+
+단점 : 굳이 네이버쩜컴을 열어보지 않는 이상에는 실시간성이 약하다.
+
+**네이트**
+
+장점 : 네이트 뉴스 페이지 트래픽이 늘어날 정도로 네이트온 사용자가 엄청 많다.
+
+단점 : 그 어디에도 기록에 남지 않는다. 현재의 메신저는 단순 휘발성 정보 공유의 장일 뿐.
+
+\*                     \*                     \*                     \*
+
+|  |
+| --- |
+| [Today is the Day That I Happily Refuse to Purchase and iPhone](http://www.flickr.com/photos/44124439915@N01/660738574 "Today is the Day That I Happily Refuse to Purchase and iPhone")  Today is the Day That I Happily  Refuse to Purchase and iPhone  by [timsamoff](http://www.flickr.com/photos/44124439915@N01) [저작자 표시변경 금지](http://creativecommons.org/licenses/by-nd/2.0/kr/) |
+
+그렇다면 앞으로 유리한 서비스는 네이버와 네이트 중에 어디일까요? 상식적인 선에서 언뜻 생각하면 유무선 지원을 적극적으로 받기 쉬운 네이트가 될 것 같은데, 그간 수많은 서비스들을 말아먹은 SK컴즈의 전력과 그간의 무선망에서의 수익을 지켜야만 하는 SKT를 볼 때 별 도움을 받지 못할 것 같습니다.
+
+오히려 현재 온라인에서의 영향력을 앞세우며 통신사의 독과점을 천천히 쫒으며 서비스를 이전시킬 수 있는 네이버가 마음도 편하고 부담도 없겠죠. 앞으로 뜨는 플랫폼에 맞춰서 하나씩 하나씩 현재의 서비스를 확장시키면 되고 말이죠.
+
+\*                     \*                     \*                     \*
+
+이렇게 분산된 서비스들을 강제로 하나로 합친다는 건 자연스러운 일이 아닌 게 사실이지만 흩어져서 시너지를 못내는 현실이 아쉬운 것도 사실입니다. 그렇다고 어느 한 쪽에 몰아줘야 한다는 뜻은 절대로 아닙니다. 단지 처음부터 스스로 모든 걸 갖추려 하고, 불리한 것은 숨기려 하는 통에 반쪽짜리 서비스들이 되거나 사용자들의 행위에서 가치를 찾아내는 행위를 소흘히 해서 서비스의 확대 가능성을 반감시킨 서비스 운영업체들에 대한 안타까움이 있을 뿐이죠.
