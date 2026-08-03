@@ -68,6 +68,19 @@ function trimLead(nodes) {
   return out;
 }
 
+// 캡션은 "다음 줄" 일 때만 성립한다. 옛 글에는 `![](x.jpg)곧바로 본문` 처럼
+// 이미지 뒤 같은 줄에 글이 이어지는 경우가 많은데, 그건 캡션이 아니다.
+// 줄이 바뀌었으면 캡션 노드들을, 같은 줄이면 null 을 돌려준다.
+function nextLine(nodes) {
+  const [first] = nodes;
+  if (!first) return [];
+  if (first.type === 'break') return trimLead(nodes); // 공백 두 칸 줄바꿈
+  if (first.type === 'text' && /^[^\S\n]*\n/.test(first.value)) {
+    return trimLead(nodes);
+  }
+  return null;
+}
+
 function hasImage(node) {
   return (
     node.type === 'image' || (node.children || []).some(hasImage)
@@ -80,7 +93,8 @@ function leadAndCaption(paragraph) {
   if (!first) return null;
 
   if (first.type === 'image') {
-    let caption = trimLead(rest);
+    let caption = nextLine(rest);
+    if (caption === null) return null;
     if (!caption.length && first.title) {
       caption = [{type: 'text', value: first.title}];
     }
@@ -93,8 +107,13 @@ function leadAndCaption(paragraph) {
   if (first.type === 'text') {
     const nl = first.value.indexOf('\n');
     url = (nl === -1 ? first.value : first.value.slice(0, nl)).trim();
-    const tail = nl === -1 ? '' : first.value.slice(nl + 1).replace(/^\s+/, '');
-    caption = tail ? [{...first, value: tail}, ...rest] : trimLead(rest);
+    if (nl === -1) {
+      caption = nextLine(rest);
+      if (caption === null) return null;
+    } else {
+      const tail = first.value.slice(nl + 1).replace(/^\s+/, '');
+      caption = tail ? [{...first, value: tail}, ...rest] : trimLead(rest);
+    }
   } else if (first.type === 'link') {
     // <주소> 자동링크는 텍스트가 곧 주소라서 바꿔도 잃는 게 없다.
     const label =
@@ -103,7 +122,8 @@ function leadAndCaption(paragraph) {
         : null;
     if (label !== first.url) return null;
     url = first.url;
-    caption = trimLead(rest);
+    caption = nextLine(rest);
+    if (caption === null) return null;
   } else {
     return null;
   }

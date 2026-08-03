@@ -209,7 +209,7 @@ p.s.2
 
 [아이뉴스 - "고양이에게 생선을..." 저작권료 도둑질 백태](http://itnews.inews24.com/php/news_view.php?g_serial=445837&g_menu=020900 "[http://itnews.inews24.com/php/news_view.php?g_serial=445837&g_menu=020900]로 이동합니다.")
 
-\*                                   \*                                   \*
+* * *
 
 **2010-01-14 추가)** 익명 ?님의 댓글 중 지드레곤에 대한 설명이 있는 댓글 하나를 그대로 반영합니다. 위의 본문 내용 중에서 지드레곤의 경우에는 Heartbreaker 이외에는 표절 논란이 없었다는 요지의 글입니다.
 

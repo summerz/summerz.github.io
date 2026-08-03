@@ -69,6 +69,16 @@ const config = {
         blog: {
           // 기본 이미지 변환/자동링크보다 먼저 돌아야 image·text 노드를 볼 수 있다.
           beforeDefaultRemarkPlugins: [require('./src/remark/figures')],
+          // 태그가 없는 글은 아직 드래프트로 본다. Docusaurus 의 draft: true 와
+          // 같은 규칙으로, 개발 서버에서는 그대로 보이고 배포 빌드에서만 빠진다.
+          // 공개하려면 태그를 달면 된다.
+          async processBlogPosts({blogPosts}) {
+            if (process.env.NODE_ENV !== 'production') return undefined;
+            const published = blogPosts.filter((p) => p.metadata.tags.length);
+            const n = blogPosts.length - published.length;
+            if (n) console.log(`[draft] 태그 없는 글 ${n}편을 빌드에서 제외`);
+            return published;
+          },
           postsPerPage: 10,
           showReadingTime: true,
           blogSidebarCount: 10,

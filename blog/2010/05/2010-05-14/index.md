@@ -13,7 +13,7 @@ tags:
   - "명분"
 ---
 
-[![iHate Flash](http://farm5.static.flickr.com/4036/4564272842_eb974fd2d8.jpg)](http://www.flickr.com/photos/47724978@N06/4564272842 "iHate Flash")  
+[![iHate Flash](http://farm5.static.flickr.com/4036/4564272842_eb974fd2d8.jpg)](http://www.flickr.com/photos/47724978@N06/4564272842 "iHate Flash")
 
 <!-- truncate -->
 
@@ -29,7 +29,7 @@ iHate Flash by [Wise\_photo](http://www.flickr.com/photos/47724978@N06) [![저
 
 그러더니 아예 대놓고 **[Thoughts on Flash](http://www.apple.com/hotnews/thoughts-on-flash/ "[http://www.apple.com/hotnews/thoughts-on-flash/]로 이동합니다.")** 라는 공개 편지를 스티브 잡스의 이름으로 띄웠지요. 번역문은 **[여기](http://blog.thinkarchive.com/69 "[http://blog.thinkarchive.com/69]로 이동합니다.")**에서 확인하실 수 있습니다.
 
-\*                               \*                               \*
+* * *
 
 어도비가 이렇게 속절없이 두드려 맞고 끝날 줄 알았는데, 반격을 시작했죠. 어도비 CEO가 **[월스트리트 저널과 독점 인터뷰](http://blogs.wsj.com/digits/2010/04/29/live-blogging-the-journals-interview-with-adobe-ceo/ "[http://blogs.wsj.com/digits/2010/04/29/live-blogging-the-journals-interview-with-adobe-ceo/]로 이동합니다.")**를 했어요. 컨텐츠를 여러 플랫폼에서 만들 수 있으면 개발자도 좋고 결국 소비자들에게도 좋지 않냐는 거죠.
 
@@ -43,7 +43,7 @@ iHate Flash by [Wise\_photo](http://www.flickr.com/photos/47724978@N06) [![저
 
 간단하게 요약하면 '오픈마켓이란 개발자, 컨텐츠 소유자, 소비자 모두를 위한 것이어야 하는데, 애플 너네는 왜 플래시를 배척하느냐' 이런 거죠.
 
-\*                               \*                               \*
+* * *
 
 애플과 어도비의 HTML5, 플래시 싸움이 많은 생각을 하게 해줍니다.
 

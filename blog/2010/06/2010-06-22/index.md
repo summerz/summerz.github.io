@@ -23,7 +23,7 @@ tags:
 
 [한겨레21 홈페이지](http://h21.hani.co.kr/arti/SERIES/25/?&cline=200 "[http://h21.hani.co.kr/arti/SERIES/25/?&cline=200]로 이동합니다.")에서는 현재 아쉽게도 200년 7월 27일 이전의 연재물은 확인할 수 없군요.
 
-\*                                        \*                                        \*
+* * *
 
 그리고, 1989년작 애니메이션 **[Balance](http://en.wikipedia.org/wiki/Balance_(film) "[http://en.wikipedia.org/wiki/Balance_(film)]로 이동합니다.")**. (감독 : 크리스토프 & 볼프강 라우엔슈타인)
 

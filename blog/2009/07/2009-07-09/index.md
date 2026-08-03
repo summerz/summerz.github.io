@@ -53,7 +53,7 @@ tags:
 
 당시는 [미래에셋이 DDoS 공격을 받았다](http://www.fnnews.com/view?ra=Sent1201m_View&corp=fnnews&arcid=0921287405&cDateYear=2008&cDateMonth=04&cDateDay=16)가 해결이 된지 얼마 되지 않았을 때였고, 여러 미디어를 통해 [경찰의 도움을 받아 범인까지 검거](http://www.etnews.co.kr/news/detail.html?id=200807240184)했던 것이 알려져 있었다.
 
-\*                        \*                        \*
+* * *
 
 지나고 나니 이유가 어찌되었건 결국 사이버 테러로부터 보호받을 권리 역시 한정된 게 아닌가 하는 생각이 든다.
 
