@@ -67,6 +67,8 @@ const config = {
           //   'https://github.com/summerz/summerz.github.io/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          // 기본 이미지 변환보다 먼저 돌아야 image 노드를 볼 수 있다.
+          beforeDefaultRemarkPlugins: [require('./src/remark/imageFigure')],
           postsPerPage: 10,
           showReadingTime: true,
           blogSidebarCount: 10,
