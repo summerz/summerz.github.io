@@ -53,6 +53,13 @@
   margin: 0 auto;
 }
 
+/* 인용문 안에 끊김 없는 긴 URL 이 들어있는 옛 글이 많다(63곳). 그대로 두면 한 줄이
+   화면 밖으로 나가버리므로, 한 줄에 못 들어가는 단어만 강제로 접는다.
+   (break-word 라서 평범한 문장의 줄바꿈 위치는 건드리지 않는다.) */
+blockquote {
+  overflow-wrap: break-word;
+}
+
 /* 이미지 + 설명을 한 덩어리로 묶는 박스.
    `![](./x.jpg "설명")` 이 src/remark/imageFigure.js 를 거쳐 figure 로 바뀐다. */
 .mdFigure {
