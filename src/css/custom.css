@@ -53,7 +53,7 @@
   margin: 0 auto;
 }
 
-/* 한 줄짜리 유튜브 링크가 src/remark/youtubeEmbed.js 를 거쳐 바뀐 플레이어.
+/* 한 줄짜리 유튜브 링크가 src/remark/embedLinks.js 를 거쳐 바뀐 플레이어.
    16:9 비율을 유지하며 본문 폭에 맞춰 늘어난다. */
 .ytEmbed {
   aspect-ratio: 16 / 9;
@@ -99,6 +99,20 @@ blockquote {
   font-size: 0.85em;
   line-height: 1.5;
   color: var(--ifm-color-emphasis-700);
+}
+
+.mdFigure figcaption p {
+  margin: 0;
+}
+
+/* 임베드에 캡션이 붙은 경우. 상자는 이미지와 같지만 플레이어는 본문 폭을 다 쓴다
+   (iframe 은 고유 폭이 없어서 fit-content 상자 안에서는 찌그러진다). */
+.mdFigure--embed {
+  width: 100%;
+}
+
+.mdFigure .ytEmbed {
+  margin: 0;
 }
 
 #__blog-post-container hr,

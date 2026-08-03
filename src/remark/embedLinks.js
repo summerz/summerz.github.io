@@ -4,7 +4,13 @@
  *   https://www.youtube.com/watch?v=y8AWFf7EAc4   -> 유튜브 플레이어
  *   https://twitter.com/user/status/16267341411   -> 트윗 카드
  *
- * 문단이 URL 하나로만 이루어져 있을 때만 바꾼다.
+ * 바로 다음 줄(빈 줄 없이)에 글이 있으면 그 줄은 임베드의 캡션이 되어 이미지
+ * 캡션과 같은 상자에 함께 들어간다.
+ *
+ *   https://www.youtube.com/watch?v=y8AWFf7EAc4
+ *   Jeff Buckley - Hallelujah                    -> 플레이어 + 캡션
+ *
+ * 문단의 첫 줄이 URL 하나로만 이루어져 있을 때만 바꾼다.
  *   - 문장 중간에 인용한 링크는 그대로 둔다.
  *   - [제목](주소) 처럼 링크 텍스트가 따로 있으면 그대로 둔다. 임베드로 바꾸면
  *     글쓴이가 붙인 제목이 사라진다(유튜브 10글, 트위터 16곳).
@@ -46,21 +52,48 @@ function embedHtml(url) {
   return null;
 }
 
-// 문단이 "URL 만" 으로 이루어져 있으면 그 URL, 아니면 null.
-function soleUrl(paragraph) {
-  const kids = paragraph.children.filter(
-    (k) => !(k.type === 'text' && !k.value.trim()),
-  );
-  if (kids.length !== 1) return null;
-  const [only] = kids;
-  if (only.type === 'text') return only.value.trim();
-  if (only.type !== 'link') return null;
-  // <주소> 자동링크는 텍스트가 곧 주소라서 바꿔도 잃는 게 없다.
-  const label =
-    only.children.length === 1 && only.children[0].type === 'text'
-      ? only.children[0].value.trim()
-      : null;
-  return label === only.url ? only.url : null;
+// 캡션 앞머리의 줄바꿈 자국(하드브레이크, 공백뿐인 텍스트)을 걷어낸다.
+function trimLead(nodes) {
+  const out = nodes.slice();
+  while (
+    out.length &&
+    (out[0].type === 'break' ||
+      (out[0].type === 'text' && !out[0].value.trim()))
+  ) {
+    out.shift();
+  }
+  if (out.length && out[0].type === 'text') {
+    out[0] = {...out[0], value: out[0].value.replace(/^\s+/, '')};
+  }
+  return out;
+}
+
+// 문단의 첫 줄이 URL 이면 {url, caption} 을. caption 은 둘째 줄부터의 노드들이고
+// 없으면 빈 배열이다. 첫 줄이 URL 로만 이루어져 있지 않으면 null - 문장 중간에
+// 인용한 링크나 [제목](주소) 는 건드리지 않는다.
+function splitEmbed(paragraph) {
+  const [first, ...rest] = paragraph.children;
+  if (!first) return null;
+
+  if (first.type === 'link') {
+    // <주소> 자동링크는 텍스트가 곧 주소라서 바꿔도 잃는 게 없다.
+    const label =
+      first.children.length === 1 && first.children[0].type === 'text'
+        ? first.children[0].value.trim()
+        : null;
+    if (label !== first.url) return null;
+    return {url: first.url, caption: trimLead(rest)};
+  }
+  if (first.type !== 'text') return null;
+
+  const nl = first.value.indexOf('\n');
+  const head = (nl === -1 ? first.value : first.value.slice(0, nl)).trim();
+  if (!head) return null;
+  const tail = nl === -1 ? '' : first.value.slice(nl + 1).replace(/^\s+/, '');
+  return {
+    url: head,
+    caption: tail ? [{...first, value: tail}, ...rest] : trimLead(rest),
+  };
 }
 
 function walk(node) {
@@ -72,9 +105,22 @@ function walk(node) {
     walk(child);
     if (child.type !== 'paragraph') continue;
 
-    const url = soleUrl(child);
-    const html = url && embedHtml(url);
-    if (html) children[i] = {type: 'html', value: html};
+    const found = splitEmbed(child);
+    const html = found && embedHtml(found.url);
+    if (!html) continue;
+
+    if (!found.caption.length) {
+      children[i] = {type: 'html', value: html};
+      continue;
+    }
+    children.splice(
+      i,
+      1,
+      {type: 'html', value: `<figure class="mdFigure mdFigure--embed">${html}<figcaption>`},
+      {type: 'paragraph', children: found.caption},
+      {type: 'html', value: '</figcaption></figure>'},
+    );
+    i += 2;
   }
 }
 
