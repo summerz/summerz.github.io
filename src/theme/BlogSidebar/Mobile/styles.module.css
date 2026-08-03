@@ -1,0 +1,7 @@
+.moreLink {
+  color: var(--ifm-color-emphasis-600);
+}
+
+.moreLink:hover {
+  color: var(--ifm-color-primary);
+}

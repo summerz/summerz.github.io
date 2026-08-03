@@ -1,0 +1,103 @@
+.yearGrid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+@media (max-width: 996px) {
+  .yearGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .yearGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.yearCard {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-global-radius);
+  background-color: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.yearCard:hover {
+  border-color: var(--ifm-color-primary);
+  background-color: var(--ifm-hover-overlay, var(--ifm-color-emphasis-100));
+  color: var(--ifm-font-color-base);
+  text-decoration: none;
+}
+
+.yearLabel {
+  font-size: 1.25rem;
+  font-weight: var(--ifm-font-weight-bold);
+}
+
+.yearCount {
+  color: var(--ifm-color-emphasis-600);
+  font-size: 0.9rem;
+}
+
+.backLink {
+  display: inline-block;
+  margin-bottom: 1rem;
+}
+
+.monthSection {
+  margin-top: 2rem;
+}
+
+.monthTitle {
+  border-bottom: 1px solid var(--ifm-color-emphasis-300);
+  padding-bottom: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.postList {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.postItem {
+  margin: 0;
+}
+
+.postLink {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 0.35rem 0;
+  color: var(--ifm-font-color-base);
+}
+
+.postLink:hover {
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+}
+
+.postLink:hover .postTitle {
+  text-decoration: underline;
+}
+
+.postDate {
+  flex-shrink: 0;
+  color: var(--ifm-color-emphasis-600);
+  font-variant-numeric: tabular-nums;
+  min-width: 2.75rem;
+}
+
+.postSep {
+  color: var(--ifm-color-emphasis-500);
+}
+
+.postTitle {
+  overflow-wrap: anywhere;
+}
