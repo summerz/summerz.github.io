@@ -1,7 +1,4 @@
+/* Read More 링크와 같은 톤 - 링크 색상 + 굵게 */
 .moreLink {
-  color: var(--ifm-color-emphasis-600);
-}
-
-.moreLink:hover {
-  color: var(--ifm-color-primary);
+  color: var(--ifm-link-color);
 }

@@ -31,15 +31,10 @@
   color: var(--ifm-color-primary) !important;
 }
 
+/* Read More 링크와 같은 톤 - 링크 색상 + 굵게 */
 .sidebarMoreLink {
-  color: var(--ifm-color-emphasis-600);
   display: block;
-  font-size: 0.85rem;
-}
-
-.sidebarMoreLink:hover {
-  color: var(--ifm-color-primary);
-  text-decoration: none;
+  margin-top: 0.3rem;
 }
 
 @media (max-width: 996px) {

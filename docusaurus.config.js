@@ -43,6 +43,9 @@ const config = {
     {src: 'https://platform.twitter.com/widgets.js', async: true, charset: 'utf-8'},
   ],
 
+  // a / d 로 이전·다음 글(또는 목록 페이지) 이동
+  clientModules: [require.resolve('./src/clientModules/keyboardNav.js')],
+
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".

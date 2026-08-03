@@ -21,7 +21,7 @@ function BlogSidebarMobileSecondaryMenu({sidebar}) {
       ))}
       <li className="menu__list-item">
         <Link to="/blog/archive" className={clsx('menu__link', styles.moreLink)}>
-          [더 보기]
+          <b>더 이전 글 보기</b>
         </Link>
       </li>
     </ul>
