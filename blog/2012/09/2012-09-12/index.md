@@ -6,8 +6,8 @@ tags:
   - media & world
 ---
 
-<blockquote>대검찰청 블로그에 업데이트되는 웹툰. 수사관님이 그린다는데 최근 것( [spogood.blog.me/90150537171](https://spogood.blog.me/90150537171) )은 츄리닝을, 초창기의 한둘( [spogood.blog.me/90123584876](https://spogood.blog.me/90123584876) ) 은 내 그림을 조잡하게 갖다 베꼈다. 뭐죠. [@spo_kr](https://twitter.com/spo_kr)
-— ickjong im (@ickjong) [September 10, 2012](https://twitter.com/ickjong/status/245037077815779328)</blockquote>
+<blockquote class="twitter-tweet"><p>대검찰청 블로그에 업데이트되는 웹툰. 수사관님이 그린다는데 최근 것( <a href="https://spogood.blog.me/90150537171">spogood.blog.me/90150537171</a> )은 츄리닝을, 초창기의 한둘( <a href="https://spogood.blog.me/90123584876">spogood.blog.me/90123584876</a> ) 은 내 그림을 조잡하게 갖다 베꼈다. 뭐죠. <a href="https://twitter.com/spo_kr">@spo_kr</a></p>
+— ickjong im (@ickjong) <a href="https://twitter.com/ickjong/status/245037077815779328">September 10, 2012</a></blockquote>
 
 이크종님의 트윗을 보고 링크를 따라 들어가봤다.
 
@@ -19,8 +19,8 @@ tags:
 
 헤럴드경제가 [&lt;단독> 대검찰청, 만화 캐릭터 도용해 민형사상 피소 위기..법의 수호자 검찰이 저작권법위반](http://news.zum.com/articles/3682750) 라는 기사를 냈던데, 거기에 캡쳐 이미지가 남아있다.
 
-<blockquote>검토리블로그 웹툰 '무적초보수사관 강박사'의 그림체가 임익종님 및 몇몇 작가님들의 그것과 유사하다는 지적을 받아, 해당 웹툰이 더이상 공개되지 않도록 즉시 조치했습니다. 작가님들께 깊이 사과드리고 향후 이런 일이 재발하지 않도록 각별히 주의하겠습니다.
-— 대검찰청 대변인 (@spo_kr) September 10, 2012</blockquote>
+<blockquote class="twitter-tweet"><p>검토리블로그 웹툰 '무적초보수사관 강박사'의 그림체가 임익종님 및 몇몇 작가님들의 그것과 유사하다는 지적을 받아, 해당 웹툰이 더이상 공개되지 않도록 즉시 조치했습니다. 작가님들께 깊이 사과드리고 향후 이런 일이 재발하지 않도록 각별히 주의하겠습니다.</p>
+— 대검찰청 대변인 (@spo_kr) <a href="https://twitter.com/spo_kr/status/245072570972516352">September 10, 2012</a></blockquote>
 
 결국 트위터에서 [해명](http://spogood.blog.me/90151881454)도 하고,
 

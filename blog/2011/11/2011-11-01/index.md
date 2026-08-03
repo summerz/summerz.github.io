@@ -19,7 +19,7 @@ tags:
 <blockquote>
 2011-10-30
 
-14개; RT @sungchi: 전 10개 맞았어요;; RT @xguru HTML5 기본에 대해 얼마나 아는지 테스트해보는 퀴즈[j.mp/taTXqm](https://t.co/pLArJfN2) 총 18문제인데.. 2개 틀렸네요 ㅠㅠ
+14개; RT @sungchi: 전 10개 맞았어요;; RT @xguru HTML5 기본에 대해 얼마나 아는지 테스트해보는 퀴즈<a href="https://t.co/pLArJfN2">j.mp/taTXqm</a> 총 18문제인데.. 2개 틀렸네요 ㅠㅠ
 
  = HTML5에 관심있는 분들은 테스트 고고씽;
 </blockquote>
@@ -28,9 +28,9 @@ tags:
 
 <blockquote>
 2011-10-30
-(아이폰 팁) 확실히 "시간대 설정 중"을 끄니 배터리가 오래가는 것 같다. 설정 - 위치 서비스 - 시스템 서비스 들어가서 끄면 됨[twitpic.com/788v4g ](https://t.co/brtXAnAq)
+(아이폰 팁) 확실히 "시간대 설정 중"을 끄니 배터리가 오래가는 것 같다. 설정 - 위치 서비스 - 시스템 서비스 들어가서 끄면 됨<a href="https://t.co/brtXAnAq">twitpic.com/788v4g </a>
 
-![](_blog_upload.jpg)
+<img src="_blog_upload.jpg" />
 
  = 약간이지만 확실히 나아졌다는 느낌이 듭니다.
 </blockquote>
@@ -50,16 +50,16 @@ tags:
 <blockquote>
 2011-10-30
 
-응? 구글이 다음을 인수할 지도 모른다는 루머? [economy.hankooki.com/lpage/industry...](https://t.co/x1zlpAFS)
+응? 구글이 다음을 인수할 지도 모른다는 루머? <a href="https://t.co/x1zlpAFS">economy.hankooki.com/lpage/industry...</a>
 = 구글이 다음을 노렸다는 것도 놀랍지만, SKT가 다음을 노리고 있다는 것도 놀랍다.
 </blockquote>
 
 * * *
 
 <blockquote>
-**2011-10-28**
+<strong>2011-10-28</strong>
 
-**정말 요즘 정동영을 보면 예전의 그 정동영이 맞나 싶다. 과거가 어쨌든 지금은 민주당에서 제일 나은 듯.**
+<strong>정말 요즘 정동영을 보면 예전의 그 정동영이 맞나 싶다. 과거가 어쨌든 지금은 민주당에서 제일 나은 듯.</strong>
 
  = 정말 놀라울 뿐. ㄷㄷㄷ 지금의 정동영이라면 그의 유일한 단점이 민주당 소속이라는 것일 뿐일 정도다. 놀랍지 않은가.
 </blockquote>
@@ -69,7 +69,7 @@ tags:
 <blockquote>
 2011-10-28
 
-(유튜브) 휘어지는 스마트폰, 새로운 인터페이스 (비틀기), 노키아 키네틱 디바이스 [youtube.com/watch?v=b4jKWT...](https://t.co/QT2WFFx7) 역시 노키아!
+(유튜브) 휘어지는 스마트폰, 새로운 인터페이스 (비틀기), 노키아 키네틱 디바이스 <a href="https://t.co/QT2WFFx7">youtube.com/watch?v=b4jKWT...</a> 역시 노키아!
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/sSUJepHJ_ZQ?si=aidO-RP-bZFRu43w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </blockquote>

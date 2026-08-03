@@ -39,6 +39,10 @@ const config = {
     format: 'detect',
   },
 
+  scripts: [
+    {src: 'https://platform.twitter.com/widgets.js', async: true, charset: 'utf-8'},
+  ],
+
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
@@ -101,6 +105,7 @@ const config = {
           //   label: 'Tutorial',
           // },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog/archive', label: '아카이브', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',

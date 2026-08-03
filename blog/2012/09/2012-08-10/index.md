@@ -10,10 +10,8 @@ tags:
 
 <!-- truncate -->
 
-<blockquote>
-HOW DID I NOT SIGN THIS GUY!?!??! [youtu.be/9bZkp7q19f0](https://t.co/i9s2rwKx) GANGNAM STYLE!!!! [#THEGREATEST](https://twitter.com/search/?q=%23THEGREATEST)
-— Scooter Braun (@scooterbraun) [July 31, 2012](https://twitter.com/scooterbraun/status/230382776401154048)
-</blockquote>
+<blockquote class="twitter-tweet"><p>HOW DID I NOT SIGN THIS GUY!?!??! <a href="https://t.co/i9s2rwKx">youtu.be/9bZkp7q19f0</a> GANGNAM STYLE!!!! <a href="https://twitter.com/search/?q=%23THEGREATEST">#THEGREATEST</a></p>
+— Scooter Braun (@scooterbraun) <a href="https://twitter.com/scooterbraun/status/230382776401154048">July 31, 2012</a></blockquote>
 
 2012년 7월 31일자 트윗이고, 현재 리트윗 1,136회, 즐겨찾기 575회를 거두고 있다.
 
@@ -21,10 +19,8 @@ HOW DID I NOT SIGN THIS GUY!?!??! [youtu.be/9bZkp7q19f0](https://t.co/i9s2rwKx) 
 
 바로 T-Pain.
 
-<blockquote>
-Words cannot even describe how amazing this video is... [youtube.com/watch?v=9bZkp7…](https://t.co/FoO0Pt25)
-— T-Pain (@TPAIN) [July 29, 2012](https://twitter.com/TPAIN/status/229693595437912064)
-</blockquote>
+<blockquote class="twitter-tweet"><p>Words cannot even describe how amazing this video is... <a href="https://t.co/FoO0Pt25">youtube.com/watch?v=9bZkp7…</a></p>
+— T-Pain (@TPAIN) <a href="https://twitter.com/TPAIN/status/229693595437912064">July 29, 2012</a></blockquote>
 
 T-Pain은 gangnam style 이라는 단어를 사용하지 않았지만 똑같은 유튜브 비디오를 링크해서 2012년 7월 29일에 트윗했다. 참고로 이 트윗은 현재 리트윗 2,367회, 즐겨찾기 836회를 기록 중이다.
 
@@ -36,10 +32,8 @@ T-Pain은 gangnam style 이라는 단어를 사용하지 않았지만 똑같은 
 
 2012년 8월 1일의 조쉬 그로반의 트윗이 그 중의 하나일 것이고,
 
-<blockquote>
-It's a Gangnam Style world, we're just living in it. Amazing video. [bit.ly/PVPJ4p](https://t.co/7DbkFSEn)
-— josh groban (@joshgroban) [August 1, 2012](https://twitter.com/joshgroban/status/230459113790902272)
-</blockquote>
+<blockquote class="twitter-tweet"><p>It's a Gangnam Style world, we're just living in it. Amazing video. <a href="https://t.co/7DbkFSEn">bit.ly/PVPJ4p</a></p>
+— josh groban (@joshgroban) <a href="https://twitter.com/joshgroban/status/230459113790902272">August 1, 2012</a></blockquote>
 
 2012년 8월 2일 CNN 이 ["GANGNAM STYLE" GOES VIRAL](https://edition.cnn.com/video/?/video/world/2012/08/02/wr-gangnam-style-goes-viral-in-rap-video.cnn) 이라고 방영한 뉴스클립도 한몫 했을 것이다.
 
