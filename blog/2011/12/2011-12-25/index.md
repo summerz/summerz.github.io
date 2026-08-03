@@ -14,6 +14,8 @@ tags:
 
 우리가 한 해 동안 해온 일들이 혹시 우리를 더 딱딱하게 만들었다고 하더라도, 혹은 한 해 동안 길을 잃고 헤메였던 것 같은 기분이 들더라도, 그게 잠시일 뿐이길 기원합니다. 그리고 내일부터는 새로운 날들이, 더 좋은 날들이 펼쳐지기를 바랄게요.
 
+https://www.youtube.com/watch?v=y8AWFf7EAc4
+
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/y8AWFf7EAc4?si=VK_BooJiI_cTJRgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ```
