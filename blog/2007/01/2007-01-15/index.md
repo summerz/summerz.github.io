@@ -82,8 +82,6 @@ How much did 21 grams weigh?
   
  **(가사보기 클릭)** 
 
-(가사보기 클릭) " tt\_lesstext=" **(닫기)** " tt\_id="1">  
-  
 One last kiss one only  
 Then I'll let you go Hard for you  
 I've fallen  

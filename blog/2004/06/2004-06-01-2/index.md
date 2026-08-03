@@ -32,11 +32,7 @@ The Polyphonic Spree라고 굉장히 독특한 성격의 그룹이 있는데, �
   
 (부시 때문인지, 흰옷 입고 단체로 나오는 미국사람들이라는 이미지에서 KKK단이 연상된다. 부시 때문에 별의 별 생각이 다 든다.)  
   
- **[The Polyphonic Spree의 Cane 뮤직비디오 보기]**
-
-[The Polyphonic Spree의 Cane 뮤직비디오 보기]" tt\_lesstext=" **[닫기]** " tt\_id="1">
-
-  
+ **[The Polyphonic Spree의 Cane 뮤직비디오 보기]**  
   
 3  
   

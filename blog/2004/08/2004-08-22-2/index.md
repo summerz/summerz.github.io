@@ -15,7 +15,7 @@ tags:
 
  **[패러디 만화 보기]** 
 
-[패러디 만화 보기] " tt\_lesstext=" " tt\_id="1"> ![](http://new.newstoon.net/imgdata/newstoon2/040816330813065827by1.jpg)
+![](http://new.newstoon.net/imgdata/newstoon2/040816330813065827by1.jpg)
 
   
 나햏의 원작이 가지고 있던 분위기와 현재의 한반도 상황과 맞물리니 느낌이 참 휑하다.  

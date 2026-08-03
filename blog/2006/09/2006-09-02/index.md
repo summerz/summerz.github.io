@@ -22,6 +22,6 @@ tags:
 [churchsign.jpg](./churchsign.jpg)  
 [seal.gif](./seal.gif)  
 [ticket.jpg](./ticket.jpg)
-꺄아아아악- 오빠~~~~" tt\_link="" tt\_w="360px" tt\_h="240px" tt\_alt="" />  
+꺄아아아악- 오빠~~~~  
 [cassette.jpg](./cassette.jpg)  
 [vrg78.jpg](./vrg78.jpg)

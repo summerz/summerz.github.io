@@ -29,7 +29,7 @@ tags:
 
 그냥 잡아 돌리면 바뀐다. -o-
 
-" tt\_link2="" tt\_w2="250px" tt\_h2="300px" tt\_alt2="" />  
+  
 위드 유학원에 가서 Angela에게 시티 지도를 두장 다시 복사 받고 (고마워요.^^) 이것저것 물어보고 대답하고 하다가 그냥 그 자리에서 Kelly랑 점심을 먹었다 (Angela는 안싸왔다는;;; ). 나는 내 mobile 케이스를 바꿀 생각을 하고 있는데, Kelly는 내 mobile이 예쁘단다. 빨강색이라 그런가? -\_-;   
   
 어쨌든 오늘은 겸사겸사 Opera House에 가보기로 했다 - 가까이서 구경하고 싶기도 하고, 마침 Sydney Film Festival이 열린다고 하길래. 지난번에 샀던 Blue Travel 10 티켓을 써볼 겸 해서, Town Hall 근처에서 버스를 타고 Circular Quay에서 내렸다. 지도상으로 볼 때는 Opera House와 좀 거리가 있어 보이던데, 걸으니 금방이다. (내가 걷는데 적응된 건지, 여기저기로 떠나는 Circular Quay의 Ferry들을 구경하느라 그런 건지, 아니면 멀리서부터 보이는 Opera House 때문이었는지)   

@@ -44,6 +44,49 @@ RE_EXTERNAL = re.compile(r'^(?:[a-zA-Z][\w+.-]*:|//|/|#)')
 # 비ASCII 문자는 인코딩하지 않는다 - 이미 정상 동작하고 읽기도 쉽다.
 ASSET_REF_ENCODE = {" ": "%20", "(": "%28", ")": "%29", "<": "%3C", ">": "%3E"}
 
+# 티스토리 "접기/펼치기"(moreless) 태그 잔재.
+#
+# 원본은  <span class="txt_fold" tt_moretext=" <b>보기</b> " tt_lesstext=" <b>닫기</b> "
+# tt_id="1"><div class="moreless_content">본문</div></span>  이었는데, 익스포트가
+# tt_moretext 속성값 안의 HTML 을 진짜 태그로 재파싱해버려서 아래처럼 깨졌다:
+#
+#   <span class="txt_fold"> <b>보기</b> </span>
+#   <div class="moreless_content">보기</b> " tt_lesstext=" <b>닫기</b> " tt_id="1">본문...
+#
+# 즉 moreless_content 여는 태그와 본문 사이에 속성 찌꺼기가 끼어 있다. 닫는
+# </div> 는 원래 자리에 남아 있으므로 본문 범위는 건드릴 필요가 없다. 일부 글은
+# 통째로 HTML 이스케이프되어 있어 tt_id 뒤가 '>' 가 아니라 '&gt;' 다.
+#
+# 라벨의 위치는 원본이 어떻게 깨졌느냐에 따라 둘 중 하나다:
+#   (a) txt_fold 가 라벨을 살려둔 경우 - 찌꺼기가 `라벨</b> " tt_lesstext=...` 처럼
+#       맨 텍스트로 시작한다. 화면에 이미 나온 라벨의 중복이므로 통째로 버린다.
+#   (b) txt_fold 가 `<span style=` 만 남기고 깨진 경우 - 찌꺼기가 `<b>라벨</b>` 로
+#       시작하며 이게 유일한 라벨이다. 이건 남긴다.
+RE_MORELESS_JUNK = re.compile(
+    r'(<div class="moreless_content">)(<b>.*?</b>)?.*?tt_id="\d+"\s*(?:>|&gt;)', re.S)
+
+# <ttml ... /> - 티스토리 자체 이미지 마크업. 가리키는 cfileNN.uf@... 이미지는
+# 익스포트에 없다(같은 이미지가 바로 앞 <figure class="fileblock"> 로 이미 나온다).
+#
+# 속성 파싱은 포기하고 '<ttml' 부터 닫는 '/>' 까지를 통째로 잡는다 - tt_caption 값에
+# 따옴표와 '>' 가 이스케이프 없이 섞여 있어서(tt_caption="사진출처: <a href="...">씨네21</a>")
+# 제대로 된 태그 파싱이 불가능하기 때문. 대신 폭주를 막는 가드를 둔다:
+#   - 다른 <ttml 을 건너뛰지 않는다
+#   - 600자 안에서 '/>' 를 못 찾으면 포기한다 (속성이 산산조각 나서 닫는 '/>' 가
+#     한참 뒤에 있는 글이 하나 있는데, 거기까지 삼키면 본문이 통째로 날아간다)
+RE_TTML_TAG = re.compile(r"<ttml\b(?:(?!<ttml).){0,600}?/>", re.S)
+
+# 위 태그도 moreless 와 같은 식으로 깨진 것들이 있다. tt_caption 값에 '>' 가 들어
+# 있으면(예: tt_caption="&lt;범죄의 재구성>") 익스포트 파서가 거기서 태그를 닫아버려
+# 캡션 뒷부분과 나머지 속성들이 본문으로 샌다:
+#
+#   ... 느낌이 났다." tt_link1="" tt_w1="200px" tt_h1="" ... />
+#
+# 캡션 텍스트는 진짜 본문이므로 살리고, 앞의 떠돌이 따옴표부터 '/>' 까지만 지운다.
+# RE_TTML_TAG 를 먼저 적용해 멀쩡한 <ttml> 을 없앤 뒤에 써야 한다 - 안 그러면 이
+# 정규식이 멀쩡한 태그의 tt_class="..." 부터 갉아먹는다.
+RE_TTML_JUNK = re.compile(r'"\s*(?:tt_\w+="[^"]*"\s*)+/?>')
+
 
 def is_relative(url):
     """외부 URL(http:, mailto:, //, /, #)이 아닌 글 폴더 기준 상대경로인가."""
@@ -259,6 +302,8 @@ def convert(post_id, taken_slugs, dry_run):
     out_dir = os.path.join(BLOG, y, mo, dirname)
     if not dry_run:
         os.makedirs(out_dir, exist_ok=True)
+    body = RE_MORELESS_JUNK.sub(lambda m: m.group(1) + (m.group(2) or ""), body)
+    body = RE_TTML_JUNK.sub("", RE_TTML_TAG.sub("", body))
     body = simplify_fileblocks(body)
     body, removed = move_assets(body, post_dir, out_dir, dry_run)
     md = add_truncate(markdownify(body, heading_style="ATX", strip=["font", "center"]).strip())

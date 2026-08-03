@@ -22,8 +22,6 @@ Tommy Page - A Shoulder To Cry On
 
 **가사는 다음과 같습니다. (가사 보기 클릭)** 
 
-가사는 다음과 같습니다. (가사 보기 클릭) " tt\_lesstext=" **다시 닫겠습니다. (닫기 클릭)** " tt\_id="1">  
-  
 Life is full of lots of ups and downs  
 But the distance feels further  
 when it's headed for the ground  

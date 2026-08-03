@@ -38,7 +38,7 @@ Wallace & Gromit: The Curse of the Were-Rabbit
   
  **Wallace & Gromit: The Curse of the Were-Rabbit 계속 보기** 
 
-Wallace & Gromit: The Curse of the Were-Rabbit 계속 보기 " tt\_lesstext=" " tt\_id="1"> 내가 나 스스로에게 놀라웠던 사실은 호주에서 포스터를 처음 봤을 때부터 (즉, 한글 번역된 자막 보기 전부터), 숱하게 많은 예고편과 홍보물, 신문기사 등을 봤으면서 "왜 Were-Rabbit을 보며 Were-Wolf (늑대인간)을 떠올리지 않았을까" 싶었던 점이다.  
+내가 나 스스로에게 놀라웠던 사실은 호주에서 포스터를 처음 봤을 때부터 (즉, 한글 번역된 자막 보기 전부터), 숱하게 많은 예고편과 홍보물, 신문기사 등을 봤으면서 "왜 Were-Rabbit을 보며 Were-Wolf (늑대인간)을 떠올리지 않았을까" 싶었던 점이다.  
   
 만약 제목 (원제)에서부터 숨겼으면 월레스가 거대토끼가 되는 건 일종의 반전이 될 수도 있었겠지만 (좀 일찍 드러나긴 하지만) 감독은 정면승부를 벌인 것이리라 싶다. 오히려 우리나라 번역 제목이 "토끼인간..." 이 아니라 "거대 토끼..." 인 점이 의아스럽다.  
   

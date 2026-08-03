@@ -37,8 +37,6 @@ tags:
 
 **Eat It 가사보기** 
 
-Eat It 가사보기 " tt\_lesstext=" **Eat It 가사 그만보기** " tt\_id="1">  
-  
 How come you're always such a fussy young man  
 어째서 넌 그렇게 까다로운 녀석인거야.  
 Don't want no Captain Crunch, don't want no Raison Bran  

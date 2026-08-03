@@ -15,10 +15,10 @@ tags:
 <!-- truncate -->
 
 그래서 나는 ?  
-[mpg.jpg](./mpg.jpg)Constantly in motion, you bring pleasure to many, but are often hidden away." tt\_link="" tt\_w="300px" tt\_h="90px" tt\_alt="" />  
+[mpg.jpg](./mpg.jpg)Constantly in motion, you bring pleasure to many, but are often hidden away.  
 그리고,  
   
-[debian.jpg](./debian.jpg)Once you finally open your shell they're apt to love you." tt\_link="" tt\_w="300px" tt\_h="90px" tt\_alt="" />  
+[debian.jpg](./debian.jpg)Once you finally open your shell they're apt to love you.  
   
 출처 : [BBspot](http://bbspot.com)  
 [**Which File Extension Are You?**](http://bbspot.com/News/2004/10/extension_quiz.php)  

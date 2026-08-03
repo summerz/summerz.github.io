@@ -17,7 +17,7 @@ tags:
 
 <!-- truncate -->
 
-**[보려면 클릭] (click to show)**" tt\_lesstext="" tt\_id="1">  
+**[보려면 클릭] (click to show)**  
   
 
 [Can't display this flash media](http://sound.tistory.com/attachment/1109470494.swf)

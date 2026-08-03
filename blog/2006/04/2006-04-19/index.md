@@ -22,9 +22,7 @@ aka 시리아나
 심지어 다른 영화들과 달리 이 영화는 줄거리를 대충 알고 보는 것도 괜찮다. 이 영화의 원작은 전직 CIA 요원이자 작가인 로버트 베어 (Robert Baer)의 책 "See No Evil: The True Story of a Ground Soldier in the CIA's War on Terrorism , Crown"인데, 소설이 아니라 회고록이기 때문이다.  
   
 
-**시리아나의 뜻**
-
- (클릭) " tt\_lesstext=" **시리아나의 뜻** (닫기) " tt\_id="1">   
+**시리아나의 뜻**   
   
 시리아나는 시리아 혹은 팍스 시리아나를 의미하는 단어이다. 조금 더 정확한 뜻은 다음과 같다. ([위키피디아의 설명](http://en.wikipedia.org/wiki/Syriana_%28politics%29)도 위와 거의 유사하다.)  
   
@@ -36,9 +34,7 @@ aka 시리아나
 
   
 
-**영화의 줄거리**
-
- (클릭) " tt\_lesstext=" **영화의 줄거리** (닫기) " tt\_id="2">   
+**영화의 줄거리**   
   
 다음은 필름2.0에서 설명하는 영화의 줄거리  
   

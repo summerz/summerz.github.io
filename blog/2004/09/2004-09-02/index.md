@@ -42,7 +42,6 @@ tags:
   
  **[보고 듣기]**.. 
 
-[보고 듣기].. " tt\_lesstext=" " tt\_id="1">
 > **September Second**  
 > (play 버튼을 누르면 시작됩니다.)   
 >   

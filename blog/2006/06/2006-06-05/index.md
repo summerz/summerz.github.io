@@ -20,8 +20,6 @@ tags:
 
 **[가사 보기 클릭]** 
 
-[가사 보기 클릭] " tt\_lesstext=" **[가사 닫기]** " tt\_id="1">  
-  
 Ladies up in here tonight   
 No fightin', no fightin'   
 We got the refugees up in here   

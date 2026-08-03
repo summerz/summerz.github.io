@@ -56,8 +56,6 @@ aka Signs, M. Night Shyamalan's Signs
 
 **대화 내용 보기 (클릭)** 
 
-대화 내용 보기 (클릭) " tt\_lesstext=" **대화 내용 닫기** " tt\_id="1">  
-  
 People break down into two groups  
 when they experience something lucky.  
   

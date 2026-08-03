@@ -17,7 +17,7 @@ tags:
 
 잡담 몇 개를 얽어주는 인물은 바로 이 사람, 배우 겸 감독 [데니스 듀건 (Dennis Dugan)](http://www.imdb.com/name/nm0240797/).  
   
-[dennis\_dugan.jpg](./dennis_dugan.jpg)1946년, Illinois Wheaton 출생" tt\_link="" tt\_w="199px" tt\_h="245px" tt\_alt="" />  
+[dennis\_dugan.jpg](./dennis_dugan.jpg)1946년, Illinois Wheaton 출생  
 **2** **블루문특급 (Moonlighting)**  
   
 얼마전 집에서 개인정비(!) 중일 때 우연히 블루문특급 (원제 Moonlighting)을 보게 되었다. 알고 보니 [CNTV](http://www.cntv.co.kr)에서 방송하고 있었던 것. 오랜만에 보니 요즘 드라마들에 비해서는 좀 어설프기도 하고 허전하기도 했지만 데이빗과 매디가 티격태격 싸우는 모습은 여전히 정겨웠다.  

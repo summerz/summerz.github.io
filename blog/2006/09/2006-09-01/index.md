@@ -57,4 +57,4 @@ tags:
 
   
 [doyeon-2.jpg](./doyeon-2.jpg)
-'저 예쁘죠?' 하는 포즈" tt\_link="" tt\_w="500px" tt\_h="771px" tt\_alt="" />
+'저 예쁘죠?' 하는 포즈

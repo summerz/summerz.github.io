@@ -87,9 +87,6 @@ Circular Quay에 내려서-
   
  <b>[The Rocks Market 사진들 (보려면 클릭)]</b>
 
-[The Rocks Market 사진들 (보려면 클릭)]" tt\_lesstext=" **[닫기]** " tt\_id="1">   
-
-
 ![](./20041024-9.jpg)
 
 

@@ -36,5 +36,5 @@ tags:
   
 - 이상하게 제목이 <짝패>와 헷갈린다. 방금도 영화 정보 찾느라 검색하는데 '짝패'라고 치고는 '이상하다?' 싶었다.  
   
-<범죄의 재구성> 느낌이 났다." tt\_link1="" tt\_w1="200px" tt\_h1="286px" tt\_alt1="" tt\_filename2="cfile8.uf@17207F0D4AC03CEE4C7AD4.jpg" tt\_type2="img" tt\_caption2="막상 비교해보니 달랐지만." tt\_link2="" tt\_w2="200px" tt\_h2="286px" tt\_alt2="" />  
+<범죄의 재구성> 느낌이 났다.  
 [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=57723) / [![](http://summerz.pe.kr/img/icon-kmdb-small.gif)](http://kmdb.or.kr/movie/md_basic.asp?nation=K&p_dataid=07435)
