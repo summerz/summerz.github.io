@@ -70,7 +70,7 @@ const config = {
           // 기본 이미지 변환/자동링크보다 먼저 돌아야 image·text 노드를 볼 수 있다.
           beforeDefaultRemarkPlugins: [
             require('./src/remark/imageFigure'),
-            require('./src/remark/youtubeEmbed'),
+            require('./src/remark/embedLinks'),
           ],
           postsPerPage: 10,
           showReadingTime: true,
