@@ -18,7 +18,7 @@ tags:
 
 그래서, 내심 불안해하던 차에 ~~드림~~[리얼팩토리](http://realfactory.net/ "[http://realfactory.net/]로 이동합니다.")의 위대한 리승환 수령이 자기는 [Disaster but Beauty한 소니 X10](http://www.realfactory.net/1309 "[http://www.realfactory.net/1309]로 이동합니다.")을 쓰기 때문에 필요없다며 쿨하고 시크하게 박스 하나를 선물하더군요. 그것은 바로 [3M Mobile Shield](http://mobileshield.co.kr/ "[http://mobileshield.co.kr/]로 이동합니다.").
 
-![](./사진 1.jpg)
+![](./사진%201.jpg)
 
 제가 관련 지식이 없어서 그런지 몰라도 - 이런 보호 필름들 볼 때마다 좀 웃기는 게 있는데, 제품마다 정말 별의별 첨단 공법을 다 사용하고 있다는 겁니다. 이깟 필름 하나에! (물론 관련 계열 종사자분들은 화내시겠죠;; ) 이 제품만 하더라도 3M Paint Protection Film (PPF) 제조기술과 3M Scotch 접착기술을 사용했다고 하죠.
 
@@ -38,7 +38,7 @@ tags:
 
 참, 패키지 내에 극세사 천이 들어있더군요. 평상시 모니터나 핸드폰 액정을 닦으려고 찾아보면 없어서 아쉬운 극세사 천을 얻었다는 것에 한번 더 만족;
 
-![](./사진 2.jpg)
+![](./사진%202.jpg)
 
 **3줄 요약)**
 

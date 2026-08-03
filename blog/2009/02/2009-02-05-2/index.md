@@ -26,7 +26,7 @@ GOOD
 
 [Ultimate Todos](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=293006734&mt=8) ★★★★★  
   
-[![](./사진 093.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=293006734&mt=8)요즘 유행하는 GTD 방법론을 따르는 개인 일정 관리 어플입니다. 사실 저는 언젠가 맥을 사서 씽크를 하리라는 야심에 [Things](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284971781&mt=8)를 계속 사용하고 있기는 합니다만, Ultimate Todos 를 먼저 구입했더라면 참 좋아라 했을 겁니다. ^^  
+[![](./사진%20093.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=293006734&mt=8)요즘 유행하는 GTD 방법론을 따르는 개인 일정 관리 어플입니다. 사실 저는 언젠가 맥을 사서 씽크를 하리라는 야심에 [Things](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=284971781&mt=8)를 계속 사용하고 있기는 합니다만, Ultimate Todos 를 먼저 구입했더라면 참 좋아라 했을 겁니다. ^^  
   
 기본적인 일정 입력 기능과 각종 리스팅 (overdue, today, scheduled) 및 업무별 우선 순위 (priority), 여러가지 아이콘, 음성 녹음 기능까지 (아이팟 터치는 마이크가 필요합니다만) 정말 많은 기능을 지원합니다.  
   
@@ -41,7 +41,7 @@ GOOD
 [My Word Coach](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=296564066&mt=8) ★★★★  
   
 
-![](./사진 094.png)
+![](./사진%20094.png)
 
 
 
@@ -62,7 +62,7 @@ GOOD
 [Fluke](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=301098873&mt=8) ★★★  
   
 
-![](./사진 091.png)
+![](./사진%20091.png)
 
 
 
@@ -86,7 +86,7 @@ NOT GOOD NOT BAD
 [Touchgrind](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=297694601&mt=8)  
   
 
-![](./사진 092.png)
+![](./사진%20092.png)
 
 
 

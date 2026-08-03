@@ -39,10 +39,20 @@ RE_HREF_ATTR = re.compile(r'\bhref="([^"]+)"')
 # 외부 URL(스킴 있음/프로토콜상대/루트절대/앵커) 판별 - 이런 건 절대 건드리지 않는다.
 RE_EXTERNAL = re.compile(r'^(?:[a-zA-Z][\w+.-]*:|//|/|#)')
 
+# 마크다운 이미지/링크 목적지 파싱을 깨뜨리는 문자들 - 물리적 파일명은 그대로
+# 두고(공백 유지) 마크다운 안의 참조 문자열만 퍼센트 인코딩한다. 한글 등
+# 비ASCII 문자는 인코딩하지 않는다 - 이미 정상 동작하고 읽기도 쉽다.
+ASSET_REF_ENCODE = {" ": "%20", "(": "%28", ")": "%29", "<": "%3C", ">": "%3E"}
+
 
 def is_relative(url):
     """외부 URL(http:, mailto:, //, /, #)이 아닌 글 폴더 기준 상대경로인가."""
     return not RE_EXTERNAL.match(url.strip())
+
+
+def encode_asset_ref(name):
+    """마크다운 참조 문자열에서 파싱을 깨뜨리는 문자만 퍼센트 인코딩한다."""
+    return "".join(ASSET_REF_ENCODE.get(c, c) for c in name)
 
 # 티스토리 파일첨부 위젯: <a> 안에 블록레벨 div(filename/size)가 중첩돼 있어서
 # markdownify 를 거치면 링크 텍스트 중간에 빈 줄이 생기고 무효한 링크가 된다.
@@ -187,7 +197,8 @@ def move_assets(body, post_dir, out_dir, dry_run):
         taken[name] = cand
         if not dry_run:
             shutil.copy2(cand, os.path.join(out_dir, name))
-        return f'{attr}="./{name}"'
+        # 물리 파일명(name)은 공백 그대로 저장 - 마크다운 참조 문자열만 인코딩
+        return f'{attr}="./{encode_asset_ref(name)}"'
 
     body = RE_ASSET.sub(repl, body)
     return body, removed[0]

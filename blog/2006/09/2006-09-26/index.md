@@ -64,5 +64,5 @@ aka 博士の愛した數式, The Professor and His Beloved Equation
 [박사가사랑한수식-3.jpg](./박사가사랑한수식-3.jpg)  
 참, 소설을 읽어보진 않았지만 소설 속에서는 파출부가 화자라고 해요. 영화 속에서는 후에 수학 선생님이 된 그의 아들 루트가 화자로 나오죠. 그리고, 박사가 사랑한 수식은 바로 오일러의 등식입니다. 수학에서 중요한 상수들이 모두 나온 식이어서 가장 아름다운 등식이라 불리우는 식이죠.  
   
-[오일러의 등식.png](./오일러의 등식.png)  
+[오일러의 등식.png](./오일러의%20등식.png)  
 [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://imdb.com/title/tt0498505/) / [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=59032)

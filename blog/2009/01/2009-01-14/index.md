@@ -26,7 +26,7 @@ GOOD
 
 [AppSniper](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=294706770&mt=8) ★★★★★  
   
- [![](./사진 003.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=294706770&mt=8)지름신이 만들어낸 악마의 어플 되겠습니다. 현재 할인 중인 어플들의 리스트를 보여줍니다. 리스트는 매일 갱신되고, 할인폭 및 무료 어플의 경우에는 따로 구분을 해서 보여줍니다. 한 마디로 천재적인 경제 생활을 영위할 수 있게 하는 어플인 거죠.  
+ [![](./사진%20003.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=294706770&mt=8)지름신이 만들어낸 악마의 어플 되겠습니다. 현재 할인 중인 어플들의 리스트를 보여줍니다. 리스트는 매일 갱신되고, 할인폭 및 무료 어플의 경우에는 따로 구분을 해서 보여줍니다. 한 마디로 천재적인 경제 생활을 영위할 수 있게 하는 어플인 거죠.  
   
 구입하고는 싶은데, 가격이 비싸서 구경만 하는 어플의 경우 Snipes라는 메뉴에 등록을 해두면 자신이 설정한 적정 가격까지 할인이 됐을 때 알려주는 기능도 가지고 있습니다. 철저하지요. 스나이퍼라고 할만 합니다.  
   
@@ -42,7 +42,7 @@ GOOD
 
 [FStream](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289892007&mt=8) ★★★★☆  
   
-[![](./사진 002.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289892007&mt=8)어정쩡한 이름과는 다르게 매우 좋은 음악 스트리밍 어플입니다.  
+[![](./사진%20002.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289892007&mt=8)어정쩡한 이름과는 다르게 매우 좋은 음악 스트리밍 어플입니다.  
   
 기본적으로 프리셋으로 입력된 서버에서 많은 웹방송 주소를 검색할 수 있습니다. ShoutCast, SourceMac,
 iTunes 이렇게 세 곳인데, 대부분 연결이 잘 됩니다. 저의 경우에는 클래식 방송하는 곳을 주로 듣는데 끊기지도 않고
@@ -58,7 +58,7 @@ iTunes 이렇게 세 곳인데, 대부분 연결이 잘 됩니다. 저의 경우
 
 [Galcon](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=285820845&mt=8) ★★★★  
   
-[![](./사진 001.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=285820845&mt=8)매우 독특한 방식의 전략 게임입니다. 화면에는 행성이 있고, 행성에는 숫자가 있습니다. 플레이어의 행성을 클릭하고 적 행성이나 중립 행성을 클릭하면 숫자만큼 화살표가 나가서 공격을 합니다. 적/중립 행성의 숫자를 모두 없애면 플레이어의 행성으로 변합니다. 즉, 행성에 써진 숫자가 공격지수과 방어지수를 나타내는 거죠. 게임의 목표는 자신의 행성을 늘려가면서 모든 적 행성을 없애는 것이죠.  
+[![](./사진%20001.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=285820845&mt=8)매우 독특한 방식의 전략 게임입니다. 화면에는 행성이 있고, 행성에는 숫자가 있습니다. 플레이어의 행성을 클릭하고 적 행성이나 중립 행성을 클릭하면 숫자만큼 화살표가 나가서 공격을 합니다. 적/중립 행성의 숫자를 모두 없애면 플레이어의 행성으로 변합니다. 즉, 행성에 써진 숫자가 공격지수과 방어지수를 나타내는 거죠. 게임의 목표는 자신의 행성을 늘려가면서 모든 적 행성을 없애는 것이죠.  
   
 설명하기가 꽤나 까다로운 게임인데, 직접 해보면 게임 각 행성당 별이 있고, 일
 단 해보면 대부분 바로 이해가 될 거라 생각합니다. 무료 버전인 [Galcon Lite](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=290775344&mt=8)를 통해 어떤 게임인지 대략 확인할 수 있을 거예요.  
@@ -71,7 +71,7 @@ iTunes 이렇게 세 곳인데, 대부분 연결이 잘 됩니다. 저의 경우
 
 [Crazy Tanks](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=300479860&mt=8) ★★★★  
   
-[![](./사진 008.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=300479860&mt=8)탱크 게임입니다. 아이폰 터치의 위치 감지 센서를 이용해서 기울기로 방향을 조절하며 터치로 대포를 쏘아 적 탱크를 물리치면 한 스테이지가 끝납니다.  
+[![](./사진%20008.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=300479860&mt=8)탱크 게임입니다. 아이폰 터치의 위치 감지 센서를 이용해서 기울기로 방향을 조절하며 터치로 대포를 쏘아 적 탱크를 물리치면 한 스테이지가 끝납니다.  
   
 난이도도 그렇게 높지 않고 저렴한 가격에 즐겁게 할 수 있는 게임입니다. $1 만 더 비쌌어도 별점이 뚝뚝 떨어질 듯;  
   
@@ -81,7 +81,7 @@ iTunes 이렇게 세 곳인데, 대부분 연결이 잘 됩니다. 저의 경우
 
 [Fieldrunners](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=292421271&mt=8) ★★★☆  
   
-[![](./사진 006.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=292421271&mt=8)언젠가부터 선풍적인 인기를 끌며 거의 하나의 장르로 굳어지기 시작한 타워 디펜스류 게임입니다.  
+[![](./사진%20006.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=292421271&mt=8)언젠가부터 선풍적인 인기를 끌며 거의 하나의 장르로 굳어지기 시작한 타워 디펜스류 게임입니다.  
   
 총 4개의 타워를 세울 수 있는데, 공격할 수 있는 유닛의 종류가 나뉘지 않고 모든 타워는 모든 유닛을 공격할 수 있습니다. 타워별로 지상 유닛만 공격할 수 있다든지, 공중 유닛만 공격할 수 있다든지 하는 게임들이 많죠.  
   
@@ -96,7 +96,7 @@ NOT GOOD NOT BAD
 
 [Wurdle](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=287712243&mt=8)  
   
-[![](./사진 007.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=287712243&mt=8)각각의 알파벳을 터치 & 드래그해서 단어를 만들어서 정해진 시간 안에 (기본 2분) 좋은 점수를 얻는 것이 이 게임의 목적입니다. 영어 단어 공부도 할 겸해서 구입해봤는데, 제 목적과는 조금 다른 하드코어한 게임이예요.  
+[![](./사진%20007.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=287712243&mt=8)각각의 알파벳을 터치 & 드래그해서 단어를 만들어서 정해진 시간 안에 (기본 2분) 좋은 점수를 얻는 것이 이 게임의 목적입니다. 영어 단어 공부도 할 겸해서 구입해봤는데, 제 목적과는 조금 다른 하드코어한 게임이예요.  
   
 실제로 사용이 되는 단어보다는 짧지만 사전에는 존재하는 그런 단어들 위주로 공략할 수 밖에 없는 구조이다 보니 학습 효과는 거의 없다고 보시면 됩니다;;; (게임으로 공부를 하겠다는 발상이 우선 잘못된...-\_-)  
   
@@ -111,7 +111,7 @@ BAD
 
 [Bonsai Blast](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=298410235&mt=8)  
   
-[![](./사진 005.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=298410235&mt=8)레일을 타고 이동하는 구슬들 중에서 같은 색의 구슬을 3개 이상 붙이면 사라지는 게임입니다. 이런 류의 게임들은 많죠. 아이팟 터치 게임 중에서도 당장 [Blackbeard's Assult](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=294739283&mt=8)나 [Puzzleloop Free](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289689048&mt=8) 같은 게임이 같은 게임이라고 할 수 있습니다.  
+[![](./사진%20005.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=298410235&mt=8)레일을 타고 이동하는 구슬들 중에서 같은 색의 구슬을 3개 이상 붙이면 사라지는 게임입니다. 이런 류의 게임들은 많죠. 아이팟 터치 게임 중에서도 당장 [Blackbeard's Assult](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=294739283&mt=8)나 [Puzzleloop Free](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=289689048&mt=8) 같은 게임이 같은 게임이라고 할 수 있습니다.  
   
 원래 이런 류의 게임을 좋아하는 건 사실인데, 가격이 비쌉니다. 심지어 Puzzleloop Free 같은 게임을 알고 있었는데, 제가 뭘 기대하고 이 게임을 샀을까요? 알다가도 모르겠습니다. @.@  
   
@@ -123,7 +123,7 @@ BAD
 
 [SATURDAY NIGHT FEVER: DANCE!](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=299382375&mt=8)  
   
-[![](./사진 004.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=299382375&mt=8)NDSL의 응원단 같은 종류의 게임이라고 생각하면 됩니다. 음악과 리듬에 맞춰서 정해진 곳을 콕콕 찌르는 게임입니다. 특별한 기능, 특이한 룰 같은 거 없이 거의 동일하죠. NDSL처럼 터치의 특성을 가장 잘 이용한 게임 중의 하나이긴 히자만 대신 곡이 너무 적습니다.  
+[![](./사진%20004.png)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=299382375&mt=8)NDSL의 응원단 같은 종류의 게임이라고 생각하면 됩니다. 음악과 리듬에 맞춰서 정해진 곳을 콕콕 찌르는 게임입니다. 특별한 기능, 특이한 룰 같은 거 없이 거의 동일하죠. NDSL처럼 터치의 특성을 가장 잘 이용한 게임 중의 하나이긴 히자만 대신 곡이 너무 적습니다.  
   
 음악을 미리 확인하고 샀어야 했는데, 그런 것 없이 그냥 사버렸기 때문에 누굴 탓할 수도 없죠. 4곡을 다 플레이하고 나면 할 게 없습니다.  
   
