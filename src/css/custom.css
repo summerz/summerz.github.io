@@ -56,8 +56,11 @@
 /* 이미지 + 설명을 한 덩어리로 묶는 박스.
    `![](./x.jpg "설명")` 이 src/remark/imageFigure.js 를 거쳐 figure 로 바뀐다. */
 .mdFigure {
-  /* 이미지 폭에 맞게 줄어든다 - 박스가 본문 폭까지 늘어나면 사진이 떠 보인다 */
-  display: table;
+  /* 테두리는 이미지와 캡션을 함께 감싼다. fit-content 라 짧은 캡션에서는 이미지
+     폭에 맞게 줄어들고, 캡션이 길면 본문 폭까지만 늘어난다.
+     (figcaption 에 display:table-caption 을 쓰면 안 된다 - 테이블 caption 은
+     border 박스 바깥에 그려져서 테두리가 이미지만 감싸게 된다.) */
+  width: fit-content;
   max-width: 100%;
   margin: 1.5rem auto;
   padding: 0.75rem;
@@ -71,8 +74,6 @@
 }
 
 .mdFigure figcaption {
-  display: table-caption;
-  caption-side: bottom;
   padding-top: 0.6rem;
   text-align: center;
   font-size: 0.85em;
