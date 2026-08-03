@@ -3,6 +3,7 @@ slug: 2010/09/30
 title: "우리 세대가 구글로 인해 얻은 잘못된 기준"
 date: 2010-09-30T00:22:44
 authors: summerz
+draft: true
 ---
 
 많이 언급되면 좋은 것이다

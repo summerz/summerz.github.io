@@ -3,6 +3,7 @@ slug: 2010/10/18
 title: "pirate"
 date: 2010-10-18T17:10:10
 authors: summerz
+draft: true
 ---
 
 시카고 대학의 역사학자인 Adrian Johns의 책 Piracy: The Intellectual Property Wars from Gutenberg to Gates (2010)에 piracy의 어원에 대한 언급이 나옵니다. 그 중 일부를 아래에 옮깁니다.

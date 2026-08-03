@@ -3,6 +3,7 @@ slug: 2008/12/02
 title: "써머즈의 미투데이 - 2008년 12월 1일"
 date: 2008-12-02T00:30:18
 authors: summerz
+draft: true
 ---
 
 * 너희들 이름이 뭐니?

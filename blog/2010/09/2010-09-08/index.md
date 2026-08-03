@@ -3,6 +3,7 @@ slug: 2010/09/08
 title: "소셜 서비스는 셸터다"
 date: 2010-09-08T11:24:36
 authors: summerz
+draft: true
 ---
 
 **shel·ter [ʃéltər]**

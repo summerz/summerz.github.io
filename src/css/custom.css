@@ -29,6 +29,20 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+/* 프론트매터에 draft: true 인 글 표시(src/theme/BlogPostItem/Header/Title).
+   배포 빌드에는 드래프트가 없으므로 개발 서버에서만 보인다. */
+.draftBadge {
+  display: inline-block;
+  margin-bottom: 0.4rem;
+  padding: 0.1rem 0.5rem;
+  border-radius: var(--ifm-global-radius);
+  background-color: var(--ifm-color-warning-contrast-background);
+  color: var(--ifm-color-warning-contrast-foreground);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+}
+
 /* 글이 연속해서 나오는 목록(/blog, 태그별, 작성자별)에서 글 사이 구분선 */
 .blog-list-page article + article,
 .blog-tags-post-list-page article + article,

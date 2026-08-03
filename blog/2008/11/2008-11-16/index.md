@@ -3,6 +3,7 @@ slug: 2008/11/16
 title: "써머즈의 미투데이 - 2008년 11월 15일"
 date: 2008-11-16T00:30:12
 authors: summerz
+draft: true
 ---
 
 * 때 아닌 낚시

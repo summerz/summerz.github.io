@@ -3,6 +3,7 @@ slug: 2009/05/22-2
 title: "느리지만 꼼꼼하게 - 트위터 알아가기 #2"
 date: 2009-05-22T19:20:20
 authors: summerz
+draft: true
 ---
 
 reply

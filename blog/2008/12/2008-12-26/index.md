@@ -3,6 +3,7 @@ slug: 2008/12/26
 title: "써머즈의 미투데이 - 2008년 12월 25일"
 date: 2008-12-26T00:30:13
 authors: summerz
+draft: true
 ---
 
 * 펄님의 크리스마스 [선물](http://www.yes24.com/Goods/FTGoodsView.aspx?goodsNo=3204719&CategoryNumber=001001025007004)이 왔습니다 잘 읽겠습니다(멋져요 특별기고 열심히 공부하겠습니다 me2photo)[2008-12-25 20:13:22](http://me2day.net/summerz/2008/12/25#20:13:22)

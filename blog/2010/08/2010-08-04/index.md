@@ -3,6 +3,7 @@ slug: 2010/08/04
 title: "싸이월드 탈퇴"
 date: 2010-08-04T19:37:09
 authors: summerz
+draft: true
 ---
 
 싸이월드 탈퇴

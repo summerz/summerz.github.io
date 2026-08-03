@@ -3,6 +3,7 @@ slug: 2010/08/04-2
 title: "포털과 Open API"
 date: 2010-08-04T19:38:48
 authors: summerz
+draft: true
 ---
 
 왜 우리나라 포털에서 제공하는 Open API 로 재밌는 걸 만드는 사람들이 적을까?

@@ -3,6 +3,7 @@ slug: 2009/10/11
 title: "왜 우리나라에서는 원작자가 사라질까..."
 date: 2009-10-11T03:44:10
 authors: summerz
+draft: true
 ---
 
 <http://en.wikipedia.org/wiki/Superstar_(Delaney_and_Bonnie_song)>

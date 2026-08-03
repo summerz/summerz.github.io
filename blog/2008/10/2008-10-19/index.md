@@ -3,6 +3,7 @@ slug: 2008/10/19
 title: "써머즈의 미투데이 - 2008년 10월 18일"
 date: 2008-10-19T00:30:44
 authors: summerz
+draft: true
 ---
 
 * glen hansard의 say it to me now 라이브 클립을 1시간째 틀어놓고 듣고 있다(me2mobile i didn't understand at that time)[2008-10-18 01:18:30](http://me2day.net/summerz/2008/10/18#01:18:30 "퍼머링크")

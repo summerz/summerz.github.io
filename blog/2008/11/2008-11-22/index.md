@@ -3,6 +3,7 @@ slug: 2008/11/22
 title: "써머즈의 미투데이 - 2008년 11월 21일"
 date: 2008-11-22T00:30:08
 authors: summerz
+draft: true
 ---
 
 * 크크 센스 작렬

@@ -3,6 +3,7 @@ slug: 2008/11/17
 title: "써머즈의 미투데이 - 2008년 11월 16일"
 date: 2008-11-17T00:30:09
 authors: summerz
+draft: true
 ---
 
 * 안녕 지심도

@@ -43,8 +43,12 @@ const config = {
     {src: 'https://platform.twitter.com/widgets.js', async: true, charset: 'utf-8'},
   ],
 
-  // a / d 로 이전·다음 글(또는 목록 페이지) 이동
-  clientModules: [require.resolve('./src/clientModules/keyboardNav.js')],
+  clientModules: [
+    // a / d 로 이전·다음 글(또는 목록 페이지) 이동
+    require.resolve('./src/clientModules/keyboardNav.js'),
+    // 클라이언트 라우팅으로 들어온 글의 트윗 카드 다시 그리기
+    require.resolve('./src/clientModules/tweetWidgets.js'),
+  ],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -69,15 +73,24 @@ const config = {
         blog: {
           // 기본 이미지 변환/자동링크보다 먼저 돌아야 image·text 노드를 볼 수 있다.
           beforeDefaultRemarkPlugins: [require('./src/remark/figures')],
-          // 태그가 없는 글은 아직 드래프트로 본다. Docusaurus 의 draft: true 와
-          // 같은 규칙으로, 개발 서버에서는 그대로 보이고 배포 빌드에서만 빠진다.
-          // 공개하려면 태그를 달면 된다.
+          // 공개 상태는 프론트매터 draft 가 정한다. 없으면 공개, draft: true 면
+          // 드래프트(개발 서버에서는 보이고 배포 빌드에서는 빠진다).
+          // 태그를 안 단 글은 아직 정리가 덜 된 글이므로 공개를 막는다 - 조용히
+          // 빼면 뭐가 빠졌는지 모르니 빌드를 세운다.
           async processBlogPosts({blogPosts}) {
-            if (process.env.NODE_ENV !== 'production') return undefined;
-            const published = blogPosts.filter((p) => p.metadata.tags.length);
-            const n = blogPosts.length - published.length;
-            if (n) console.log(`[draft] 태그 없는 글 ${n}편을 빌드에서 제외`);
-            return published;
+            const bare = blogPosts.filter(
+              (p) => !p.metadata.tags.length && !p.metadata.frontMatter.draft,
+            );
+            if (bare.length) {
+              throw new Error(
+                `태그 없이 공개된 글이 ${bare.length}편 있습니다. ` +
+                  `태그를 달거나 프론트매터에 draft: true 를 넣으세요.\n` +
+                  bare
+                    .map((p) => `  ${p.metadata.source.replace('@site/', '')}`)
+                    .join('\n'),
+              );
+            }
+            return undefined;
           },
           postsPerPage: 10,
           showReadingTime: true,

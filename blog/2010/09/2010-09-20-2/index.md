@@ -3,6 +3,7 @@ slug: 2010/09/20-2
 title: "트위터 대화 중에서 - 굿 다운로드와 배드 다운로드 #ournet"
 date: 2010-09-20T14:26:39
 authors: summerz
+draft: true
 ---
 
 capcold a)이익의 불공평 분배에 대한 문제제기와 b)그러니 너희 모두 공평하게 굶게해줄께의 경계를 모르는 이들이, 열린 정보활용이라는 진취적 목표에 자꾸 먹칠하지 말아줬으면. http://3.ly/wkPG (via @EconomicView)

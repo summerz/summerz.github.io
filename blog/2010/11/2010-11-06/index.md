@@ -3,6 +3,7 @@ slug: 2010/11/06
 title: "이해할 순 없었겠지"
 date: 2010-11-06T02:18:42
 authors: summerz
+draft: true
 ---
 
 스스로 나를 생각해봐도 찌질한데

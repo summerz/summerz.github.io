@@ -3,6 +3,7 @@ slug: 2010/08/04-3
 title: "안드로이드와 아이폰의 사소한 UI 차이"
 date: 2010-08-04T19:40:13
 authors: summerz
+draft: true
 ---
 
 전체적으로 풀터치 스크린을 표방하지만

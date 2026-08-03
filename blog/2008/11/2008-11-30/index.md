@@ -3,6 +3,7 @@ slug: 2008/11/30
 title: "써머즈의 미투데이 - 2008년 11월 29일"
 date: 2008-11-30T00:30:08
 authors: summerz
+draft: true
 ---
 
 * 오픈한지 일주일도 안된 오뎅바

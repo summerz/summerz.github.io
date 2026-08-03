@@ -3,6 +3,7 @@ slug: 2006/05/26
 title: "한국적 액션"
 date: 2006-05-26T17:13:03
 authors: summerz
+draft: true
 ---
 
 **무질서한 격투의 미학**  

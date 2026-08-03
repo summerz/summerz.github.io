@@ -3,6 +3,7 @@ slug: 2011/03/04
 title: "post-pc device"
 date: 2011-03-04T00:49:35
 authors: summerz
+draft: true
 ---
 
 잡스의 예전 인터뷰 영상들을 처음 본 이후로 계속 생각해 보는 것들이 있습니다.
