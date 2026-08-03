@@ -33,6 +33,7 @@ Mozilla/4.0 (compatible; DAUMOA-video; +http://ws.daum.net/aboutkr.html)
 다음은 예전부터 구글의 검색엔진을 사용하고 있는 거 아니었나요?  
   
 ![](./daum-websearch-google.gif)  
+
 Powered by Google 이 된지 좀 됐잖아요.  
 그런데, 이제 슬슬 구글 검색엔진을 떼어버리려고 하는가 보군요. (혹시 계약기간 만료 뭐 이런 건가요?) 그래도 그렇지 오래 쉰 건 알겠지만 갑자기 막 긁어대니 놀랐잖아요;;;  
   
@@ -41,4 +42,5 @@ Powered by Google 이 된지 좀 됐잖아요.
 ![](./daum-websearch-daum-main.gif)  
   
 ![](./daum-websearch-daum.gif)  
+
 아직 워밍업 중인가요? 제 블로그 이름을 쳐도 다른 주소부터 나오네요;;;

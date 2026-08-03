@@ -11,6 +11,7 @@ tags:
 ---
 
 ![](./blade2.jpg)  
+
 Blade II  
 
 <!-- truncate -->

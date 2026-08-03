@@ -29,6 +29,7 @@ tags:
 저는 Firefox를 0.9 때부터 썼습니다. 지금은 당당히 버전 1.0인 Firefox는 점점 더 제 마음에 들고 있습니다.  
   
 ![](http://channy.creation.net/community/data/archive/firefox1.0open.gif)  
+
 제가 Firefox를 쓰는 이유는 우선 편하기 때문입니다. 기본적으로 지원되는 탭 브라우징 기능과 스마트 검색창, 라이브 북마크 등의 기능과 함께 전세계 개발자가 만들어내는 여러가지 extension들을 붙여서 쓰면 더 편해지지요. 각종 extension에 대한 정보는 [update.mozilla.or.kr](http://update.mozilla.or.kr)와 [update.mozilla.org](https://update.mozilla.org)에서 확인하고 다운받을 수 있습니다.  
   
 두번째 이유는 빠르기 때문입니다. 제가 쓰는 컴퓨터는 사양이 그리 좋지 않은 노트북이고, 인터넷 라인도 그리 빠르지 않은 라인인데, IE보다 Firefox에서의 페이지 로딩 속도가 훨씬 더 빠릅니다. 속도에 대해서는 환경마다 다른 듯 합니다. 어떤 사람들은 IE와 차이를 못느끼겠다고 하니까요. 제 경우엔 Firefox가 더 빠릅니다. (다만, 처음 프로그램이 로딩되는 시간은 IE보다 시간이 조금 더 걸리지만, 전체적인 느낌은 IE보다 가볍습니다.)  

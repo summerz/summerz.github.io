@@ -23,6 +23,7 @@ tags:
 
 **2007.12.25.** **타임지의 2007년 올해의 사진들 (The Year in Images)**  
 ![](./time-2007-the-year-in-images.jpg)  
+
 총 48장이 선정되었다. 그 사진은 그 중 한 장. 출처는 당연히 [타임지](http://www.time.com/time/photogallery/0,29307,1695460,00.html).  
 [▶ 보러가기](http://www.time.com/time/photogallery/0,29307,1695460,00.html)
 

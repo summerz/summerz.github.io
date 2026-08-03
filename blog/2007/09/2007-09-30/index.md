@@ -11,6 +11,7 @@ tags:
 ---
 
 ![](./search-live-com-weird.gif)  
+
 오른쪽의 리퍼러들 (search.live.com/~) 말고 왼쪽의 호스트명들을 한번 보세요.  
 
 <!-- truncate -->

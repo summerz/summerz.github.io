@@ -17,9 +17,7 @@ tags:
 
 그리고 링크의 형태는 다음과 같습니다.
 
-```
-http://itunes.apple.com/{종류 - 여기서는 앱}/{앱 이름]/{앱의 고유 ID}?mt=8
-```
+> http://itunes.apple.com/{종류 - 여기서는 앱}/{앱 이름]/{앱의 고유 ID}?mt=8
 
 - [http://itunes.apple.com/app/facebook/id284882215?mt=8](http://itunes.apple.com/app/facebook/id284882215?mt=8) (페이스북 앱)
 - [http://itunes.apple.com/app/skype/id304878510?mt=8](http://itunes.apple.com/app/skype/id304878510?mt=8) (스카이프 앱)

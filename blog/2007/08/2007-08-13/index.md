@@ -21,15 +21,18 @@ tags:
 [▶ 기사보기](http://star.moneytoday.co.kr/view/stview.php?no=2007080811522252542&EVEC)  
   
 ![](./아무로경성대.jpg)  
+
 KBS 드라마 경성스캔들의 세트장  
   
 ![](./아이엠샘.jpg)  
+
 KBS 드라마 아이엠샘
 
   
 
 **2007.8.9.** **올드독의 TV 노트 - 열심히 했다고 좋아할 순 없잖아요**  
 ![](./올드독-열심히했다고.gif)  
+
 '열심히'와 '잘'은 분명히 다르다. 물론 그에 대한 우리의 판단도 (직업이 아닌 이상) 때때로 다르다.  
   
 [▶ 보러가기](http://www.magazinet.co.kr/Articles/article_view.php?article_id=46489&mm=007003000)

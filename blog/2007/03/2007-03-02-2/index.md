@@ -11,6 +11,7 @@ tags:
 ---
 
 ![](./battle-of-wits.jpg)  
+
 aka 墨攻, Battle of Wits  
 
 <!-- truncate -->

@@ -1,23 +1,24 @@
 /**
- * 한 줄에 링크만 있으면 임베드로 바꾼다. (유튜브 영상, 트위터/X 트윗)
+ * 이미지와 임베드 링크에 캡션 상자(.mdFigure)를 씌운다.
  *
- *   https://www.youtube.com/watch?v=y8AWFf7EAc4   -> 유튜브 플레이어
- *   https://twitter.com/user/status/16267341411   -> 트윗 카드
+ * 규칙은 하나다 - 문단의 첫 줄이 이미지 하나 또는 임베드 링크 하나뿐이면,
+ * 그 문단의 나머지 줄이 캡션이다.
  *
- * 바로 다음 줄(빈 줄 없이)에 글이 있으면 그 줄은 임베드의 캡션이 되어 이미지
- * 캡션과 같은 상자에 함께 들어간다.
+ *   ![](./x.jpg)                                  https://www.youtube.com/watch?v=y8AWFf7EAc4
+ *   사진출처: 씨네21                                 Jeff Buckley - Hallelujah
  *
- *   https://www.youtube.com/watch?v=y8AWFf7EAc4
- *   Jeff Buckley - Hallelujah                    -> 플레이어 + 캡션
+ * 캡션을 붙이고 싶지 않으면 빈 줄로 띄운다. 옛 문법 `![](./x.jpg "설명")` 도
+ * 그대로 동작한다(다음 줄 캡션이 있으면 그쪽이 이긴다).
  *
- * 문단의 첫 줄이 URL 하나로만 이루어져 있을 때만 바꾼다.
+ * 첫 줄이 URL 하나로만 이루어져 있을 때만 임베드로 바꾼다.
  *   - 문장 중간에 인용한 링크는 그대로 둔다.
  *   - [제목](주소) 처럼 링크 텍스트가 따로 있으면 그대로 둔다. 임베드로 바꾸면
  *     글쓴이가 붙인 제목이 사라진다(유튜브 10글, 트위터 16곳).
  *   - 이미 손으로 <iframe>/<blockquote> 를 넣어둔 글은 링크가 아니라 영향 없다.
  *
- * beforeDefaultRemarkPlugins 로 등록하므로 GFM 자동링크가 돌기 전이다. 그래서
- * 맨 텍스트 노드로 오고, <...> 로 감싼 경우에만 link 노드로 온다 - 둘 다 받는다.
+ * beforeDefaultRemarkPlugins 로 등록하므로 Docusaurus 의 이미지 변환과 GFM
+ * 자동링크가 돌기 전이다. 그래서 이미지는 아직 image 노드고, 링크는 맨 텍스트
+ * 노드로 온다(<...> 로 감싼 경우에만 link 노드). 셋 다 받는다.
  *
  * 트윗 카드는 docusaurus.config.js 가 전역으로 불러오는 platform.twitter.com
  * widgets.js 가 그린다. 트윗이 지워졌으면 링크 그대로 남는다.
@@ -44,10 +45,9 @@ const EMBEDS = [
 ];
 
 function embedHtml(url) {
-  const trimmed = url.trim();
   for (const {match, html} of EMBEDS) {
-    const m = match.exec(trimmed);
-    if (m) return html(m[1], trimmed);
+    const m = match.exec(url);
+    if (m) return html(m[1], url);
   }
   return null;
 }
@@ -68,32 +68,48 @@ function trimLead(nodes) {
   return out;
 }
 
-// 문단의 첫 줄이 URL 이면 {url, caption} 을. caption 은 둘째 줄부터의 노드들이고
-// 없으면 빈 배열이다. 첫 줄이 URL 로만 이루어져 있지 않으면 null - 문장 중간에
-// 인용한 링크나 [제목](주소) 는 건드리지 않는다.
-function splitEmbed(paragraph) {
+function hasImage(node) {
+  return (
+    node.type === 'image' || (node.children || []).some(hasImage)
+  );
+}
+
+// 문단 첫 줄이 이미지/임베드면 {lead, caption}, 아니면 null.
+function leadAndCaption(paragraph) {
   const [first, ...rest] = paragraph.children;
   if (!first) return null;
 
-  if (first.type === 'link') {
+  if (first.type === 'image') {
+    let caption = trimLead(rest);
+    if (!caption.length && first.title) {
+      caption = [{type: 'text', value: first.title}];
+    }
+    first.title = null;
+    return {lead: {type: 'paragraph', children: [first]}, caption};
+  }
+
+  let url;
+  let caption;
+  if (first.type === 'text') {
+    const nl = first.value.indexOf('\n');
+    url = (nl === -1 ? first.value : first.value.slice(0, nl)).trim();
+    const tail = nl === -1 ? '' : first.value.slice(nl + 1).replace(/^\s+/, '');
+    caption = tail ? [{...first, value: tail}, ...rest] : trimLead(rest);
+  } else if (first.type === 'link') {
     // <주소> 자동링크는 텍스트가 곧 주소라서 바꿔도 잃는 게 없다.
     const label =
       first.children.length === 1 && first.children[0].type === 'text'
         ? first.children[0].value.trim()
         : null;
     if (label !== first.url) return null;
-    return {url: first.url, caption: trimLead(rest)};
+    url = first.url;
+    caption = trimLead(rest);
+  } else {
+    return null;
   }
-  if (first.type !== 'text') return null;
 
-  const nl = first.value.indexOf('\n');
-  const head = (nl === -1 ? first.value : first.value.slice(0, nl)).trim();
-  if (!head) return null;
-  const tail = nl === -1 ? '' : first.value.slice(nl + 1).replace(/^\s+/, '');
-  return {
-    url: head,
-    caption: tail ? [{...first, value: tail}, ...rest] : trimLead(rest),
-  };
+  const html = url && embedHtml(url);
+  return html ? {lead: {type: 'html', value: html}, caption} : null;
 }
 
 function walk(node) {
@@ -105,25 +121,32 @@ function walk(node) {
     walk(child);
     if (child.type !== 'paragraph') continue;
 
-    const found = splitEmbed(child);
-    const html = found && embedHtml(found.url);
-    if (!html) continue;
+    const found = leadAndCaption(child);
+    // 캡션 자리에 이미지가 또 있으면 캡션이 아니라 줄줄이 붙은 이미지들이다.
+    if (!found || found.caption.some(hasImage)) continue;
 
+    const isEmbed = found.lead.type === 'html';
     if (!found.caption.length) {
-      children[i] = {type: 'html', value: html};
+      // 캡션이 없으면 상자를 씌우지 않는다. 이미지는 원래 문단 그대로 둔다.
+      if (isEmbed) children[i] = found.lead;
       continue;
     }
     children.splice(
       i,
       1,
-      {type: 'html', value: `<figure class="mdFigure mdFigure--embed">${html}<figcaption>`},
+      {
+        type: 'html',
+        value: `<figure class="mdFigure${isEmbed ? ' mdFigure--embed' : ''}">`,
+      },
+      found.lead,
+      {type: 'html', value: '<figcaption>'},
       {type: 'paragraph', children: found.caption},
       {type: 'html', value: '</figcaption></figure>'},
     );
-    i += 2;
+    i += 4;
   }
 }
 
-module.exports = function embedLinks() {
+module.exports = function figures() {
   return (tree) => walk(tree);
 };

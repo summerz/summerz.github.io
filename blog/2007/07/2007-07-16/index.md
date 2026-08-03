@@ -40,6 +40,7 @@ tags:
 
 **2007.7.9.** **명화에서 느끼는 색채감**  
 ![](./color_inspiration.jpg)  
+
 이거 왠지 제대로 웹2.0 스러운데? :p  
   
 [▶ 보러가기](http://www.colourlovers.com/blog/2007/06/20/color-inspiration-from-the-masters-of-painting/)

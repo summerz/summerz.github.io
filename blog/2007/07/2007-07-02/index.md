@@ -39,6 +39,7 @@ tags:
 부천만화정보센터의 한국만화박물관은 오는 24일부터 4월 30일까지 당대 최고 인기 잡지였던 ‘보물섬’을 기억하는 ‘보물섬 탐험전’을 연다. 아아, 기억난다. 정말 몇 번씩이고 책장이 닳도록 읽었던 기억들…  
   
 ![](./bomulsum.jpg)  
+
 이미지 출처 : [김지희의 CoolHot](http://www.kimjihee.com/tt/index.php?pl=333)  
 [▶ 보러가기](http://www.kimjihee.com/tt/index.php?pl=333)
 

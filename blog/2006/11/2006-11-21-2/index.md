@@ -9,4 +9,5 @@ tags:
 ---
 
 ![](./ie_toy_preview_release.gif)  
+
 오랫동안 기다린 [루저님](http://loser.miniwini.com/wp/)의 [IE Toy 2.0 프리뷰](http://loser.miniwini.com/wp/archives/1342)가 드디어 나왔습니다. :)

@@ -7,7 +7,12 @@
  * 링크를 찾아 click() 한다. Docusaurus 의 Link 가 렌더한 <a> 라서
  * 클릭하면 전체 새로고침 없이 클라이언트 라우팅으로 이동한다.
  */
-const KEYS = {a: '.pagination-nav__link--prev', d: '.pagination-nav__link--next'};
+// e.key 가 아니라 e.code(물리적 키 위치)를 본다. 한글 입력기가 켜져 있으면
+// e.key 는 'ㅁ' 이나 'Process' 로 오고, 자판 배열이 다르면 또 달라진다.
+const KEYS = {
+  KeyA: '.pagination-nav__link--prev',
+  KeyD: '.pagination-nav__link--next',
+};
 
 function isTyping(el) {
   if (!el) return false;
@@ -21,7 +26,7 @@ if (typeof document !== 'undefined') {
     if (e.metaKey || e.ctrlKey || e.altKey) return;
     if (isTyping(e.target)) return;
 
-    const selector = KEYS[e.key.toLowerCase()];
+    const selector = KEYS[e.code];
     if (!selector) return;
 
     const link = document.querySelector(selector);

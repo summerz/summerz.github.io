@@ -11,6 +11,7 @@ tags:
 ---
 
 ![](./roh.gif)  
+
 이미지 출처 : [자바월드](http://jawol.net)  
 
 <!-- truncate -->

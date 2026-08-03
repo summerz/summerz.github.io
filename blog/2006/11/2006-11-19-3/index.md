@@ -10,6 +10,7 @@ tags:
 ---
 
 ![](./news20.gif)  
+
 [**http://www.news2.co.kr**](http://www.news2.co.kr)  
 
 <!-- truncate -->

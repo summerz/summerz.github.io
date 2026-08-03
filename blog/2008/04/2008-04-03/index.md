@@ -10,6 +10,7 @@ tags:
 ---
 
 ![](./weird-referer.gif)  
+
 엄밀히 말하면 기묘한 리퍼러는 아니다.  
 
 <!-- truncate -->

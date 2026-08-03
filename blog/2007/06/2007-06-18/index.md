@@ -46,6 +46,7 @@ http://images.google.co.kr/images?hl=ko&q=paris&gbv=2&imgtype=face
 
 **2007.6.11.** **내맘대로 가구배치를 해보는 플로어 플래너**  
 ![](./floorplanners.gif)  
+
 가구 배치하기 전에 모양이 어떨지 미리 한번 테스트 해 볼 수 있는 서비스. 여러모로 재밌고 유용할 듯.  
   
 [▶ 하러가기](http://www.floorplanner.com/)

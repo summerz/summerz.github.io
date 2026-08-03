@@ -48,6 +48,7 @@ tags:
   
 ![](http://editor.freechal.com/GetFile.asp?mnf=0%3FGCOM22%3F59%3F6932555%3F00001241940010036231.jpg)  
 ![](http://editor.freechal.com/GetFile.asp?mnf=0%3FGCOM22%3F59%3F6932555%3F00001241940010036232.jpg)  
+
 예를 들면 이런 거.  
   
 [▶ 보러가기](http://talkbox.freechal.com/BBS/FcTalkTalkContent.asp?GrpId=0&ObjSeq=59&PageNo=1&DocId=6932555)

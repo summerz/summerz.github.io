@@ -55,6 +55,7 @@ tags:
 **6** 결국 아이디가 도용된 경우는 화면 좌측의 [**신고합니다**](http://help.naver.com/exMailQuestion.asp?category_id1=TBOX20030930000073) 버튼을 눌러서 처리해야 합니다.  
   
 ![](./naver-id-check-6.png)  
+
 한가지 주의할 점은 신분증을 첨부해야 합니다. 스캔해서 문의사항과 함께 첨부하면 될 듯 합니다.  
   
 ![](./naver-id-check-7.png)

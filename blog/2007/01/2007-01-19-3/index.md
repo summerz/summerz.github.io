@@ -11,6 +11,7 @@ tags:
 ---
 
 ![](./bookmark-.gif)  
+
 기사출처 : [데일리안 - 네이버, 온라인 북 시장 점령(?)](http://www.dailian.co.kr/news/n_view.html?id=54570)  
 소제목 : 즐겨 찾기 기능이 강화 된 ‘네이버 북마크 2.0’ 선보여  
 

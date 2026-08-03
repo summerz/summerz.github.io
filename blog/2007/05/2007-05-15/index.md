@@ -11,6 +11,7 @@ tags:
 ---
 
 ![](./spider-man-3-20060725011611388.jpg)  
+
 Spider-Man 3  
 
 <!-- truncate -->

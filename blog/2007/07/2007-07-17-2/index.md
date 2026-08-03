@@ -12,6 +12,7 @@ tags:
 ---
 
 ![](./alert_access_control.gif)  
+
 몇일 전에 윈도우를 새로 깔고 여러 보안패치를 적용했습니다.  
 
 <!-- truncate -->

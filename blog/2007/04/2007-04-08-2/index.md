@@ -12,6 +12,7 @@ tags:
 ---
 
 ![](./breakfast-on-pluto.jpg)  
+
 aka Breakfast on Pluto  
 
 <!-- truncate -->

@@ -11,11 +11,13 @@ tags:
 ---
 
 ![](./lezhin-egloos.gif)  
+
 레진님이 사라졌지만,  
 
 <!-- truncate -->
 
 ![](./lezhin-tistory.gif)  
+
 아직 티스토리로 옮겨간 건 아니라는;  
 뭐 그냥 그렇다는 얘기;;;  
   

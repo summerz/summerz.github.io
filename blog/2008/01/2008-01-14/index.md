@@ -11,6 +11,7 @@ tags:
 
 **2008.1.13** **맥북이 도킹하는 아이맥 출현 루머**  
 ![](./imac-dock3.jpg)  
+
 이미지 출처 : [기즈모도](http://gizmodo.com/339918/apple-docking-patent-works-perfectly-with-ultra+slim-macbook)  
 (언제나 그렇지만) 이쯤되면 애플 루머를 전달하는 사람들도 애플이 무서울 것 같다;  
 

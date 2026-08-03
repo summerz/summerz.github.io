@@ -32,6 +32,7 @@ tags:
 
 **2007.12.18.** **승리의 곰플, 승리의 KMP! (한나라당을 위한 코덱 강의)**  
 ![](./한나라당-코덱.png)  
+
 이미지 출처 : [traces of slow time](http://slowtime.dnip.net/slowtime/130)  
 원문 출처 : [디시인사이드 2007 대선갤러리](http://gall.dcinside.com/list.php?id=2007daesun&no=144960)  
 이병박이 본인 입으로 BBK라는 투자자문회사를 설립했다는 말을 하는 동영상을 한나라당에 팔아먹으려다 잡혔는데도 그 동영상이 그대로 공개된 이유. ... 그럴싸 한데?  

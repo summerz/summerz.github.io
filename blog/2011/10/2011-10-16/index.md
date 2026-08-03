@@ -14,14 +14,17 @@ tags:
 
 아빠는 호세 나바에즈, 딸은 알렉사 나바에즈. 알렉사는 미국 나이로 올해 6살이래요. 알렉사가 제법 아빠의 연주에 신경쓰며 진지하게 노래를 부르는 게 너무 귀여워요.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/L64c5vT3NBw?si=ciaStMRNLQT_unJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-*Home - Edward Sharpe and The Magnetic Zeros Acoustic Cover (이건 5살인 작년 말에 녹음한 거군요)*
+https://youtube.com/watch?v=L64c5vT3NBw
+Home - Edward Sharpe and The Magnetic Zeros Acoustic Cover (이건 5살인 작년 말에 녹음한 거군요)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/M2WGaTr_7Io?si=7YUw9qYL4jOhuD17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>*Be My Baby - The Ronettes Acoustic Cover*
+https://youtube.com/watch?v=M2WGaTr_7Io
+Be My Baby - The Ronettes Acoustic Cover
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/tHqFWYYOUAM?si=mdBSp9Wwt7qxA0W8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>*What's up (What's Going On)- 4 Non Blondes Acoustic Cover*
+https://youtube.com/watch?v=tHqFWYYOUAM
+What's up (What's Going On)- 4 Non Blondes Acoustic Cover
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/YBlLaOf1DV8?si=pdMCRpOOMA3-U56z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>*Wake Me Up When September Ends - Green Day Acoustic Cover*
+https://youtube.com/watch?v=YBlLaOf1DV8
+Wake Me Up When September Ends - Green Day Acoustic Cover
 
 * * *
 
@@ -31,7 +34,8 @@ tags:
 
 그리고, 락 페스티벌에도 출연했네요.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/vjTv_WZIVPQ?si=14GnPxYDO7fJFfLf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>*Indiefest 7 San Diego - Father and Daughter Jorge and Alexa Narvaez perform "Home"*
+https://www.youtube.com/watch?v=vjTv_WZIVPQ
+Indiefest 7 San Diego - Father and Daughter Jorge and Alexa Narvaez perform "Home"
 
 참, 이 부녀가 부른 노래들이 아이튠즈에도 올라가 있더군요.
 

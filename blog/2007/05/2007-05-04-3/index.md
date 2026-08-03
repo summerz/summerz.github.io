@@ -11,6 +11,7 @@ tags:
 ---
 
 ![](./six_sense.jpg)  
+
 Sixth Sense.  
 
 <!-- truncate -->

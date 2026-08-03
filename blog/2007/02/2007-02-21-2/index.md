@@ -10,6 +10,7 @@ tags:
 ---
 
 ![](./dollar-sign.jpg)  
+
 씨네21에 실린 소설 광고이다.  
 
 <!-- truncate -->

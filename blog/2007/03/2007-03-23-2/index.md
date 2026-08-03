@@ -37,18 +37,23 @@ tags:
 **1** [영문 구글](http://www.google.com)에 접속한다. 만약 자동으로 [구글 코리아](http://www.google.co.kr)로 포워딩 된다면 이 주소로 간다. http://www.google.com/ig?hl=en  
   
 ![](./google-search-1.gif)  
+
 **2** preferences를 클릭해 들어간다.  
   
 ![](./google-search-2.gif)  
+
 **3** 중하단부에 있는 SafeSearch Filtering 옵션을 Do not filter my search results로 변경하고,  
   
 ![](./google-search-3.gif)  
+
 **4** 저장(save)을 하면 필터링을 해지한 것이다.  
   
 ![](./google-search-4.gif)  
+
 **5** Images 를 눌러서 Google Images로 간 후 원하는 검색어를 입력한다.  
   
 ![](./google-search-5.gif)  
+
 **6** '음란한' 이미지들이 쏟아져 나온다.  
 (주의: 직장에서 따라하다간 큰 일 날 수도 있다. NSFW!)  
   

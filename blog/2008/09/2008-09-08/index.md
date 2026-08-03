@@ -69,4 +69,5 @@ HTML 및 JS의 최소화 / 적은 HTTP 요청 / Gzip 압축의 적용 그렇지 
 2008.9.6. Tuzki - Bunny Icons (누가 토끼 이모티콘들을 만들었나)  
 These are the works of Wang Momo, a student in animation department of Beijing Broadcasting Institute created this popular lagomorph. 오오, 전세계적인 히트작 이모티콘 시리즈. 이 정도면 팬시 상품으로 나와도 팔리지 않을까?  
 ![http://bunnyfairy.com/pic/tuzki/tuzki_012.gif](http://bunnyfairy.com/pic/tuzki/tuzki_012.gif)  
+
 [▶ 확인하기 (영어)](http://bunnyfairy.com/tuzki-bunny-icons)

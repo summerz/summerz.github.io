@@ -12,6 +12,7 @@ tags:
 ---
 
 ![](./secret_sunshine.jpg)  
+
 Secret Sunshine  
 
 <!-- truncate -->

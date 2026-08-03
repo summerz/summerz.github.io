@@ -26,24 +26,29 @@ aka A Prairie Home Companion
 [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://imdb.com/title/tt0420087/) / [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=58599) / [![](http://summerz.pe.kr/img/icon-rt-small.gif)](http://www.rottentomatoes.com/m/prairie_home_companion/)  
   
 ![](./1.jpg)  
+
 이 영화는 픽셔널 다큐멘터리입니다.  
   
 ![](./2.jpg)  
+
 샌드위치를 팔던 한 노부인이 쇼가 끝나는 것을 슬퍼하며 웁니다. 옆에서 천사가 말하죠.  
 참새 한 마리까지도 모두 기억 될 거예요.  
 Every sparrow is remembered.  
   
 ![](./3.jpg)  
+
 그들은 마지막 순간에도 노래를 부릅니다.  
 만약 나에게 친구가 있었다고 한다면, 그 친구는 바로 너일 거야.  
 If ever I have had a friend, you've been that friend to me.  
   
 ![](./4.jpg)  
+
 진행상의 실수에도 당황하지 않고 서로 호흡을 맞추며 광고를 하죠.  
 뭔가 고칠게 생겼다면 덕테입 (다용도 은색 테입)을 찾으세요.  
 When you need to fix something, just reach for a roll of duct tape.  
   
 ![](./5.jpg)  
+
 알트만이 하고 싶었던 말일까요?  
 생방송 라디오 쇼는 절대 뒤를 돌아보지 않아. 그게 미덕이지.  
 나이드는 사람도 없고, 죽는 사람도 없어.  
@@ -51,9 +56,11 @@ We don't look back in radio. That's the beauty of it.
 Nobdoy gets old, nobody dies.  
   
 ![](./6.jpg)  
+
 시대의 흐름을 이유로 라디오 쇼를 없애러 온 해결사는 말이 없습니다.  
 하긴 무슨 할 말이 있겠어요. 자기도 알거예요. 시대의 하수인이라는 걸.  
   
 ![](./7.jpg)  
+
 영화는 그렇게 끝이 납니다. 공연장에 갔다고 생각하고 보세요. 아니 들으세요.  
 편안한 컨트리 음악을 듣다 보면 마음도 편해집니다. 아련해질 정도로 말이죠.
