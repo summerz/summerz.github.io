@@ -80,29 +80,24 @@ function YearIndex({years}) {
   );
 }
 
-function MonthSection({year, month, posts}) {
+// 월 제목 없이 목록만. 월이 바뀌는 자리는 빈 줄(여백)로만 구분한다.
+function MonthGroup({posts}) {
   return (
-    <section className={styles.monthSection}>
-      <Heading as="h3" className={styles.monthTitle}>
-        {year}년 {Number(month)}월 ({posts.length})
-      </Heading>
-      <ul className={styles.postList}>
-        {posts.map((post) => {
-          const {month: m, day} = splitDate(post.metadata.date);
-          return (
-            <li key={post.metadata.permalink} className={styles.postItem}>
-              <Link to={post.metadata.permalink} className={styles.postLink}>
-                <span className={styles.postDate}>
-                  {m}/{day}
-                </span>
-                <span className={styles.postSep}>·</span>
-                <span className={styles.postTitle}>{post.metadata.title}</span>
-              </Link>
-            </li>
-          );
-        })}
-      </ul>
-    </section>
+    <ul className={styles.postList}>
+      {posts.map((post) => {
+        const {year, month, day} = splitDate(post.metadata.date);
+        return (
+          <li key={post.metadata.permalink} className={styles.postItem}>
+            <Link to={post.metadata.permalink} className={styles.postLink}>
+              <span className={styles.postDate}>
+                {year}-{month}-{day}
+              </span>
+              <span className={styles.postTitle}>{post.metadata.title}</span>
+            </Link>
+          </li>
+        );
+      })}
+    </ul>
   );
 }
 
@@ -114,7 +109,7 @@ function YearDetail({year, months}) {
       </a>
       <Heading as="h2">{year}</Heading>
       {months.map(({month, posts}) => (
-        <MonthSection key={month} year={year} month={month} posts={posts} />
+        <MonthGroup key={month} posts={posts} />
       ))}
     </div>
   );

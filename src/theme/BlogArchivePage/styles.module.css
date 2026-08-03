@@ -50,20 +50,15 @@
   margin-bottom: 1rem;
 }
 
-.monthSection {
-  margin-top: 2rem;
-}
-
-.monthTitle {
-  border-bottom: 1px solid var(--ifm-color-emphasis-300);
-  padding-bottom: 0.5rem;
-  margin-bottom: 0.75rem;
-}
-
+/* 월 그룹 사이는 제목 없이 여백으로만 구분 */
 .postList {
   list-style: none;
-  margin: 0;
+  margin: 0 0 1.75rem;
   padding: 0;
+}
+
+.postList:last-child {
+  margin-bottom: 0;
 }
 
 .postItem {
@@ -91,11 +86,6 @@
   flex-shrink: 0;
   color: var(--ifm-color-emphasis-600);
   font-variant-numeric: tabular-nums;
-  min-width: 2.75rem;
-}
-
-.postSep {
-  color: var(--ifm-color-emphasis-500);
 }
 
 .postTitle {
