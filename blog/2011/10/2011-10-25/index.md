@@ -111,9 +111,9 @@ tags:
 
   (유튜브) 피자의 기원에 대한 진실 <a href="https://t.co/kyJnqP5a">https://t.co/kyJnqP5a</a> 한국은 피자의 나라 / 새로운 LG 초콜렛폰 - 동방선사들<a href="https://t.co/Pv4fdOW8">https://t.co/Pv4fdOW8</a> 과 같은 제작사인 듯?
 
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/QizaFkegFcQ?si=VzBQezTZsKSdk5Mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em>The True Origins of Pizza (한글자막)</em>
+  <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/QizaFkegFcQ?si=VzBQezTZsKSdk5Mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em>The True Origins of Pizza (한글자막)</em>
 
-  <iframe width="100%" height="315" src="https://www.youtube.com/embed/51tl3mdOtEY?si=Jy3o7wVE_mZcRORL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em>The new LG Chocolate - Masters from the East</em>
+  <iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/51tl3mdOtEY?si=Jy3o7wVE_mZcRORL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><em>The new LG Chocolate - Masters from the East</em>
 
    = 근데 분명 한국 광고인데 왜 등장인물들이 다 일본이나 중국 등 한국인이 아닌 다른 아시아인들로 보이는 거냐.
 </blockquote>

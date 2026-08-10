@@ -49,38 +49,24 @@ tags:
 
 저런 광고를 대행하는 광고회사들을 찾아봤습니다. 물론 더 많겠죠.
 
-[조인스닷컴 KeywordLink](http://corp.joins.com/subindex.asp?servcode=2731 "[http://corp.joins.com/subindex.asp?servcode=2731]로 이동합니다.")
-
-[다이렉트 키워드 링크](http://www.keywordsconnect.com/ "[http://www.keywordsconnect.com/]로 이동합니다.")
-
-[소나무미디어](http://www.sonamumedia.com/Product.html "[http://www.sonamumedia.com/Product.html]로 이동합니다.")
-
-[KeywordLink](http://www.keywordlink.co.kr/program/ "[http://www.keywordlink.co.kr/program/]로 이동합니다.")
+- [조인스닷컴 KeywordLink](http://corp.joins.com/subindex.asp?servcode=2731 "[http://corp.joins.com/subindex.asp?servcode=2731]로 이동합니다.")
+- [다이렉트 키워드 링크](http://www.keywordsconnect.com/ "[http://www.keywordsconnect.com/]로 이동합니다.")
+- [소나무미디어](http://www.sonamumedia.com/Product.html "[http://www.sonamumedia.com/Product.html]로 이동합니다.")
+- [KeywordLink](http://www.keywordlink.co.kr/program/ "[http://www.keywordlink.co.kr/program/]로 이동합니다.")
 
 저런 광고를 집행하는 언론사 홈페이지를 찾아봤습니다. 물론 더 많겠죠.
 
-[동아일보](http://donga.com/ "[http://donga.com/]로 이동합니다.")
-
-[일간스포츠](http://isplus.joins.com/ "[http://isplus.joins.com/]로 이동합니다.")
-
-[스포츠조선](http://sports.chosun.com/ "[http://sports.chosun.com/]로 이동합니다.")
-
-[한국경제](http://www.hankyung.com/ "[http://www.hankyung.com/]로 이동합니다.")
-
-[파이낸셜뉴스](http://www.fnnews.com/ "[http://www.fnnews.com/]로 이동합니다.")
-
-[이데일리](http://www.edaily.co.kr/ "[http://www.edaily.co.kr/]로 이동합니다.")
-
-[소비자가 만드는 신문](http://www.consumernews.co.kr/ "[http://www.consumernews.co.kr/]로 이동합니다.")
-
-[프레시안](http://www.pressian.com/ "[http://www.pressian.com/]로 이동합니다.")
-
-[한겨레](http://hani.co.kr/ "[http://hani.co.kr/]로 이동합니다.")
-
-[한국아이닷컴](http://www.hankooki.com/ "[http://www.hankooki.com/]로 이동합니다.")
-
-[노컷뉴스](http://www.cbs.co.kr/nocut/ "[http://www.cbs.co.kr/nocut/]로 이동합니다.")
-
-[딴지일보](http://www.ddanzi.com/ "[http://www.ddanzi.com/]로 이동합니다.")
+- [동아일보](http://donga.com/ "[http://donga.com/]로 이동합니다.")ㅌ
+- [일간스포츠](http://isplus.joins.com/ "[http://isplus.joins.com/]로 이동합니다.")
+- [스포츠조선](http://sports.chosun.com/ "[http://sports.chosun.com/]로 이동합니다.")
+- [한국경제](http://www.hankyung.com/ "[http://www.hankyung.com/]로 이동합니다.")
+- [파이낸셜뉴스](http://www.fnnews.com/ "[http://www.fnnews.com/]로 이동합니다.")
+- [이데일리](http://www.edaily.co.kr/ "[http://www.edaily.co.kr/]로 이동합니다.")
+- [소비자가 만드는 신문](http://www.consumernews.co.kr/ "[http://www.consumernews.co.kr/]로 이동합니다.")
+- [프레시안](http://www.pressian.com/ "[http://www.pressian.com/]로 이동합니다.")
+- [한겨레](http://hani.co.kr/ "[http://hani.co.kr/]로 이동합니다.")
+- [한국아이닷컴](http://www.hankooki.com/ "[http://www.hankooki.com/]로 이동합니다.")
+- [노컷뉴스](http://www.cbs.co.kr/nocut/ "[http://www.cbs.co.kr/nocut/]로 이동합니다.")
+- [딴지일보](http://www.ddanzi.com/ "[http://www.ddanzi.com/]로 이동합니다.")
 
 p.s. 사족을 달자면 제일 위에서 예로 든 기사는 기사 자체가 광고입니다. 자동차 회사나 드라마 제작사 혹은 방송사의 보도자료 정도 되겠죠.

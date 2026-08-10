@@ -9,13 +9,11 @@ tags:
   - "상징"
 ---
 
-윤서인이라는 만화가가 연재하는 [야후!코리아](http://kr.news.yahoo.com/ "[http://kr.news.yahoo.com/]로 이동합니다.")의 [조이라이드](http://kr.news.yahoo.com/service/news/shelllist.htm?linkid=toon_series&work_idx=41 "[http://kr.news.yahoo.com/service/news/shelllist.htm?linkid=toon_series&work_idx=41]로 이동합니다.")는 논란이 많기로 유명하죠. **[원사운드와 붙어서 벌었던 키보드 배틀](http://cafe.naver.com/kisetsu.cafe?iframe_url=/ArticleRead.nhn%3Farticleid=16250 "[http://cafe.naver.com/kisetsu.cafe?iframe_url=/ArticleRead.nhn%3Farticleid=16250]로 이동합니다.")**이나 **[클리앙 자작 사건](http://karr.tistory.com/entry/%EC%9C%A4%EC%84%9C%EC%9D%B8%EC%9D%B4-%EC%9A%95%EB%A8%B9%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EC%9D%B4%EC%95%BC%EA%B8%B0 "[http://karr.tistory.com/entry/%EC%9C%A4%EC%84%9C%EC%9D%B8%EC%9D%B4-%EC%9A%95%EB%A8%B9%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EC%9D%B4%EC%95%BC%EA%B8%B0]로 이동합니다.")** 같은 경우는 아는 사람만 아는 그런 공공연한 비밀일 뿐이고, 대부분의 사람들은 친일논쟁, 성상품화 정도로 **[몇몇 논란](http://nang01.cafe24.com/wiki/wiki.php/%EC%A1%B0%EC%9D%B4%EB%9D%BC%EC%9D%B4%EB%93%9C "[http://nang01.cafe24.com/wiki/wiki.php/%EC%A1%B0%EC%9D%B4%EB%9D%BC%EC%9D%B4%EB%93%9C]로 이동합니다.")**만 있나 싶은 정도랄까요?
+윤서인이라는 만화가가 연재하는 [야후!코리아](http://kr.news.yahoo.com/ "[http://kr.news.yahoo.com/]로 이동합니다.")의 [조이라이드](http://kr.news.yahoo.com/service/news/shelllist.htm?linkid=toon_series&work_idx=41 "[http://kr.news.yahoo.com/service/news/shelllist.htm?linkid=toon_series&work_idx=41]로 이동합니다.")는 논란이 많기로 유명하죠. **[원사운드와 붙어서 벌었던 키보드 배틀](http://cafe.naver.com/kisetsu.cafe?iframe_url=/ArticleRead.nhn%3Farticleid=16250 "[http://cafe.naver.com/kisetsu.cafe?iframe_url=/ArticleRead.nhn%3Farticleid=16250]로 이동합니다.")**이나 **[클리앙 자작 사건](http://karr.tistory.com/entry/%EC%9C%A4%EC%84%9C%EC%9D%B8%EC%9D%B4-%EC%9A%95%EB%A8%B9%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EC%9D%B4%EC%95%BC%EA%B8%B0 "[http://karr.tistory.com/entry/%EC%9C%A4%EC%84%9C%EC%9D%B8%EC%9D%B4-%EC%9A%95%EB%A8%B9%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EC%9D%B4%EC%95%BC%EA%B8%B0]로 이동합니다.")** 같은 경우는 아는 사람만 아는 그런 공공연한 비밀일 뿐이고, 대부분의 사람들은 친일논쟁, 성상품화 정도로 [**몇몇 논란**](http://nang01.cafe24.com/wiki/wiki.php/%EC%A1%B0%EC%9D%B4%EB%9D%BC%EC%9D%B4%EB%93%9C "[http://nang01.cafe24.com/wiki/wiki.php/%EC%A1%B0%EC%9D%B4%EB%9D%BC%EC%9D%B4%EB%93%9C]로 이동합니다.")만 있나 싶은 정도랄까요?
 
 <!-- truncate -->
 
 하지만 이번에 소녀시대를 패러디 대상으로 해서 "숙녀시대 과거사진" 이라는 제목으로 올렸던 592화의 경우에는 일이 좀 커지는 것 같습니다.
-
-조이라이드 592화 숙녀시대 과거사진 보기
 
 ![](./p0118-1.jpg)
 

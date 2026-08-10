@@ -49,9 +49,8 @@ p.s. 작년에 엑스팩터에서 1위한 알렉산드리아 버크 (Alexandra B
 
 **관련 링크**
 
-[Rage Against The Machine 홈페이지](http://www.ratm.com/ "[http://www.ratm.com/]로 이동합니다.")
-
-[Rock Pit - Rage Against The Machine](http://www.rockpit.com/ratm/index.php "[http://www.rockpit.com/ratm/index.php]로 이동합니다.")
+- [Rage Against The Machine 홈페이지](http://www.ratm.com/ "[http://www.ratm.com/]로 이동합니다.")
+- [Rock Pit - Rage Against The Machine](http://www.rockpit.com/ratm/index.php "[http://www.rockpit.com/ratm/index.php]로 이동합니다.")
 
 **추가)**
 

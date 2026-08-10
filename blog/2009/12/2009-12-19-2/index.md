@@ -7,7 +7,8 @@ tags:
   - "hooked on music"
 ---
 
-[Rage Against The Machine - Sleep Now In The Fire](http://www.youtube.com/watch?v=wu67yo-3jfw "[http://www.youtube.com/watch?v=wu67yo-3jfw]로 이동합니다.")
+https://www.youtube.com/watch?v=kl4wkIPiTcY
+Rage Against The Machine - Sleep Now In The Fire
 
 <!-- truncate -->
 
@@ -43,7 +44,7 @@ RATM도 앨범으로 돈을 번다,
 
 스스로도 보호할 수 없는 상황을 원하는 것은 아니니.
 
-#
+* * *
 
 내가 좋아하는 - 그들의 애피소드 중 하나는 이 앨범에 실려있는 Sleep Now In The Fire 뮤직비디오에 관련된 이야기.
 
@@ -75,4 +76,4 @@ Michael Moore도 몸싸움을 하고, 결국엔 체포당한다.
 
 **관련 링크**
 
-[MichaelMoore.com - Sleep Now In The Fire](http://www.michaelmoore.com/words/mikes-letter/sleep-now-in-the-fire "[http://www.michaelmoore.com/words/mikes-letter/sleep-now-in-the-fire]로 이동합니다.")
+- [MichaelMoore.com - Sleep Now In The Fire](http://www.michaelmoore.com/words/mikes-letter/sleep-now-in-the-fire "[http://www.michaelmoore.com/words/mikes-letter/sleep-now-in-the-fire]로 이동합니다.")

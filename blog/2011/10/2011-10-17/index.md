@@ -17,7 +17,7 @@ tags:
 
   (유튜브) 한국식 발음 iPhone 4S 음성 키보드 테스트 <a href="http://t.co/iwpMJSfo">http://t.co/iwpMJSfo</a> 정말 J가 이야기한 것처럼 한국 아줌마들 사이에서 아이들 영어실력 인증 테스트기로 쓰이겠;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/StzmFmUFFcM?si=QBv4Ld0NMpkpxIzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/StzmFmUFFcM?si=QBv4Ld0NMpkpxIzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 = 비정상적이고 희한한 교육열, 특히 영어 교육열이 강한 우리나라에서는 충분히 가능한 일 아닐까요? 우리나라에서는 별 것 아닌 전자기기도 교육용으로 타겟팅하면 성공한다는 속설도 있잖아요.
 </blockquote>

@@ -10,50 +10,42 @@ tags:
   - "미셸 공드리"
 ---
 
-예전에 미셸 공드리 (Michel Gondry)에 대한 글을 [**링크**](http://blog.naver.com/zrag/80020941065)한 적이 있다. 미셸 공드리의 스타일을 최대한 간단하게 표현하자면 역시 **시간과 공간의 재배열**이 아닐까 싶다.  
+예전에 미셸 공드리 (Michel Gondry)에 대한 글을 [**링크**](http://blog.naver.com/zrag/80020941065)한 적이 있다. 미셸 공드리의 스타일을 최대한 간단하게 표현하자면 역시 **시간과 공간의 재배열**이 아닐까 싶다.
 
 <!-- truncate -->
 
-어쨌든 이번엔 직접 듣고 보는 첫번째 시간.  
-5편의 뮤직비디오.  
-백문이 불여일견.  
-역시 유튜빙.  
-  
+어쨌든 이번엔 직접 듣고 보는 첫번째 시간.
 
-**Chemical Brothers - Star Guitar**  
-  
-  
+5편의 뮤직비디오.
+
+백문이 불여일견.
+
+역시 유튜빙.
+
+https://www.youtube.com/watch?v=0S43IwBF0uM
+**Chemical Brothers - Star Guitar**
+
 반복적인 리듬이 주를 이루며 그 안에서 변화가 이루어지는 테크노 사운드를 시각적으로 표현해냈다. 처음엔 이게 뭔가 싶다가도 이내 소리와 화면의 규칙성을 발견해내는 자신을 발견할 수 있다.
 
-  
+https://www.youtube.com/watch?v=63vqob-MljQ
+**Kylie Minogue - Come Into My World**
 
-**Kylie Minogue - Come Into My World**  
-  
-  
 지극히 평범하게 시작하는 뮤직비디오. 하지만, 어느새 화면은 시간과 공간이 뫼비우스의 띠처럼 만나며 반복된다.
 
-  
+https://www.youtube.com/watch?v=y6LuwU3LPLE
+**The White Stripes - The Denial Twist**
 
-**The White Stripes - The Denial Twist**  
-  
-  
 보는 순간 지금 보고 있는 영상의 화면비가 혹시 잘못된 거 아니냐는 생각을 들게 만들지만 (당연히) 그럴리가!
 
-  
+https://www.youtube.com/watch?v=I7UvbwCjXUk
+**Steriogram - Walkie Talkie Man**
 
-**Steriogram - Walkie Talkie Man**  
-  
-  
-  
 애플 아이팟 광고에도 쓰인 적이 있는 곡. 뜨개질 실로 소품을 만들고 애니메이팅을 했다. 현실과 판타지가 만나는 부분은 하이라이트.
 
-  
+https://www.youtube.com/watch?v=6CSiU0j_lFA
+**björk - Hyperballad**
 
-**Bjork - Hyperballad**  
-  
-  
 몇가지 영상을 레이어로 쌓아서 홀로그램과 같은 느낌을 만들었다. 그리고, 이 화면은 뷔욕 (aka Björk) 의 곡과 너무나 잘 어울린다. 사운드가 제시하는 것 중의 하나인 미래, 첨단 등의 이미지를 구구절절 설명하지 않고도 너무도 적절히 담아낸 클립이라 생각한다.
 
-  
-이어지는 글 : **미셸 공드리의 뮤직 비디오 #2**  
-관련 글 : **미셸 공드리의 광고 #1**
+- 이어지는 글 : [미셸 공드리의 뮤직 비디오 #2](/blog/2006/10/10)
+- 관련 글 : [미셸 공드리의 광고 #1](/blog/2006/12/11)

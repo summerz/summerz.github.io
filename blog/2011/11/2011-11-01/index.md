@@ -71,7 +71,7 @@ tags:
 
 (유튜브) 휘어지는 스마트폰, 새로운 인터페이스 (비틀기), 노키아 키네틱 디바이스 <a href="https://t.co/QT2WFFx7">youtube.com/watch?v=b4jKWT...</a> 역시 노키아!
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/sSUJepHJ_ZQ?si=aidO-RP-bZFRu43w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/sSUJepHJ_ZQ?si=aidO-RP-bZFRu43w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </blockquote>
 
 * * *

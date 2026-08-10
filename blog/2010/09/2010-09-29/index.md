@@ -19,29 +19,22 @@ tags:
 
 **관련 링크**
 
-[naver 다이어리 - 네이버 서비스 간담회 개최](http://diary.naver.com/150094584286 "[http://diary.naver.com/150094584286]로 이동합니다.")
-
-[Bloter.net - “네이버 제4원소는 소셜”…소셜홈·커뮤니케이터 12월 공개](http://www.bloter.net/archives/39537 "[http://www.bloter.net/archives/39537]로 이동합니다.")
-
-[베를린로그 - 네이버 소셜전략 비판: “That’s not what social is!”](http://www.berlinlog.com/?p=548 "[http://www.berlinlog.com/?p=548]로 이동합니다.")
-
-[칫솔\_초이의 IT 휴게실 - 네이버랜드, 잡상.](http://www.chitsol.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%9E%A1%EC%83%81 "[http://www.chitsol.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%9E%A1%EC%83%81]로 이동합니다.")
-
-[광파리의 글로벌 IT 이야기 - 네이버는 페이스북을 벤치마킹한다](http://blog.hankyung.com/kim215/2973926 "[http://blog.hankyung.com/kim215/2973926]로 이동합니다.")
-
-[디지털타임스 - 네이버, `소셜` 서비스 대폭 강화](http://www.dt.co.kr/contents.html?article_no=2010092902019922752025 "[http://www.dt.co.kr/contents.html?article_no=2010092902019922752025]로 이동합니다.")
+- [naver 다이어리 - 네이버 서비스 간담회 개최](http://diary.naver.com/150094584286 "[http://diary.naver.com/150094584286]로 이동합니다.")
+- [Bloter.net - “네이버 제4원소는 소셜”…소셜홈·커뮤니케이터 12월 공개](http://www.bloter.net/archives/39537 "[http://www.bloter.net/archives/39537]로 이동합니다.")
+- [베를린로그 - 네이버 소셜전략 비판: “That’s not what social is!”](http://www.berlinlog.com/?p=548 "[http://www.berlinlog.com/?p=548]로 이동합니다.")
+- [칫솔\_초이의 IT 휴게실 - 네이버랜드, 잡상.](http://www.chitsol.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%9E%A1%EC%83%81 "[http://www.chitsol.com/entry/%EB%84%A4%EC%9D%B4%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%9E%A1%EC%83%81]로 이동합니다.")
+- [광파리의 글로벌 IT 이야기 - 네이버는 페이스북을 벤치마킹한다](http://blog.hankyung.com/kim215/2973926 "[http://blog.hankyung.com/kim215/2973926]로 이동합니다.")
+- [디지털타임스 - 네이버, `소셜` 서비스 대폭 강화](http://www.dt.co.kr/contents.html?article_no=2010092902019922752025 "[http://www.dt.co.kr/contents.html?article_no=2010092902019922752025]로 이동합니다.")
 
 위의 링크들을 읽고 제가 요약해봤더니 대충 이런 것이더군요.
 
-네이버가 기존 서비스에 소셜 (social) 이라는 요소를 도입한다
-
-소셜 요소를 이끌어가는 서비스는 네이버Me, 네이버Talk, 미투데이이다.
-
-소셜은 소셜인데 네이버 안의 서비스들하고만 소셜할 예정이다.
+- 네이버가 기존 서비스에 소셜 (social) 이라는 요소를 도입한다
+- 소셜 요소를 이끌어가는 서비스는 네이버Me, 네이버Talk, 미투데이이다.
+- 소셜은 소셜인데 네이버 안의 서비스들하고만 소셜할 예정이다.
 
 그래서 저도 한번 생각해 봤습니다.
 
-**한국은 갈라파고스, 네이버는 갈라파고스의 지배자**
+## 한국은 갈라파고스, 네이버는 갈라파고스의 지배자
 
 일본의 휴대폰 산업을 [갈라파고스에 비유](http://www.nytimes.com/2009/07/20/technology/20cell.html "[http://www.nytimes.com/2009/07/20/technology/20cell.html]로 이동합니다.")하고들 하죠. 세계화와 동떨어진 채로 발전을 하는 바람에 일본 내에서만 팔리는 상품을 만들고 해외 시장 (북미, 유럽 등)에 나서지 못하는 현실을 빗댄 거죠.
 
@@ -52,12 +45,11 @@ tags:
 이러한, 한국 온라인이라는 갈라파고스를 지배하는 서비스는 누가 뭐래도 네이버입니다. 네이버는 그동안 오픈을 하지 않는다는 비판을 많이 들어왔죠. 하지만 이미 가두리양식장을 만들어버린 상태를 전제로 광고와 게임을 통해 수익을 내는 구조 (광고 수익이 전체 수익의 60%를 넘고, 게임이 차지하는 비율도 30% 이상) 이다 보니 무엇하나 개방하는 것이 쉽지 않았을 겁니다. 지금의 수익은 갈라파고스를 최대한 이용한 시장이기 때문에 열 수 없는 거죠.
 
 ![](./nhn_profit.gif)
-
 출처 : [전자공시시스템](http://dart.fss.or.kr/ "[http://dart.fss.or.kr/]로 이동합니다.") nhn 검색 결과 중 사업보고서 (2009.12)
 
 인기가 있어도 돈이 안되는 [동영상 서비스 같은 경우 과감하게 치워버릴 생각](http://video.naver.com/ "[http://video.naver.com/]로 이동합니다.")을 하는 네이버 입장에서는 별로 돈이 안되는 뉴스 같은 거나 언론사의 자율권을 존중한다는 명분을 들어 [외부 링크로 돌리고](http://news.naver.com/main/presscenter/subject.nhn "[http://news.naver.com/main/presscenter/subject.nhn]로 이동합니다.") 하는 액션 정도를 보일 수 밖에 없는 거죠.
 
-**페이스북의 성공 vs. 네이버의 가짜 구름**
+## 페이스북의 성공 vs. 네이버의 가짜 구름
 
 페이스북은 전세계 소셜 네트워크 서비스의 대표 중의 대표입니다. [서비스 체류시간은 구글을 앞지른지](http://www.yonhapnews.co.kr/economy/2010/07/07/0303000000AKR20100707196300017.HTML "[http://www.yonhapnews.co.kr/economy/2010/07/07/0303000000AKR20100707196300017.HTML]로 이동합니다.") 오래 전이고, 트래픽도 종종 구글을 앞지르고 있죠. ([알렉사 순위](http://www.alexa.com/topsites "[http://www.alexa.com/topsites]로 이동합니다.")로는 아직 구글이 1위군요)
 
@@ -69,37 +61,26 @@ tags:
 
 그런데, 네이버가 이걸 쉽게 개방할 수 있을까요?
 
-|  |
-| --- |
-| [Closed for business](http://www.flickr.com/photos/14838182@N00/3237164755 "Closed for business")  Closed for business by [maistora](http://www.flickr.com/photos/14838182@N00) [저작자 표시비영리변경 금지](http://creativecommons.org/licenses/by-nc-nd/2.0/kr/) |
-
 그러니까, 개방해야 한다는 당위가 아니라, 어떻게든 피땀흘려 곡식을 모았는데 곳간을 열 용자 (勇子)는 흔치 않다는 거죠. 그리고 슬프지만, 모두 알다시피 네이버는 용자가 아닙니다. 우리나라 인터넷 기업의 선두주자가 용자가 아니라 서운해할 순 있어도 등 떠밀 순 없겠죠. 비난할 순 있어도 비난을 받는 서비스는 곧 망한다는 걸 뜻하는 것도 아니고요.
 
 그런 의미에서, 네이버는 페이스북의 성공으로부터 '자신들과 어울리는 소셜'의 의미를 찾은 게 아닐까요? 페이스북은 사람들과의 관계를 핑계 삼아, 그리고 여러 API를 통해 플랫폼이 되어 시야에서 숨으려 하고 있지만, 네이버는 이미 한국 시장에서 인터넷 그 자체입니다. 티를 낼 수 있는 여건이 훨씬 더 좋죠.
 
-**'인터넷 = 네이버'**로 알고 있는 사람들이 적지 않고, 브라우저 첫 페이지가 다음이나 구글로 되어 있으면 일단 네이버로 이동한 후 서핑을 시작하는 사람들이 적지 않죠. 그런 네이버가 다음 카페나 네이트 싸이월드나 각종 블로그 서비스, 유튜브 등등 외부 서비스들을 좀 모른 척 할 유혹을 느끼는 건 당연하다고 생각해요. 그리고 그 유혹을 실천했으면서도 아닌 척 하는 가식으로 인해 비난을 받는 것도 당연하다고 생각하고요.
+**인터넷 = 네이버**로 알고 있는 사람들이 적지 않고, 브라우저 첫 페이지가 다음이나 구글로 되어 있으면 일단 네이버로 이동한 후 서핑을 시작하는 사람들이 적지 않죠. 그런 네이버가 다음 카페나 네이트 싸이월드나 각종 블로그 서비스, 유튜브 등등 외부 서비스들을 좀 모른 척 할 유혹을 느끼는 건 당연하다고 생각해요. 그리고 그 유혹을 실천했으면서도 아닌 척 하는 가식으로 인해 비난을 받는 것도 당연하다고 생각하고요.
 
-**구글은 검색, 페이스북은 소셜. 그렇다면 네이버는?**
+## 구글은 검색, 페이스북은 소셜. 그렇다면 네이버는?
 
 우연찮게도 몇 달 전에 구글에서도 페이스북의 대항마(!)로 구글 미 (Google Me) 라는 프로젝트를 준비 중이라는 루머가 돌았었죠. 디그닷컴의 [케빈 로즈](http://twitter.com/kevinrose "[http://twitter.com/kevinrose]로 이동합니다.")가 언급해서 널리 알려진 이 프로젝트는 사실 아직 아무 것도 밝혀진 바가 없습니다만 (케빈 로즈는 이 트윗을 삭제했습니다) 페이스북의 전 CTO인 애덤 디안젤로는 Quora.com 에서 이게 [사실임을 밝혔죠](http://www.quora.com/Is-Google-Me-a-fake-rumor-a-misleading-evolutionary-product-update-or-really-a-new-social-network-from-Google "[http://www.quora.com/Is-Google-Me-a-fake-rumor-a-misleading-evolutionary-product-update-or-really-a-new-social-network-from-Google]로 이동합니다.").
 
 곰곰히 생각해 보면 페이스북과 구글은 닮은 점이 있습니다. 구글은 검색이라는 도구를 통해 플랫폼이 되었습니다. 세계인들은 구글링 (googling)을 하죠. (반면 야후잉, 빙잉, 페이스부킹 같은 건 없습니다.) 그리고 유튜빙과 지메일도 하고요. 우리는 공짜로 검색을 하지만 구글은 이 검색 플랫폼에 노출되기 원하는 광고주들로부터 돈을 받습니다. 페이스북도 똑같죠. 역시 소셜 네트워크를 핑계 삼아 스스로를 플랫폼화 하고 있고, 커뮤니티와 엔터테인먼트를 제공합니다. 그 플랫폼을 원하는 광고주들에게 광고를 받고 있죠. 그 플랫폼을 원하는 게임 회사들에게 게임 머니의 수수료를 받고 있고요.
 
-|  |
-| --- |
-| [The droids we're googling for](http://www.flickr.com/photos/49462908@N00/3951143570 "The droids we're googling for")  The droids we're googling for by [Stéfan](http://www.flickr.com/photos/49462908@N00) [저작자 표시비영리동일조건 변경허락](http://creativecommons.org/licenses/by-nc-sa/2.0/kr/) |
-
 네이버도 비슷합니다. 네이버는 이미, 매우 플랫폼이 되었지만 그걸 조금 더 요즘 유행하는 개념으로 포장해보고, 자사 서비스간 유동성을 높여보겠다는 정도의 차이겠지요.
 
 트위터에도 적었지만 네이버의 소셜 전략이 발표되던 날 (어제) 문득 이런 질문이 떠오르더군요.
 
-Q: 구글이 동사로 쓰이는 것처럼 (I google it) 네이버도 동사로 쓰인다면 무슨 뜻이 어울릴까? 타동사여서 **I naver you** 라고 쓰인다면?
-
-A1: 너를 광고했어
-
-A2 : 네 정보를 펌질했어
-
-A3 : 널 가뒀어
+- Q: 구글이 동사로 쓰이는 것처럼 (I google it) 네이버도 동사로 쓰인다면 무슨 뜻이 어울릴까? 타동사여서 **I naver you** 라고 쓰인다면?
+- A1: 너를 광고했어
+- A2 : 네 정보를 펌질했어
+- A3 : 널 가뒀어
 
 네이버를 통해 이 정도 밖에 떠오르지 않는 제가 이상한 건지도 모르죠.
 

@@ -17,7 +17,7 @@ tags:
 
 <!-- truncate -->
 
-**애플 - the biggest startup on the planet**
+## 애플 - the biggest startup on the planet
 
 많은 사람들이 알다시피 애플은 굉장히 혁신적인 회사입니다. 매년 자사의 라인업 제품들을 기가 막히게 업그레이드 해가며 기술과 유행을 선도하는 대표적인 회사죠. 최근 있었던 [D8 (All Things Digital Conference 8)](http://allthingsd.com/d/ "[http://allthingsd.com/d/]로 이동합니다.")에서 그는 어도비를 향한 공격적인 내용의 공개 편지에 대한 질문에 대해 이런 요지의 답변을 합니다.
 
@@ -33,17 +33,9 @@ tags:
 
 하지만 애플과 잡스는 이 혁신을 위해 모든 걸 철저하게 통제하고 싶어합니다. 최근의 [기즈모도 사건](http://www.zdnet.co.kr/ArticleView.asp?artice_id=20100427073413 "[http://www.zdnet.co.kr/ArticleView.asp?artice_id=20100427073413]로 이동합니다.")을 보세요. 논란의 여지는 있지만 그들은 제품이 나오기 전에 모든 걸 통제하고 싶어합니다. 앱스토어도 통제하고 있지요
 
-|  |  |
-| --- | --- |
-| [The Daily Show With Jon Stewart](http://www.thedailyshow.com) | Mon - Thurs 11p / 10c |
-| [Appholes](http://www.thedailyshow.com/watch/wed-april-28-2010/appholes) | |
-| [www.thedailyshow.com](http://www.thedailyshow.com/) | |
-|  | |
-| |  |  |  | | --- | --- | --- | | [Daily Show Full Episodes](http://www.thedailyshow.com/full-episodes/) | [Political Humor](http://www.indecisionforever.com) | [Tea Party](http://www.thedailyshow.com/videos/tag/Tea+Party) | | |
-
 공유? 오픈? 과거에도, 현재도 애플에게 이런 건 어울린 적이 한번도 없습니다. 심지어 마이크로소프트에 밀려서 시장 점유율 2%에 허덕일 때도 그들은 자신들의 기술을 통제하고 라인업을 고도화시키기만 했으니까요.
 
-**구글 - evil or not**
+## 구글 - evil or not
 
 제 생각에 최근 애플의 대척점에 서 있는 회사는 바로 구글입니다. 구글은 우리나라와 일본, 중국 등 몇몇 비영어권 나라에서 고전을 할 뿐이지 [전세계 검색 시장에서는 80%가 넘는 점유율](http://marketshare.hitslink.com/search-engine-market-share.aspx?qprid=4 "[http://marketshare.hitslink.com/search-engine-market-share.aspx?qprid=4]로 이동합니다.")을 보여주고 있죠.
 
@@ -57,19 +49,15 @@ tags:
 
 구글은 중국 정부의 검색 결과 통제에 맞서 [중국 서비스를 철수](http://www.hani.co.kr/arti/international/china/411849.html "[http://www.hani.co.kr/arti/international/china/411849.html]로 이동합니다.")시켰습니다. 또한 한국의 제한적 본인 확인제를 거부하며 [유튜브의 한국어 서비스에서 동영상 업로드와 댓글을 막아버렸죠](http://youtubekrblog.blogspot.com/2009/04/blog-post_08.html "[http://youtubekrblog.blogspot.com/2009/04/blog-post_08.html]로 이동합니다."). 또한 그들은 많은 회사들을 합병하여 일반 인터넷 사용자들에게 무료로 안정적인 서비스를 제공하는 가장 큰 회사 중의 하나이며 최근에는 급기야 한 소프트웨어 회사를 인수하여 이 회사의 스마트폰 OS를 무료로 공개해 버리죠. 그게 바로 [안드로이드](http://ko.wikipedia.org/wiki/%EA%B5%AC%EA%B8%80_%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C "[http://ko.wikipedia.org/wiki/%EA%B5%AC%EA%B8%80_%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C]로 이동합니다.")입니다.
 
-|  |  |
-| --- | --- |
-| [androids eat apples!](http://www.flickr.com/photos/96941606@N00/4407979507 "androids eat apples!")  androids eat apples! by [laihiu](http://www.flickr.com/photos/96941606@N00) [저작자 표시](http://creativecommons.org/licenses/by/2.0/kr/) | [49/365 (Android pesadilla)](http://www.flickr.com/photos/55938214@N00/4366759251 "49/365 (Android pesadilla)")  49/365 (Android pesadilla)  by [ Jesus Belzunce](http://www.flickr.com/photos/55938214@N00) [저작자 표시비영리변경 금지](http://creativecommons.org/licenses/by-nc-nd/2.0/kr/) |
-
 구글의 전략은 크게 몇 가지로 대표됩니다. 웹, 검색, 광고, 오픈, 베타가 그것이라고 할까요? 이 단어들을 사용해서 말을 만들어 본다면 이 정도쯤 되겠죠.
 
-* 구글은 웹 서비스를 베타 때부터 오픈하고 검색을 기반으로 하는 광고 회사이다.
-* 그들은 검색을 통해 데이터의 유통을 자유롭게 한다. 그리고, 그 틈에 검색을 집어넣어 광고로 돈을 번다.
-* 각종 서비스/데이터를 무료로 오픈시키며 기존 산업/시장이 확보한 가치를 무너뜨린다.
+- 구글은 웹 서비스를 베타 때부터 오픈하고 검색을 기반으로 하는 광고 회사이다.
+- 그들은 검색을 통해 데이터의 유통을 자유롭게 한다. 그리고, 그 틈에 검색을 집어넣어 광고로 돈을 번다.
+- 각종 서비스/데이터를 무료로 오픈시키며 기존 산업/시장이 확보한 가치를 무너뜨린다.
 
 즉, 구글은 자신들의 주무기인 검색과 광고, 혹은 검색 광고를 위해 기존 시장의 컨텐츠가 가지고 있던 가치를 자신들의 검색 결과로 옮겨놓습니다. 그러는 동안 많은 회사들은 어려워지죠. (예: 포털, 신문사닷컴 등) 창조적인 파괴라고나 할까요? 게다가 그들이 그렇게 기존의 가치를 부러뜨려가며 새로운 서비스에 도전하고는 있지만 결국 그들의 수입원은 지금은 전혀 새롭지 않은 형태인 "디지털 광고"일 뿐이죠.
 
-**혁신과 개방**
+## 혁신과 개방
 
 즉, 혁신과 개방은 둘 다 좋은 의미를 지니고 있을 수는 있지만 그 의미는 전혀 다릅니다. 이 두 가치는 양립할 수도 있고, 양립하지 않을 수도 있죠. 어느 것이 절대적으로 좋다고 이야기할 수도 없을 겁니다.
 
@@ -87,15 +75,15 @@ tags:
 
 그리고 더 하고 싶은 말...
 
-**그리고 진보와 개혁**
+## 그리고 진보와 개혁
 
 **이제부터의 이야기는 완전한 사족일 수도 있지만 사실 이 글은 이번 총선 후 혁신,개방 ↔ 개혁, 진보라는 구도에 대해 한번쯤 이야기를 하고 싶어서 쓴 것입니다. 이해해 주시길. :-)**
 
 요즘 우리나라 정치를 보면 진보라는 말과 개혁이라는 말이 혼동되어 쓰이는 것 같습니다. 흔히 진보개혁 세력이라고 하기도 하고 수구보수라는 말도 쓰이고, 민주라는 말까지 섞이고 해서 더욱 그러는 것 같아요. 이런 질문을 해보죠.
 
-* 모든 진보 세력은 개혁적인가?
-* 모든 개혁 세력은 진보여야 하는가?
-* 모든 민주 세력은 진보여야 하는가?
+- 모든 진보 세력은 개혁적인가?
+- 모든 개혁 세력은 진보여야 하는가?
+- 모든 민주 세력은 진보여야 하는가?
 
 현재의 정치 구도를 대상으로 제 생각을 이야기하자면 민주당 혹은 국민참여당은 진보인 척을 하지 말아야 한다고 생각합니다. 그들은 성공적인 정권 교체를 이뤄냈던 민주 세력으로서 저는 그들이 억지로 힘들게 진보라는 옷을 입으려 하지 말고 멋지게 개혁의 역할을 해내면 좋겠다고 생각해요.
 
@@ -111,8 +99,8 @@ tags:
 
 그래도 심정적으로 지지를 하기 때문에 이 제안을 제 방식대로 해석한다면 이런 거죠.
 
-> 최악을 막기 위해 연대해야 한다면 차악보다는 최선을 중심으로 모이는 것이 좋지 않겠나!  
+> 최악을 막기 위해 연대해야 한다면 차악보다는 최선을 중심으로 모이는 것이 좋지 않겠나!
 >
-> - 써머즈
+> \- 써머즈
 
 이것이 바로 애플의 혁신성과 구글의 개방성에 열광하는 사람들이 가져야 할 자세가 아닐까요? :)

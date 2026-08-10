@@ -15,7 +15,7 @@ tags:
 
 하지만 당연히(^^) 매번 그런 건 아니라고 생각해요. 면면이 다른 거겠죠. 즉, 사용자들이 무언가 스스로 알아서 해내고 있는 게 있다면, 그걸 편하게 만들어주면 더 많은 사용자들이 혹은 더 열혈 사용자들이 더 쉽고 더 즐겁게 사용할 수 있는 그런 서비스들이 가능하지 않을까요? 예를 들면 이렇습니다.
 
-**온라인 커뮤니티와 실시간**
+## 온라인 커뮤니티와 실시간
 
 유심히 살펴보면 팬카페, 커뮤니티 게시판, 소셜 커뮤니티 등에서 TV를 보면서 계속 댓글 다는 사람들이 참 많습니다. 그게 댓글이든 메시지든 수많은 단발성 짧은 글이든 간에 마치 모여서 보는 듯한 느낌으로 거대한 글타레를 만드는 거죠. 쉽게 생각하면 2002년 월드컵 같은 이벤트를 보면서 서로 막 잡담하는 거죠. 요즘으로 따지자면 현빈과 하지원의 <시크릿 가든> 같은 인기 드라마도 해당 되겠군요.
 
@@ -25,15 +25,13 @@ tags:
 
 단, 방송국의 경우 자기네 사이트에 로그인한 사용자들만 이용할 수 있다고 하면 정말 무의미한 서비스가 될 가능성이 높을 것 같고요. (^^)
 
-**글제목에 확장자 표시**
+## 글제목에 확장자 표시
 
 제가 아는 한, 우리나라에서는 아마 디시인사이드 사용자들이 처음 했던 것 같아요. 사용자들이 알아서 "일종의 숏컷"을 만들어 낸 것입니다. 예를 들자면 제목이 이런 식입니다.
 
-치킨\_종결자.swf
-
-아이폰이\_갤럭시s보다\_좋은\_11가지\_이유.txt (스압)
-
-이게\_사람이야\_여신이야.jpg
+- 치킨\_종결자.swf
+- 아이폰이\_갤럭시s보다\_좋은\_11가지\_이유.txt (스압)
+- 이게\_사람이야\_여신이야.jpg
 
 보시면 알겠지만 제목을 보면 그 글이 어떤 형식을 차용하고 있는지 알 수가 있죠. .swf로 끝나면 그건 플래시 (동영상)이 동작한다는 겁니다. .txt는 내용이 텍스트로 되어있다는 걸 의미하고, .jpg 는 이미지가 곧 내용이라는 뜻이겠죠. (.gif 는 움직이는 이미지겠죠)
 
@@ -45,7 +43,7 @@ tags:
 
 이 서비스들의 특징은 사용자들의 인터넷 상에서의 글쓰기 패턴을 분류하여 가장 빠르고 간편하게 글을 작성할 수 있도록 UI를 구성했다는 거죠.
 
-**역할놀이**
+## 역할놀이
 
 마지막으로, 이런 식으로 요즘 사용자들의 행동 패턴에서 읽을 수 있는 걸 하나 더 찾아본다면 무엇이 있을까요? 제가 먼저 하나를 이야기한다면 바로 SNS 상에서의 롤플레잉 (역할놀이)입니다.
 
@@ -59,33 +57,25 @@ tags:
 
 비슷한 예를 하나 더 든다면 각종 패러디 짤방 속에 등장하는 싸이월드 미니홈피가 있겠죠. 구체적인 사례라면 다음의 예를 들 수 있습니다.
 
-[- 드라마 <꽃보다 남자> 패러디](http://pann.nate.com/talk/120117852 "[http://pann.nate.com/talk/120117852]로 이동합니다.")
+- [드라마 <꽃보다 남자> 패러디](http://pann.nate.com/talk/120117852 "[http://pann.nate.com/talk/120117852]로 이동합니다.")
+- [드라마 <크리스마스에 눈이 온다면> 패러디](http://blog.naver.com/PostView.nhn?blogId=moonjuda&logNo=10076679848&redirect=Dlog&widgetTypeCall=true "[http://blog.naver.com/PostView.nhn?blogId=moonjuda&logNo=10076679848&redirect=Dlog&widgetTypeCall=true]로 이동합니다.")
+- [드라마 <나쁜 남자> 패러디](http://gall.dcinside.com/list.php?id=badboy&no=2773&page=3360&bbs= "[http://gall.dcinside.com/list.php?id=badboy&no=2773&page=3360&bbs=]로 이동합니다.")
+- [드라마 <아내의 유혹> 패러디](https://www.bizplace.co.kr/biz_html/content/daum_content_view.html?seq_no=14971&page=1429&b_code=&code= "[https://www.bizplace.co.kr/biz_html/content/daum_content_view.html?seq_no=14971&page=1429&b_code=&code=]로 이동합니다.")
+- [시트콤 <거침없이 하이킥> 패러디](http://article.joinsmsn.com/news/article/article.asp?total_id=2613292 "[http://article.joinsmsn.com/news/article/article.asp?total_id=2613292]로 이동합니다.")
 
-[- 드라마 <크리스마스에 눈이 온다면> 패러디](http://blog.naver.com/PostView.nhn?blogId=moonjuda&logNo=10076679848&redirect=Dlog&widgetTypeCall=true "[http://blog.naver.com/PostView.nhn?blogId=moonjuda&logNo=10076679848&redirect=Dlog&widgetTypeCall=true]로 이동합니다.")
-
-[- 드라마 <나쁜 남자> 패러디](http://gall.dcinside.com/list.php?id=badboy&no=2773&page=3360&bbs= "[http://gall.dcinside.com/list.php?id=badboy&no=2773&page=3360&bbs=]로 이동합니다.")
-
-[- 드라마 <아내의 유혹> 패러디](https://www.bizplace.co.kr/biz_html/content/daum_content_view.html?seq_no=14971&page=1429&b_code=&code= "[https://www.bizplace.co.kr/biz_html/content/daum_content_view.html?seq_no=14971&page=1429&b_code=&code=]로 이동합니다.")
-
-[- 시트콤 <거침없이 하이킥> 패러디](http://article.joinsmsn.com/news/article/article.asp?total_id=2613292 "[http://article.joinsmsn.com/news/article/article.asp?total_id=2613292]로 이동합니다.")
-
-**왜 이런 서비스를 안만들고 있지?**
+## 왜 이런 서비스를 안만들고 있지?
 
 이쯤되면 SK컴즈 소속의 싸이월드가 충분히 해볼만한 비즈니스 모델이 보이지 않나요? 영화나 드라마를 찍을 때 단순히 홍보 블로그, 홍보용 미니홈피만 만들지 말고, 인기 추세를 살펴보며 아예 드라마/영화 속 인물의 가상 블로그, 가상 미니홈피를 만드는 겁니다.
 
 이건 트위터에서도 가능하고, 블로그에서도 가능하지만, 제가 보기엔 싸이월드 미니홈피가 하면 제일 재밌을 것 같은 서비스입니다. 미니홈피는 완전한 실명기반이기 때문이죠. 하지만 요즘 미니홈피의 인기가 시들하고 있는 이럴 때 한번 리부트를 시도해 보는 것도 나쁘지 않을 것 같아요.
 
-요즘 트위터에서 인기가 정말 많은 드라마 <시크릿가든>의 **[김주원봇](http://twitter.com/ceo_kimjoowon "[http://twitter.com/ceo_kimjoowon]로 이동합니다.")**을 보세요. 이 창의적인 **인터렉티브 팬픽**을 즐기는 사람들이 정말 많습니다. 싸이월드의 미니홈피는 개인의 사생활이 서비스에 녹아들어 있는 형태를 띄고 있기 때문에 쏠쏠한 재미가 더 크지 않을까요?
+요즘 트위터에서 인기가 정말 많은 드라마 <시크릿가든>의 [**김주원봇**](http://twitter.com/ceo_kimjoowon "[http://twitter.com/ceo_kimjoowon]로 이동합니다.")을 보세요. 이 창의적인 **인터렉티브 팬픽**을 즐기는 사람들이 정말 많습니다. 싸이월드의 미니홈피는 개인의 사생활이 서비스에 녹아들어 있는 형태를 띄고 있기 때문에 쏠쏠한 재미가 더 크지 않을까요?
 
 ![](./ceo_kimjoowon.jpg)
 
 게다가 나름 우리나라의 연예 컨텐츠들은 공중파의 영향력도 세고, 연예인에 대한 팬덤도 강하고, 연애 위주 드라마에 대한 밀집도가 강하기 때문에 아주 좋은 컨텐츠가 될 수 있습니다.
 
-**.**
-
-**.**
-
-**.**
+* * *
 
 하지만 **빌어먹을 인터넷 실명제** 때문에 국내 서비스 안에서는 이런 서비스도 힘들겠죠? 현재 상황이라면 그냥 지금처럼 트위터나 페이스북에나 만들어야 할 것 같습니다.
 

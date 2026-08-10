@@ -13,33 +13,31 @@ tags:
   - "명분"
 ---
 
-[![iHate Flash](http://farm5.static.flickr.com/4036/4564272842_eb974fd2d8.jpg)](http://www.flickr.com/photos/47724978@N06/4564272842 "iHate Flash")
+![iHate Flash](http://farm5.static.flickr.com/4036/4564272842_eb974fd2d8.jpg)
+iHate Flash by [Wise\_photo](http://www.flickr.com/photos/47724978@N06)
 
 <!-- truncate -->
-
-iHate Flash by [Wise\_photo](http://www.flickr.com/photos/47724978@N06) [![저작자 표시](http://cfs.tistory.com/static/admin/editor/ccl_black01.png)![비영리](http://cfs.tistory.com/static/admin/editor/ccl_black02.png)![동일조건 변경허락](http://cfs.tistory.com/static/admin/editor/ccl_black03.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/kr/)
 
 잡스의 막가파적인 공세로 끝나버릴 것 같은 애플과 어도비의 싸움이 어도비가 수줍은 반격을 시작하면서 흥미진진해지고 있습니다.
 
 ![flash on ipad](http://images.appleinsider.com/ipad-flash-100129-4.png)
-
 (출처 : appleinsider.com)
 
-스티브 잡스는 **[아이패드를 처음 소개하는 자리](http://www.youtube.com/watch?v=YkvCR3aAl1U "[http://www.youtube.com/watch?v=YkvCR3aAl1U]로 이동합니다.")**에서 대놓고 플래시가 떠 있어야 할 자리에 [**조그만 선물박스가 보이는 화면을 보여주며**](http://www.youtube.com/watch?v=RGPdv7dr_cI "[http://www.youtube.com/watch?v=RGPdv7dr_cI]로 이동합니다.") 어도비를 긁기 시작했죠.
+스티브 잡스는 [**아이패드를 처음 소개하는 자리**](http://www.youtube.com/watch?v=YkvCR3aAl1U "[http://www.youtube.com/watch?v=YkvCR3aAl1U]로 이동합니다.")에서 대놓고 플래시가 떠 있어야 할 자리에 [**조그만 선물박스가 보이는 화면을 보여주며**](http://www.youtube.com/watch?v=RGPdv7dr_cI "[http://www.youtube.com/watch?v=RGPdv7dr_cI]로 이동합니다.") 어도비를 긁기 시작했죠.
 
-그러더니 아예 대놓고 **[Thoughts on Flash](http://www.apple.com/hotnews/thoughts-on-flash/ "[http://www.apple.com/hotnews/thoughts-on-flash/]로 이동합니다.")** 라는 공개 편지를 스티브 잡스의 이름으로 띄웠지요. 번역문은 **[여기](http://blog.thinkarchive.com/69 "[http://blog.thinkarchive.com/69]로 이동합니다.")**에서 확인하실 수 있습니다.
+그러더니 아예 대놓고 [**Thoughts on Flash**](http://www.apple.com/hotnews/thoughts-on-flash/ "[http://www.apple.com/hotnews/thoughts-on-flash/]로 이동합니다.") 라는 공개 편지를 스티브 잡스의 이름으로 띄웠지요. 번역문은 [**여기**](http://blog.thinkarchive.com/69 "[http://blog.thinkarchive.com/69]로 이동합니다.")에서 확인하실 수 있습니다.
 
 * * *
 
-어도비가 이렇게 속절없이 두드려 맞고 끝날 줄 알았는데, 반격을 시작했죠. 어도비 CEO가 **[월스트리트 저널과 독점 인터뷰](http://blogs.wsj.com/digits/2010/04/29/live-blogging-the-journals-interview-with-adobe-ceo/ "[http://blogs.wsj.com/digits/2010/04/29/live-blogging-the-journals-interview-with-adobe-ceo/]로 이동합니다.")**를 했어요. 컨텐츠를 여러 플랫폼에서 만들 수 있으면 개발자도 좋고 결국 소비자들에게도 좋지 않냐는 거죠.
+어도비가 이렇게 속절없이 두드려 맞고 끝날 줄 알았는데, 반격을 시작했죠. 어도비 CEO가 [**월스트리트 저널과 독점 인터뷰**](http://blogs.wsj.com/digits/2010/04/29/live-blogging-the-journals-interview-with-adobe-ceo/ "[http://blogs.wsj.com/digits/2010/04/29/live-blogging-the-journals-interview-with-adobe-ceo/]로 이동합니다.")를 했어요. 컨텐츠를 여러 플랫폼에서 만들 수 있으면 개발자도 좋고 결국 소비자들에게도 좋지 않냐는 거죠.
 
 ![](./apple-creation-0128-rm-eng.jpg)
 
 그러더니 월스트리트 저널에 전면광고를 하죠. 가장 큰 타이틀은 **WE ♥ APPLE** 이니 두손 두발 다 든 백기 투항처럼 보이지만 하고 싶은 말은 따로 있죠.
 
-[![WE LOVE CHOICE](http://wwwimages.adobe.com/www.adobe.com/choice/images/marquee_792x200.jpg)](http://www.adobe.com/choice/ "[http://www.adobe.com/choice/]로 이동합니다.")
+![WE LOVE CHOICE](http://wwwimages.adobe.com/www.adobe.com/choice/images/marquee_792x200.jpg)
 
-바로 **[WE ♥ CHOICE](http://www.adobe.com/choice/ "[http://www.adobe.com/choice/]로 이동합니다.")** 캠페인의 전개입니다. 위의 어도비 CEO가 이야기한 것과 같은 맥락이죠. 게다가 이번에는 아예 어도비의 창업자들이 지원 사격을 합니다. **[Our thoughts on open markets](http://www.adobe.com/choice/openmarkets.html "[http://www.adobe.com/choice/openmarkets.html]로 이동합니다.")** 라는 공개편지를 올리죠. 변역문은 **[여기](http://chocoberry.pe.kr/105535118 "[http://chocoberry.pe.kr/105535118]로 이동합니다.")**서 확인 가능합니다.
+바로 [**WE ♥ CHOICE**](http://www.adobe.com/choice/ "[http://www.adobe.com/choice/]로 이동합니다.") 캠페인의 전개입니다. 위의 어도비 CEO가 이야기한 것과 같은 맥락이죠. 게다가 이번에는 아예 어도비의 창업자들이 지원 사격을 합니다. [**Our thoughts on open markets**](http://www.adobe.com/choice/openmarkets.html "[http://www.adobe.com/choice/openmarkets.html]로 이동합니다.") 라는 공개편지를 올리죠. 변역문은 [**여기**](http://chocoberry.pe.kr/105535118 "[http://chocoberry.pe.kr/105535118]로 이동합니다.")서 확인 가능합니다.
 
 간단하게 요약하면 '오픈마켓이란 개발자, 컨텐츠 소유자, 소비자 모두를 위한 것이어야 하는데, 애플 너네는 왜 플래시를 배척하느냐' 이런 거죠.
 

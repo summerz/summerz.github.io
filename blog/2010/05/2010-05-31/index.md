@@ -14,7 +14,7 @@ tags:
 
 ![](./2010-06-02.jpg)
 
-**[다음(daum)에 소개된 그림](http://search.daum.net/search?w=tot&t__nil_searchbox=suggest&q=6.2%20%C1%F6%B9%E6%BC%B1%B0%C5 "[http://search.daum.net/search?w=tot&t__nil_searchbox=suggest&q=6.2%20%C1%F6%B9%E6%BC%B1%B0%C5]로 이동합니다.")**입니다.
+[다음(daum)에 소개된 그림](http://search.daum.net/search?w=tot&t__nil_searchbox=suggest&q=6.2%20%C1%F6%B9%E6%BC%B1%B0%C5 "[http://search.daum.net/search?w=tot&t__nil_searchbox=suggest&q=6.2%20%C1%F6%B9%E6%BC%B1%B0%C5]로 이동합니다.") 입니다.
 
 간단하게 설명하는 것 자체가 불가능한 선거라고 생각해요. 그래도 저렇게 그림으로 요약하니 좀 낫군요. 어쨌거나 한 사람당 총 8개의 표를 행사해야 합니다. 교육감부터 도지사, 시장, 시의원까지...
 
@@ -25,8 +25,6 @@ tags:
 지금부터라도 **[자신의 지역에 누가 나왔는지 어떤 사람인지 알아보면](http://vote.d2w.kr/ "[http://vote.d2w.kr/]로 이동합니다.")** 좋을 것 같아요. 혼자 8표나 행사해야 하니 당일이 되면 헷갈려 누가 누군지 알 수 없을테니까요.
 
 ![](./just1vote.jpg)
-
-
 한 표 차이!
 
 내 한 표가 얼마나 영향을 끼칠 수 있을까, 과연 이렇게 투표한다고 달라질까 걱정할 필요도 없습니다. 그래봐야 번거롭게 광화문 앞에 모이고, 목소리를 높이고, 소식을 듣고 꺼이꺼이 울거나 분노하는 것보다는 싼 비용이니까요. 모두가 투표를 하면 쉽게 이루어지겠죠.

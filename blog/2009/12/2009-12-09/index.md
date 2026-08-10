@@ -10,9 +10,8 @@ tags:
   - "네이트온"
 ---
 
-|  |
-| --- |
-| [Twitter bird logo icon illustration](http://www.flickr.com/photos/73532212@N00/3383916444 "Twitter bird logo icon illustration")  Twitter bird logo icon illustration by [Matt Hamm](http://www.flickr.com/photos/73532212@N00) [저작자 표시비영리](http://creativecommons.org/licenses/by-nc/2.0/kr/) |
+![](http://farm4.static.flickr.com/3466/3383916444_c17344b56e.jpg)
+[Twitter bird logo icon illustration](http://www.flickr.com/photos/73532212@N00/3383916444 "Twitter bird logo icon illustration")  Twitter bird logo icon illustration by [Matt Hamm](http://www.flickr.com/photos/73532212@N00) [저작자 표시비영리](http://creativecommons.org/licenses/by-nc/2.0/kr/) |
 
 <!-- truncate -->
 
@@ -22,59 +21,38 @@ tags:
 
 * * *
 
-|  |
-| --- |
-| [Temptation](http://www.flickr.com/photos/49462908@N00/3792832374 "Temptation")  Temptation by [Stéfan](http://www.flickr.com/photos/49462908@N00) [저작자 표시비영리동일조건 변경허락](http://creativecommons.org/licenses/by-nc-sa/2.0/kr/) |
-
 물론 이 서비스들 사이에서 트위터처럼 개개인의 계정에 데이터가 쌓이거나 서로의 의견들이 상호작용을 일으키는 현상이 나타나는 건 드문 경우입니다. 대부분의 경우 상호작용의 결과물들은 미니홈피나 디시인사이드, 각종 카페 등으로 흩어져 버리죠.
 
 하지만 사람이 많이 모였고, 그들이 무언가 관심 갖는 것에 대해 들여다 보고 반응을 보인다는 관점에서 바라보면 그리 틀린 게 아닐 겁니다. 트위터에서 정보가 유통될 수 있는 3가지 속성과 저 3가지가 크게 다를 바 없다는 거죠.
 
-첫째, 온 국민의 브라우저 홈페이지 - 네이버쩜컴
-
-둘째, 그들이 눌러대는 각종 검색어의 실시간 반영 - 실시간 급상승 검색어
-
-셋째, 놀라운 정보에 대해 그들이 공유하는 강력한 미디어 - 네이트온 메신저
+- 첫째, 온 국민의 브라우저 홈페이지 - 네이버쩜컴
+- 둘째, 그들이 눌러대는 각종 검색어의 실시간 반영 - 실시간 급상승 검색어
+- 셋째, 놀라운 정보에 대해 그들이 공유하는 강력한 미디어 - 네이트온 메신저
 
 단지 차이점이 있다면 트위터는 모바일 환경에서 강점을 발휘하는데, 네이버 + 네이트온은 모바일 환경에는 쥐약이라는 정도겠지요.
 
 * * *
 
-|  |
-| --- |
-| [studying...](http://www.flickr.com/photos/51035611977@N01/9079179 "studying...")  studying... by [fazen](http://www.flickr.com/photos/51035611977@N01) [저작자 표시](http://creativecommons.org/licenses/by/2.0/kr/) |
-
 그럼에도 이런 조합이 트위터와는 다르게 서로간의 상호작용을 일으키지 못하는, 즉 서비스간 시너지가 일어나기 힘든 구조인 이유에는 크게 2가지가 있겠죠.
 
-첫째, 한 회사 내의 서비스가 아니다. (네이버와 네이트)
-
-둘째, 저 3개의 서비스 중에 자신의 의견 표출에 대한 답변을 들을 수 있는 곳은 어디에도 없다.
+- 첫째, 한 회사 내의 서비스가 아니다. (네이버와 네이트)
+- 둘째, 저 3개의 서비스 중에 자신의 의견 표출에 대한 답변을 들을 수 있는 곳은 어디에도 없다.
 
 * * *
-
-|  |
-| --- |
-| [Crate full of BrickArms ordnance](http://www.flickr.com/photos/12426416@N00/2936384537 "Crate full of BrickArms ordnance")  Crate full of BrickArms ordnance  by [Dunechaser](http://www.flickr.com/photos/12426416@N00) [저작자 표시비영리동일조건 변경허락](http://creativecommons.org/licenses/by-nc-sa/2.0/kr/) |
 
 네이버가 SK컴즈에 흡수되거나 그 반대의 경우가 일어날 수 없는 조건이라고 본다면 그나마 둘째, 의견 표출에 대한 답변 공유가 어느 쪽에서 더 활발하게 이뤄질까 하는 건데 이것 역시 네이버와 네이트가 거의 쌍박을 이루는 듯 합니다.
 
 **네이버**
 
-장점 : 네이버로의 트래픽이 엄청나다. 뉴스 포함 메인에 걸린 링크에 답글이 많이 달린다.
-
-단점 : 굳이 네이버쩜컴을 열어보지 않는 이상에는 실시간성이 약하다.
+- 장점 : 네이버로의 트래픽이 엄청나다. 뉴스 포함 메인에 걸린 링크에 답글이 많이 달린다.
+- 단점 : 굳이 네이버쩜컴을 열어보지 않는 이상에는 실시간성이 약하다.
 
 **네이트**
 
-장점 : 네이트 뉴스 페이지 트래픽이 늘어날 정도로 네이트온 사용자가 엄청 많다.
-
-단점 : 그 어디에도 기록에 남지 않는다. 현재의 메신저는 단순 휘발성 정보 공유의 장일 뿐.
+- 장점 : 네이트 뉴스 페이지 트래픽이 늘어날 정도로 네이트온 사용자가 엄청 많다.
+- 단점 : 그 어디에도 기록에 남지 않는다. 현재의 메신저는 단순 휘발성 정보 공유의 장일 뿐.
 
 * * *
-
-|  |
-| --- |
-| [Today is the Day That I Happily Refuse to Purchase and iPhone](http://www.flickr.com/photos/44124439915@N01/660738574 "Today is the Day That I Happily Refuse to Purchase and iPhone")  Today is the Day That I Happily  Refuse to Purchase and iPhone  by [timsamoff](http://www.flickr.com/photos/44124439915@N01) [저작자 표시변경 금지](http://creativecommons.org/licenses/by-nd/2.0/kr/) |
 
 그렇다면 앞으로 유리한 서비스는 네이버와 네이트 중에 어디일까요? 상식적인 선에서 언뜻 생각하면 유무선 지원을 적극적으로 받기 쉬운 네이트가 될 것 같은데, 그간 수많은 서비스들을 말아먹은 SK컴즈의 전력과 그간의 무선망에서의 수익을 지켜야만 하는 SKT를 볼 때 별 도움을 받지 못할 것 같습니다.
 

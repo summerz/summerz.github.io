@@ -31,4 +31,4 @@ ps. 한 가지 더 느낀 게 있다면 "제가 본 'CG를 많이 쓴 영화' �
 
 **관련 링크**
 
-[2009AVATAR](http://graphicslive2009.blogspot.com/ "[http://graphicslive2009.blogspot.com/]로 이동합니다.") (아바타 작업 참여하신 한국인들의 팀블로그)
+- [2009AVATAR](http://graphicslive2009.blogspot.com/ "[http://graphicslive2009.blogspot.com/]로 이동합니다.") (아바타 작업 참여하신 한국인들의 팀블로그)

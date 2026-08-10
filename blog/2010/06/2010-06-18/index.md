@@ -12,10 +12,12 @@ tags:
   - "만우절"
 ---
 
+https://www.youtube.com/watch?v=_KfD49mDVN8
 **2010년 LG U+ 런칭 광고**
 
 <!-- truncate -->
 
+https://www.youtube.com/watch?v=9dfWzp7rYR4
 **2008년 BBC Penguins (BBC 다큐 만우절 광고)**
 
 ![](./why.png)
@@ -28,11 +30,11 @@ tags:
 
 혹시 이유를 아시는 분...?
 
+* * *
+
 **추가**
 
 ![](./twit.gif)
-
-<http://twitter.com/montague99/status/16267341411>
 
 pureRED님 댓글을 보고 찾아보니 일단 이런 트윗이 있네요; 보도자료 같은 공식 정보나 제작하신 분의 글은 아직 못 찾았습니다;
 

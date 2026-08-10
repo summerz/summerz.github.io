@@ -11,32 +11,28 @@ tags:
   - "리스트"
 ---
 
-**추가)**  
+**(추가)**
+
 [개발자 분이 쓴 글](http://signpen.net/2510991 "[http://signpen.net/2510991]로 이동합니다.")을 찾아보니 앱스토어에서 내리셨나 봅니다.
 
 <!-- truncate -->
 
+---
+
 아이폰에서 3G나 와이파이를 통해 스트리밍 방송을 볼 수 있는 Pocket TV 라는 앱이 있습니다.
 
 ![](./mzi.frzqcsnw.175x175-75.jpg)
-
 **[Pocket TV (무료) 받으러 가기](http://itunes.apple.com/kr/app/pocket-tv/id411708416?mt=8 "[http://itunes.apple.com/kr/app/pocket-tv/id411708416?mt=8]로 이동합니다.")**
 
 앱을 처음 받으면 아무 채널도 등록이 되어 있지 않는데, 아래와 같은 방법으로 처리하면 채널 리스트를 얻을 수 있습니다.
 
-(1) **[Pocket TV](http://itunes.apple.com/kr/app/pocket-tv/id411708416?mt=8 "[http://itunes.apple.com/kr/app/pocket-tv/id411708416?mt=8]로 이동합니다.")** 를 받아서 실행
-
-(광고를 끄고)
-
-(2) 좌측 하단의 [편집] 버튼 선택
-
-(3) 우측 하단의 [+] 버튼 선택
-
-(4) [주소로 추가] 선택
-
-(5) **http://bit.ly/ptvlist** 입력 후 [Done] 버튼 선택
-
-(6) 좌측 하단의 [완료] 버튼 선택
+1. **[Pocket TV](http://itunes.apple.com/kr/app/pocket-tv/id411708416?mt=8 "[http://itunes.apple.com/kr/app/pocket-tv/id411708416?mt=8]로 이동합니다.")** 를 받아서 실행
+2. (광고를 끄고)
+3. 좌측 하단의 [편집] 버튼 선택
+4. 우측 하단의 [+] 버튼 선택
+5. [주소로 추가] 선택
+6. **http://bit.ly/ptvlist** 입력 후 [Done] 버튼 선택
+7. 좌측 하단의 [완료] 버튼 선택
 
 이렇게 하면 추가한 시각으로 리스트가 한 줄 생깁니다.
 

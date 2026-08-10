@@ -11,10 +11,9 @@ tags:
 ---
 
 ![](./candle.png)
+[**http://twitter.com/iamsummerz/status/11363072880**](http://twitter.com/iamsummerz/status/11363072880)
 
 <!-- truncate -->
-
-[**http://twitter.com/iamsummerz/status/11363072880**](http://twitter.com/iamsummerz/status/11363072880)
 
 이 정부는 웃음, 눈물, 분노를 동시에 주네요. 탁월한 재능인 듯.
 
@@ -25,7 +24,6 @@ tags:
 5월이 되기 전에 아이폰 구매하신 분들은 모두 촛불 어플 하나씩 다운 받아야 할 듯;;;
 
 ![](./1.jpg)
-
 출처 : **[iLounge - iPhone Gems: 16 Virtual Lighter Apps, Reviewed](http://www.ilounge.com/index.php/articles/comments/iphone-gems-16-virtual-lighter-apps-reviewed/ "[http://www.ilounge.com/index.php/articles/comments/iphone-gems-16-virtual-lighter-apps-reviewed/]로 이동합니다.")**
 
 아무래도 불어서 꺼지는 기능은 없는 어플로 다운을 받아야겠죠;;;

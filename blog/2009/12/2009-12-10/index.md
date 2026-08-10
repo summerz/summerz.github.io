@@ -16,12 +16,6 @@ tags:
 
 <!-- truncate -->
 
-
-
-
-
-  
-
 아시는 분들은 이미 아시겠지만 구글이 만든 브라우저 크롬 (Chrome)에 익스텐션 기능이 베타 오픈되었습니다. 우리말로는 확장 프로그램이라고 번역되었군요.
 
 **[▶ Google chrome extensions (beta) 바로 가기](https://chrome.google.com/extensions/ "[https://chrome.google.com/extensions/]로 이동합니다.")**

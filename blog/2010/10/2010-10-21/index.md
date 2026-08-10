@@ -9,11 +9,12 @@ tags:
   - "호모포비아"
 ---
 
-**[It Gets Better: Google Employees](http://www.youtube.com/watch?v=pYLs4NCgvNU&feature=player_embedded "[http://www.youtube.com/watch?v=pYLs4NCgvNU&feature=player_embedded]로 이동합니다.") from youtube.com**
+http://www.youtube.com/watch?v=pYLs4NCgvNU
+It Gets Better: Google Employees
+
+> 그러니 만약 네가 십대이고 고통으로 벗어나기 위한 좋은 방법이 스스로 상처를 주는 거라 생각한다면, 그러지 마. 그냥 조금 나이가 들었다고 생각해 봐. 40살까지는 아니고 한 25살 정도. 그리고 다시 네 자신이 되서 스스로에게 괜찮아 질 거라고 얘기해봐. 왜나면 정말 그러니까.
 
 <!-- truncate -->
-
-그러니 만약 네가 십대이고 고통으로 벗어나기 위한 좋은 방법이 스스로 상처를 주는 거라 생각한다면, 그러지 마. 그냥 조금 나이가 들었다고 생각해 봐. 40살까지는 아니고 한 25살 정도. 그리고 다시 네 자신이 되서 스스로에게 괜찮아 질 거라고 얘기해봐. 왜나면 정말 그러니까.
 
 * * *
 

@@ -32,7 +32,7 @@ const EMBEDS = [
   {
     match: YOUTUBE,
     html: (id) =>
-      `<div class="ytEmbed"><iframe src="https://www.youtube.com/embed/${id}" ` +
+      `<div class="ytEmbed"><iframe src="https://www.youtube-nocookie.com/embed/${id}" ` +
       `title="YouTube video player" loading="lazy" frameborder="0" ` +
       `allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ` +
       `referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>`,

@@ -13,6 +13,8 @@ tags:
 
 <!-- truncate -->
 
+* * *
+
 영화의 초반 1/3을 보는 내내 이창동 감독의 <초록물고기>가 떠올랐습니다. 다들 아시겠지만 <초록물고기>는 1997년도에 만들어진 작품으로 개발제일주의를 상징하는 공간 일산을 배경으로 하고 있죠.
 
 영화 <파주>는 90년대 초반의 일산이 개발 논리에 정복당하고 그 이후에도 지리적으로 그 위쪽인 파주까지 같은 이유로 밀려 올라가고 있는 상황을 보여주고 있습니다. 단지 차이가 있다면 <초록물고기>는 이미 자신의 설 땅을 잃어버린 정서를 보여주고 있다면 <파주>의 경우는 현재 '개발 당하고 있는' 사람들의 상황을 보여주고 있습니다.
@@ -47,8 +49,6 @@ tags:
 
 **관련링크**
 
-[DAUM 영화 - 파주](http://movie.daum.net/moviedetail/moviedetailStory.do?movieId=50256 "[http://movie.daum.net/moviedetail/moviedetailStory.do?movieId=50256]로 이동합니다.")
-
-[씨네21 - [나의 친구 그의 영화] 이거야말로 인간의 종말이로구나](http://www.cine21.com/Article/article_view.php?mm=005004009&article_id=58688 "[http://www.cine21.com/Article/article_view.php?mm=005004009&article_id=58688]로 이동합니다.")
-
-[씨네21 - 눈먼 자들의 도시, 파주](http://www.cine21.com/Article/article_view.php?mm=005001001&article_id=58429 "[http://www.cine21.com/Article/article_view.php?mm=005001001&article_id=58429]로 이동합니다.")
+- [DAUM 영화 - 파주](http://movie.daum.net/moviedetail/moviedetailStory.do?movieId=50256 "[http://movie.daum.net/moviedetail/moviedetailStory.do?movieId=50256]로 이동합니다.")
+- [씨네21 - [나의 친구 그의 영화] 이거야말로 인간의 종말이로구나](http://www.cine21.com/Article/article_view.php?mm=005004009&article_id=58688 "[http://www.cine21.com/Article/article_view.php?mm=005004009&article_id=58688]로 이동합니다.")
+- [씨네21 - 눈먼 자들의 도시, 파주](http://www.cine21.com/Article/article_view.php?mm=005001001&article_id=58429 "[http://www.cine21.com/Article/article_view.php?mm=005001001&article_id=58429]로 이동합니다.")

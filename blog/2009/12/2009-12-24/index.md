@@ -13,16 +13,22 @@ tags:
 
 <!-- truncate -->
 
-****[Jethro Tull - God Rest Ye Merry Gentlemen](http://www.youtube.com/watch?v=D3JMcW1D69g "[http://www.youtube.com/watch?v=D3JMcW1D69g]로 이동합니다.")****
+http://www.youtube.com/watch?v=D3JMcW1D69g
+[Jethro Tull - God Rest Ye Merry Gentlemen](http://www.youtube.com/watch?v=D3JMcW1D69g "[http://www.youtube.com/watch?v=D3JMcW1D69g]로 이동합니다.")
 
-****[Sarah McLachlan - O Little Town Of Bethlehem](http://www.youtube.com/watch?v=jyPMDD8fGeA "[http://www.youtube.com/watch?v=jyPMDD8fGeA]로 이동합니다.")****
+http://www.youtube.com/watch?v=jyPMDD8fGeA
+[Sarah McLachlan - O Little Town Of Bethlehem](http://www.youtube.com/watch?v=jyPMDD8fGeA "[http://www.youtube.com/watch?v=jyPMDD8fGeA]로 이동합니다.")
 
-****[Jars Of Clay - Drummer Boy (live)](http://www.youtube.com/watch?v=Mb0hAPimGrU "[http://www.youtube.com/watch?v=Mb0hAPimGrU]로 이동합니다.")****
+http://www.youtube.com/watch?v=Mb0hAPimGrU
+[Jars Of Clay - Drummer Boy (live)](http://www.youtube.com/watch?v=Mb0hAPimGrU "[http://www.youtube.com/watch?v=Mb0hAPimGrU]로 이동합니다.")
 
-****[Tom Waits - Chritmas Card From a Hooker in Minneapolis](http://www.youtube.com/watch?v=12qBoy2rhVw "[http://www.youtube.com/watch?v=12qBoy2rhVw]로 이동합니다.")****
+https://www.youtube.com/watch?v=mxVo5mjK4eg
+[Tom Waits - Christmas Card From a Hooker in Minneapolis](https://www.youtube.com/watch?v=mxVo5mjK4eg "[https://www.youtube.com/watch?v=mxVo5mjK4eg]로 이동합니다.")
 
-****[John Lennon - Happy Christmas (War Is Over)](http://www.youtube.com/watch?v=hb2YSAVHmIE "[http://www.youtube.com/watch?v=hb2YSAVHmIE]로 이동합니다.")****
+https://www.youtube.com/watch?v=uMH_wMvMy_8
+[John Lennon - Happy Christmas (War Is Over)](https://www.youtube.com/watch?v=uMH_wMvMy_8 "[https://www.youtube.com/watch?v=uMH_wMvMy_8]로 이동합니다.")
 
 그리고 아마도 올해도 가장 많이 울려퍼질 노래.
 
-****[Mariah Carey - All I Want For Christmas Is You (Tokyo Dome Live)](http://www.youtube.com/watch?v=L4hwRtwLkyY "[http://www.youtube.com/watch?v=L4hwRtwLkyY]로 이동합니다.")****
+https://www.youtube.com/watch?v=mTVJB--utdc
+[Mariah Carey - All I Want For Christmas Is You (Tokyo Dome Live)](https://www.youtube.com/watch?v=mTVJB--utdc "[https://www.youtube.com/watch?v=mTVJB--utdc]로 이동합니다.")

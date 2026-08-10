@@ -26,32 +26,44 @@ tags:
 
 어쨌든 나갑니다.
 
-**비틀즈 vs. 오아시스 - Don't Let It Be Anger**
+## 비틀즈 vs. 오아시스 - Don't Let It Be Anger
+
+https://www.youtube.com/watch?v=Xw4jsROERdo
 
 다들 아시는 비틀즈의 Let It Be와 오아시스의 히트곡 Don't Look Back In Anger 를 합쳤습니다.
 
 둘 다 영국밴드이고 오아시스는 그 자체로도 인정받는 밴드이지만 항상 비틀즈와 비교가 되는 밴드죠. 오아시스를 싫어하는 분들은 이 곡을 듣고 '그래, 역시 오아시스는 비틀즈 카피야...' 라고 비아냥 거릴 수도 있는 믹스네요. ^^
 
-**마이클 잭슨 vs. 너바나 - Smells Like Billie Jean**
+## 마이클 잭슨 vs. 너바나 - Smells Like Billie Jean
+
+https://www.youtube.com/watch?v=8Kdc64kjXRM
 
 솔직히 전혀 어울릴것 같지 않은 조합입니다. 마이클 잭슨과 너바나라니! 아무래도 Billie Jean의 도입부가 간결한 편곡으로 베이스라인이 주를 이루고, Smell Like Teen Spirit의 도입부 역시 거의 쉬어가는 식의 연주라 그걸 힌트 삼아 연결한 게 아닌가 싶습니다.
 
 후렴부에서는 조금 억지가 보이지만 두 뮤지션이 함께 공연하는 상상만으로도 아주 그럴 듯 한 믹스가 되었어요. (절대 불가능하겠지만)
 
-**에미넴 vs. 유리스믹스 - Sweet Dreams vs. Without Me**
+## 에미넴 vs. 유리스믹스 - Sweet Dreams vs. Without Me
+
+https://www.youtube.com/watch?v=4aa-d3_E86U
 
 유리스믹스의 Sweet Dreams 와 에미넴의 Without Me를 섞었군요. 가장 잘 어울리는 믹스 중 하나입니다.
 
 실제로 DJ가 믹스를 하기도 했고, 조합 자체가 래퍼의 곡과 반복적인 리듬의 유명한 곡을 믹스했기 때문이기도 하죠. 랩은 멜로디가 없으니 상대적으로 어느 곡에든 어울리기 쉬우니까요. 이런 이유를 감안한다고 해도 DJ의 센스가 아주 멋지군요.
 
-**그린데이 vs. 마이클 잭슨 - Black Or White Basket Case**
+## 그린데이 vs. 마이클 잭슨 - Black Or White Basket Case
+
+https://www.youtube.com/watch?v=frGjAX_p0Zw
 
 그린데이의 Basket Case 를 기본으로 마이클 잭슨의 Black Or White를 엮었는데 뭔가 아슬아슬하면서도 절묘하게 잘 어울리는군요. 특히 도입부 들어갈 때의 그린데이의 기타 리프와 마이클 잭슨의 가사 리듬이 절묘하게 맞네요.
 
-**그린데이 vs. 퀸 - Novocaine Rhapsody**
+## 그린데이 vs. 퀸 - Novocaine Rhapsody
+
+https://www.youtube.com/watch?v=aCy3pLn1W-U
 
 그린데이의 Give Me Novocaine과 퀸의 Bohemian Rhapsody를 섞었습니다. 퀸의 이 노래는 사실 워낙 변화 무쌍해서 섞을 노래가 있을까 싶었는데 정말 잘 어울리는군요.
 
 이건 뮤직비디오까지 라이브 실황을 따서 잘 만들었네요. 완성도가 높아요.
+
+---
 
 명실공히 모든 문화에서 벌어지고 있는 매쉬업을 조금이나마 확인해보는 포스트...인 건가요? ^^

@@ -20,27 +20,27 @@ tags:
 
 글씨가 작죠;;; 다시 타이핑 해보면 다음과 같습니다.
 
-Warning!
-
-경고!
-
-You have administrator rights.
-
-당신은 관리자 권한을 가지고 있습니다.
-
-You are currently working with administrator rights.
-
-당신은 현재 관리자 권한으로 일하고 있습니다.
-
-For security reasons, it is generally recommended that you only work with a restricted user account.
-
-여러 보안적인 이유 때문에 보통은 제한된 기능의 사용자 계정으로 일하는 것이 추천됩니다.
-
-Further information is available here:
-
-더 자세한 정보는 아래에 있습니다:
-
-[http://support.microsoft.com](http://support.microsoft.com "[http://support.microsoft.com]로 이동합니다.")
+> Warning!
+>
+> 경고!
+>
+> You have administrator rights.
+>
+> 당신은 관리자 권한을 가지고 있습니다.
+>
+> You are currently working with administrator rights.
+>
+> 당신은 현재 관리자 권한으로 일하고 있습니다.
+>
+> For security reasons, it is generally recommended that you only work with a restricted user account.
+>
+> 여러 보안적인 이유 때문에 보통은 제한된 기능의 사용자 계정으로 일하는 것이 추천됩니다.
+>
+> Further information is available here:
+>
+> 더 자세한 정보는 아래에 있습니다:
+>
+> [http://support.microsoft.com](http://support.microsoft.com "[http://support.microsoft.com]로 이동합니다.")
 
 Avira 를 독일 회사로 알고 있는데, 아마도 한국의 개인 PC환경에 대해 잘 모르기 때문에 저런 경고를 띄워주나 봅니다.
 

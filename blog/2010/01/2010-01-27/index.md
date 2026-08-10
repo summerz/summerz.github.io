@@ -18,12 +18,13 @@ tags:
 
 유튜브에 올라온 아기들 (1-2살)이 아이폰을 사용하는 모습들을 모아봤습니다. **역시 애플이 킹왕짱이다**는 말을 하려는 게 아니라 **인터페이스와 사용성이 지향해야 하는 지점은 어디인가**에 대한 생각을 할 수 있을 것 같아서 입니다.
 
+https://www.youtube.com/watch?v=XrVt2ZcrWUY
 Youtube - iPhone used by 1 year old baby PART 2
 
+https://www.youtube.com/watch?v=q0c4NbpTkvU
 Youtube - iPhone baby
 
-Youtube - 2 year old can use Apple Iphone
-
+https://www.youtube.com/watch?v=oZwKPDvYA2M
 Youtube - iPhone used by 1 year old baby
 
 p.s.1 이쯤에서 문득 휴먼 인터페이스계의 전문가이자 매킨토시의 아버지로 칭송되는 [故 제프 라스킨 (Jeff Raskin)](http://en.wikipedia.org/wiki/Jef_Raskin "[http://en.wikipedia.org/wiki/Jef_Raskin]로 이동합니다.")이 떠오릅니다. 어찌보면 오늘날의 애플을 있게 한 것은 스티브 잡스가 아니라 제프 라스킨이 아닌가 하는 생각도 해보고요.
@@ -32,6 +33,5 @@ p.s.2 많은 예측이 난무하지만 분명한 것 한 가지는 기존 아�
 
 **관련 링크**
 
-[GIZMODO - The Apple Tablet Interface Must Be Like This (영어)](http://gizmodo.com/5452501/the-apple-tablet-interface-must-be-like-this "[http://gizmodo.com/5452501/the-apple-tablet-interface-must-be-like-this]로 이동합니다.")
-
-[애플 태블릿의 인터페이스는 이와 같을 것이다. (위의 글을 클리앙분이 번역한 버전)](http://clien.career.co.kr/zboard/view.php?id=use&no=12974 "[http://clien.career.co.kr/zboard/view.php?id=use&no=12974]로 이동합니다.")
+- [GIZMODO - The Apple Tablet Interface Must Be Like This (영어)](http://gizmodo.com/5452501/the-apple-tablet-interface-must-be-like-this "[http://gizmodo.com/5452501/the-apple-tablet-interface-must-be-like-this]로 이동합니다.")
+- [애플 태블릿의 인터페이스는 이와 같을 것이다. (위의 글을 클리앙분이 번역한 버전)](http://clien.career.co.kr/zboard/view.php?id=use&no=12974 "[http://clien.career.co.kr/zboard/view.php?id=use&no=12974]로 이동합니다.")

@@ -16,9 +16,9 @@ tags:
 
 <!-- truncate -->
 
-정말 그럴까요?  
+정말 그럴까요?
 
-**#1 [애틀러스 보도자료 - iPhone 판매량 심층 분석](http://www.slideshare.net/jung127/i-phone-2708690 "[http://www.slideshare.net/jung127/i-phone-2708690]로 이동합니다.")**
+## #1 [애틀러스 보도자료 - iPhone 판매량 심층 분석](http://www.slideshare.net/jung127/i-phone-2708690 "[http://www.slideshare.net/jung127/i-phone-2708690]로 이동합니다.")
 
 제가 지난번에 올렸던 [**아이폰 판매량 심층 분석 보도자료 요약**](http://blog.summerz.pe.kr/1489 "[http://blog.summerz.pe.kr/1489]로 이동합니다.") 에서도 보면 일반폰은 남녀 사용자 비율이 55:45 정도 되죠.
 
@@ -26,11 +26,11 @@ tags:
 
 ![](./t-3.gif)
 
-이건 12월 1주차까지의 자료이니 지금은 결과가 달라졌을 수도 있으려나요? 최근 판매량까지 합산된 자료가 있으면 좋겠군요. 저는 별로 달라질 것 같지 않은데 말이죠.  
-  
+이건 12월 1주차까지의 자료이니 지금은 결과가 달라졌을 수도 있으려나요? 최근 판매량까지 합산된 자료가 있으면 좋겠군요. 저는 별로 달라질 것 같지 않은데 말이죠.
+
 그럼 다른 나라의 경우를 보시죠.
 
-**#2 [컴스코어 - METRICS: 80 percent of iPhone Users in France, Germany and the UK Browse the Mobile Web](http://www.comscore.com/Press_Events/Press_Releases/2008/07/iPhone_Users_in_Europe_Browse_the_Web "[http://www.comscore.com/Press_Events/Press_Releases/2008/07/iPhone_Users_in_Europe_Browse_the_Web]로 이동합니다.")**
+## #2 [컴스코어 - METRICS: 80 percent of iPhone Users in France, Germany and the UK Browse the Mobile Web](http://www.comscore.com/Press_Events/Press_Releases/2008/07/iPhone_Users_in_Europe_Browse_the_Web "[http://www.comscore.com/Press_Events/Press_Releases/2008/07/iPhone_Users_in_Europe_Browse_the_Web]로 이동합니다.")
 
 유럽의 빅3 - 프랑스, 독일, 영국의 전체 모바일폰 사용자는 남녀 사용자 비율이 거의 5:5 입니다.
 
@@ -38,13 +38,13 @@ tags:
 
 ![](./comscore-smartphone-iphone-total-mobile-usage-by-gender-may.gif)
 
-EU3 : 프랑스, 독일, 영국을 모두 합친 수입니다.  
-Smartphones : 윈도우즈, 팜, 심비안을 OS로 사용하는 폰들입니다.  
-  
+EU3 : 프랑스, 독일, 영국을 모두 합친 수입니다.
+Smartphones : 윈도우즈, 팜, 심비안을 OS로 사용하는 폰들입니다.
+
 
 물론 이 자료도 2008년도 자료이기 때문에 2009년도 자료가 있으면 또 다르다고 할 수 있겠죠.
 
-**#3 [Solutions Research Group 설문조사 결과](http://www.appleinsider.com/articles/07/06/06/apple_att_neophytes_to_define_iphone_audience_report.html "[http://www.appleinsider.com/articles/07/06/06/apple_att_neophytes_to_define_iphone_audience_report.html]로 이동합니다.")**
+## #3 [Solutions Research Group 설문조사 결과](http://www.appleinsider.com/articles/07/06/06/apple_att_neophytes_to_define_iphone_audience_report.html "[http://www.appleinsider.com/articles/07/06/06/apple_att_neophytes_to_define_iphone_audience_report.html]로 이동합니다.")
 
 이건 더 오래된 자료이긴 합니다. 2007년도 조사니까요. 그리고, 실제로 구입한 사람들 숫자는 아니고, 구입할 의사가 있는 사람들 조사결과인데요, 역시 남자들이 압도적으로 더 구매의사를 밝히고 있습니다.
 
@@ -53,6 +53,8 @@ Smartphones : 윈도우즈, 팜, 심비안을 OS로 사용하는 폰들입니다
 ![](./who-will-buy-stevephone-1.png)
 
 한 마디로 하자면 애플의 매니아층 하면 떠오르는 층과 아이폰 구매 욕구를 느끼는 층이 크게 다르지 않는다는 거죠.
+
+* * *
 
 제가 생각할 때 아이폰은 예쁜 제품임에는 틀림없지만 사용하기 쉬운 제품은 절대 아닙니다. 특히 애플의 제품군을 다뤄본 적이 없는 사용자들에게는 더욱 사용하기 쉬운 제품이 아니고, 자세한 설명서 (혹은 설명해주는 사람) 없이는 제 기능을 다 알아가면서 사용하기 어려운 제품이죠.
 

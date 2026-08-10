@@ -17,19 +17,14 @@ tags:
 이승환 수령의 [신정환은 죄인일까, 환자일까?](http://realfactory.net/1282 "[http://realfactory.net/1282]로 이동합니다.") 라는 글을 읽고 문득 호주에서 봤던 각종 도박 관련 경고 및 안내 메시지 등이 떠올랐습니다. 지금 찾으려니 그 때 봤던 것들과 똑같은 것들을 찾을 수는 없고, 그 때 제가 봤던 메시지들과 그 메시지들을 보며 당시 깨닫게 된 지식의 요지는 이렇죠.
 
 - 도박은 중독이다.
-
 - 도박에는 누구라도 중독될 수 있다.
-
 - 도박에 중독된 사람은 혼자 해결하지 말고 주위에 도움을 요청하라.
-
 - 우리 (호주 or NSW 정부)는 언제나 상담실을 운영하니 주저말고 연락하라.
 
 호주는 도박이 합법이죠. 펍 (호프집)에 슬롯머신도 있고, 카지노도 출입이 아주 편합니다. 저도 해봤어요 (저는 땄어요!). 물론 무제한 합법은 아니죠. 규정이 있는 것으로 압니다. 예전에 어느 박물관의 전시회를 갔는데 도박과 관련된 전시물들이 있더군요. 그 때 느낀 건 이렇습니다.
 
 - 왜 얘네는 도박을 합법으로 규정하면서 이런 걸 운영하느라 헛돈을 쓰나.
-
 - 그래도 이런 것들을 인정한 다음 교육을 하는 게 아예 안하는 것보다 낫네.
-
 - 음주운전이나 도박이나 거의 비슷한 강도로 교육 (홍보)을 하네? 신기하다.
 
 (굳이 덧붙이자면 외부인이 보기에 그랬다는 정도입니다)
@@ -43,23 +38,16 @@ tags:
 씁쓸합니다.
 
 ![](./a_g_c.jpg)
-
 [**Australasian Gaming Council**](http://www.austgamingcouncil.org.au/ "[http://www.austgamingcouncil.org.au/]로 이동합니다.")
 
 ![](./g_h.jpg)
-
 [**Gambling Help**](http://www.gamblinghelp.nsw.gov.au/ "[http://www.gamblinghelp.nsw.gov.au/]로 이동합니다.")
 
 ![](./gra.jpg)
-
-**[Gambling Research Australia](http://www.gamblingresearch.org.au/ "[http://www.gamblingresearch.org.au/]로 이동합니다.")**
-
-  
+[**Gambling Research Australia**](http://www.gamblingresearch.org.au/ "[http://www.gamblingresearch.org.au/]로 이동합니다.")
 
 ![](./o_l_g_r.jpg)
-
 [**NSW Office of Liquor Gaming and Racing**](http://www.olgr.nsw.gov.au/ "[http://www.olgr.nsw.gov.au/]로 이동합니다.")
 
 ![](./g_a_c.jpg)
-
 [**Problem Gambling Help SA**](http://www.problemgambling.sa.gov.au/ "[http://www.problemgambling.sa.gov.au/]로 이동합니다.")

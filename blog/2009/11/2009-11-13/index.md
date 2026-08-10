@@ -11,6 +11,8 @@ tags:
   - "윙"
 ---
 
+http://www.youtube.com/watch?v=BRcOY-PvOC8&feature=fvst
 [닭날개 뼈 쉽게 바르는 방법](http://www.youtube.com/watch?v=BRcOY-PvOC8&feature=fvst "[http://www.youtube.com/watch?v=BRcOY-PvOC8&feature=fvst]로 이동합니다.")
 
+http://www.youtube.com/watch?v=nBJV56WUDng
 [바나나 껍질 쉽게 벗기는 방법](http://www.youtube.com/watch?v=nBJV56WUDng "[http://www.youtube.com/watch?v=nBJV56WUDng]로 이동합니다.")

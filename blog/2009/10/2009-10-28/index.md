@@ -11,35 +11,31 @@ tags:
   - "도메인"
 ---
 
-[티스토리용 아이폰 어플 (iTistory)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=329446743&mt=8 "[http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=329446743&mt=8]로 이동합니다.")과 [네이버 블로그용 아이폰 어플](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=328813873&mt=8 "[http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=328813873&mt=8]로 이동합니다.")에 대한 [글](http://blog.summerz.pe.kr/1457 "[http://blog.summerz.pe.kr/1457]로 이동합니다.")을 쓰다가 [ghostsbs님의 댓글](http://blog.summerz.pe.kr/1457#comment2939877 "[http://blog.summerz.pe.kr/1457#comment2939877]로 이동합니다.")을 받고 궁금해진 내용입니다.
+[티스토리용 아이폰 어플 (iTistory)](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=329446743&mt=8 "[http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=329446743&mt=8]로 이동합니다.")과 [네이버 블로그용 아이폰 어플](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=328813873&mt=8 "[http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=328813873&mt=8]로 이동합니다.")에 대한 글을 쓰다가 ghostsbs님의 댓글을 받고 궁금해진 내용입니다.
 
 <!-- truncate -->
 
 티스토리의 경우에는 모바일 페이지가 블로그주소/m (예: http://blog.summerz.pe.kr/m )입니다. 따라서, 기본적인 티스토리 도메인을 쓰건 독립 도메인을 쓰건 모바일 페이지로 접속을 하는데 문제가 없죠.
 
-**티스토리의 경우 예)**
+## 티스토리의 경우 예
 
-기본 도메인 일반 주소 : http://summerz.tistory.com/
-
-기본 도메인 모바일 주소 : http://summerz.tistory.com/m
-
-독립 도메인 일반 주소 : http://blog.summerz.pe.kr/
-
-독립 도메인 모바일 주소 : http://blog.summerz.pe.kr/m
+- 기본 도메인 일반 주소 : http://summerz.tistory.com/
+- 기본 도메인 모바일 주소 : http://summerz.tistory.com/m
+- 독립 도메인 일반 주소 : http://blog.summerz.pe.kr/
+- 독립 도메인 모바일 주소 : http://blog.summerz.pe.kr/m
 
 네이버 블로그는 기본적인 네이버 도메인을 사용하면 m.blog.naver.com/아이디 (예: http://m.blog.naver.com/remmus ) 를 입력하면 모바일 페이지로 이동할 수 있는데, 독립 도메인을 쓰는 경우에는 모바일 페이지에 어떻게 접속을 해야 하는지 궁금해지더군요.
 
-**네이버 블로그의 경우 예)**
+## 네이버 블로그의 경우 예
 
-기본 도메인 일반 주소 : http://blog.naver.com/remmus
-
-기본 도메인 모바일 주소 : http://m.blog.naver.com/remmus
-
-독립 도메인 일반 주소 : http://naver-blog.com/
-
-독립 도메인 모바일 주소 : **???**
+- 기본 도메인 일반 주소 : http://blog.naver.com/remmus
+- 기본 도메인 모바일 주소 : http://m.blog.naver.com/remmus
+- 독립 도메인 일반 주소 : http://naver-blog.com/
+- 독립 도메인 모바일 주소 : **???**
 
 혹시 아시는 분 있나요? 새삼 궁금하군요;;;
+
+* * *
 
 p.s.
 

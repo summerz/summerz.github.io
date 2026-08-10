@@ -17,89 +17,74 @@ tags:
 
 저는 전자제품을 사면 대부분 매뉴얼을 처음부터 끝까지 읽어봅니다. 대충 넘기더라도 어쨌든 한번은 보는데, 아이폰4 매뉴얼은 정말 간단하더군요. 기능 설명도 자세히 되어있지 않고 전체적으로 친절하지 않습니다. 수많은 아이폰 관련 블로그가 인기있는 이유를 새삼 알겠더라고요. 이렇게 불친절한 메뉴얼과 고객서비스의 최첨단을 달리는 지니어스바를 운영하는 애플이라니... 나름의 작전일까요?
 
-+
+* * *
 
 며칠 전 집 앞의 마트에서 아이폰4 화이트를 가진 분을 봤습니다. 마트 내 약국 약사였는데요, 약 사는데 정신이 팔려서 어떻게 화이트를 구했는지 물어보지를 못했어요. 저도 원래는 화이트를 사고 싶었는데...
 
 [WhiteiPhone4Now](http://www.whiteiphone4now.com/ "[http://www.whiteiphone4now.com/]로 이동합니다.") 라는 사이트에 가니 DIY 키트를 팔더군요. 가격은 $295 니까 지금 환율로는 34만 2천원. 아아 선뜻 지를 수 없는 가격이지요. ㅠ.ㅠ
 
-+
+* * *
 
 여기저기 많은 팁들이 있지만 제가 아이폰4를 구매하고 나름 유용했다고 생각하는 팁들만 몇 개 적어보겠습니다. (아이폰3Gs 에도 적용되는 팁일지도 몰라요)
 
-**수신율이 좋지 않다고 느낀다면**
+## 수신율이 좋지 않다고 느낀다면
 
 **설정 -> 일반 -> 재설정** 에 들어가서 **네트워크 설정 재설정** 을 선택하세요. 안테나가 1-2개 더 잡힙니다. 안테나바 계산식 재구성 이런 게 아니니 조금은 좋아지는 게 맞겠죠.
 
 참고로 **설정->네트워크 사업자** 에 있는 자동 옵션은 켜두는 게 좋다고 하더군요.
 
-**계정은 2개 만들어 두세요. 한국 계정, 미국 계정**
+## 계정은 2개 만들어 두세요. 한국 계정, 미국 계정
 
 아이폰(과 아이팟 터치)를 사용하려면 아이튠즈 계정이 있어야 하는 건 다 아시겠죠. 계정 만드는 방법은 구글링하면 많이 나오니 알아서 만드시면 되는데, 미국 계정도 하나 만들어두세요. 각종 무료 세일 행사 앱들을 다운로드 받을 수도 있고, 아이튠스 뮤직 스토어에서 매주 2곡의 노래와 1곡의 뮤직비디오를 다운로드 받을 수 있으니 말이죠.
 
-링크 : [Team jy Blog - [아이튠즈] 1. 아이튠즈 회원가입 방법 (한국계정 만들기)](http://teamjyblog.tistory.com/24 "[http://teamjyblog.tistory.com/24]로 이동합니다.")
+- 링크: [Team jy Blog - [아이튠즈] 1. 아이튠즈 회원가입 방법 (한국계정 만들기)](http://teamjyblog.tistory.com/24 "[http://teamjyblog.tistory.com/24]로 이동합니다.")
+- 링크: [미후왕의 Amateurism - 아이튠즈 미국 일본 무료 계정 만들기 - 초보를 위한 아이폰 가이드 28](http://mihuwang.tistory.com/302 "[http://mihuwang.tistory.com/302]로 이동합니다.")
 
-링크 : [미후왕의 Amateurism - 아이튠즈 미국 일본 무료 계정 만들기 - 초보를 위한 아이폰 가이드 28](http://mihuwang.tistory.com/302 "[http://mihuwang.tistory.com/302]로 이동합니다.")
+## 앱스토어에서 여러 계정 번갈아 사용하는 방법
 
-**앱스토어에서 여러 계정 번갈아 사용하는 방법**
+미국 계정, 한국 계정 등 이렇게 여러 계정이 있을 때 번갈아 가면서 로그인하는 방법을 모르는 분들이 의외로 좀 있더군요. 예를 한번 들어봤습니다.
 
-미국 계정, 한국 계정 등 이렇게 여러 계정이 있을 때 번갈아 가면서 로그인하는 방법을 모르는 분들이 의외로 좀 있더군요. 예를 한번 들어봤습니다. 길어서 접어두었습니다.
+### 앱스토어 다른 계정으로 로그인하기
 
-앱스토어 다른 계정으로 로그인하기
-
-현재 앱스토어에 이미 로그인이 되어 있는 상태라고 가정해보죠. App Store 앱을 실행한 후 Top 25 로 가서 페이지 제일 하단으로 가면 확인할 수 있습니다.  
-  
-
+현재 앱스토어에 이미 로그인이 되어 있는 상태라고 가정해보죠. App Store 앱을 실행한 후 Top 25 로 가서 페이지 제일 하단으로 가면 확인할 수 있습니다.
 
 ![](./사진%201.PNG)
-
 정보가 표시된 버튼을 클릭하면 팝업이 뜹니다. 여기서 **로그아웃**을 클릭.
 
 ![](./사진%202.PNG)
-
 그럼 정보가 표시됐던 버튼이 단순히 로그인 버튼으로 바뀌었네요. 이제 **로그인** 버튼을 클릭
 
 ![](./사진%203.PNG)
-
 다시 팝업이 뜨면 **기존의 계정 사용**을 클릭합니다.
 
 ![](./사진%204.PNG)
-
 다시 팝업이 뜨면 여기서 원하는 계정 정보를 입력하세요. 그럼 제대로 로그인이 될 겁니다.
 
 ![](./사진%205.PNG)
-
 이 정도면 충분히 쉽죠. 단, 계정은 미리 만들어 두어야겠죠.
 
-**그 밖의 팁들**
+## 그 밖의 팁들
 
 그 밖에 여러 팁들이 훨씬 더 많죠. 위에서 언급한 것처럼 필요한 내용은 [구글링](http://www.google.co.kr/search?hl=ko&lr=&safe=off&complete=1&q=%EC%95%84%EC%9D%B4%ED%8F%B0+%ED%8C%81&aq=f&aqi=&aql=&oq=&gs_rfai= "[http://www.google.co.kr/search?hl=ko&lr=&safe=off&complete=1&q=%EC%95%84%EC%9D%B4%ED%8F%B0+%ED%8C%81&aq=f&aqi=&aql=&oq=&gs_rfai=]로 이동합니다.")하시면 되고요, 저에게 유용했던 정보들을 아래 정리해봤습니다.
 
-**자잘한 팁 리스트**
+### 자잘한 팁 리스트
 
-* **[iTunes 10 어플리케이션 설치시 iPodService.exe 오류 해결법](http://nineyou.egloos.com/1839532 "[http://nineyou.egloos.com/1839532]로 이동합니다.")**
-* **[세로 화면 방향 고정하기](http://netboard.co.kr/263 "[http://netboard.co.kr/263]로 이동합니다.")**
-* **[번들 이어폰 (이어버드) 사용방법](http://cheum.net/259 "[http://www.wapy.com/entiz/read.php?num=1943]로 이동합니다.")**
-* **전화올 때 무음으로 변경하기**
-
-+ **슬립버튼 1번 클릭 (연속 2번 클릭하면 수신 거절이 됨)**
-+ **혹은 볼륨버튼 아무거나 1번 클릭**
-
-* **~~아이폰 앱 전체를 강제 종료하기~~**
-
-+ ~~슬립버튼 길게 누르기 -> 밀어서 전원끄기 화면 나옴 -> 홈버튼을 길게 누르기~~
-+ ~~홈버튼 두번 클릭할 때 나오는 목록에서 표시는 되지만 메모리에서는 다 날아간 상태가 됩니다.~~
-+ 앱 실행상태에서 홈버튼을 길게 누르면 해당 앱만 강제 종료됩니다.
-
-* **무인코딩 동영상 + 자막 감상하기**
-
-+ [전체적인 설명](http://thefun-kr.tistory.com/862 "[http://thefun-kr.tistory.com/862]로 이동합니다.")
-+ [OPlayer 아이튠즈 링크](http://itunes.apple.com/us/app/oplayer/id344784375?mt=8 "[http://itunes.apple.com/us/app/oplayer/id344784375?mt=8]로 이동합니다.")
-+ [SMISyncW (SMI -> SRT 변환 가능) 다운로드 링크](http://simiy.cafe24.com/dboard/dboard.php?id=util "[http://simiy.cafe24.com/dboard/dboard.php?id=util]로 이동합니다.")
-
-* **각종 동영상 스트리밍 서비스**
-
-+ [http://ev7.net](http://ev7.net "[http://ev7.net]로 이동합니다.") (아이폰 사파리로 접속)
-+ [http://ivideo.agtown.net](http://ivideo.agtown.net "[http://ivideo.agtown.net]로 이동합니다.") (아이폰 사파리로 접속)
-+ [http://icinema.myhome.tv](http://icinema.myhome.tv "[http://icinema.myhome.tv]로 이동합니다.") (아이폰 사파리로 접속)
-+ [TVee](http://itunes.apple.com/kr/app/tvee/id370077878?mt=8 "[http://itunes.apple.com/kr/app/tvee/id370077878?mt=8]로 이동합니다.") (아이폰 앱, 현재 무료)
+- **[iTunes 10 어플리케이션 설치시 iPodService.exe 오류 해결법](http://nineyou.egloos.com/1839532 "[http://nineyou.egloos.com/1839532]로 이동합니다.")**
+- **[세로 화면 방향 고정하기](http://netboard.co.kr/263 "[http://netboard.co.kr/263]로 이동합니다.")**
+- **[번들 이어폰 (이어버드) 사용방법](http://cheum.net/259 "[http://www.wapy.com/entiz/read.php?num=1943]로 이동합니다.")**
+- **전화올 때 무음으로 변경하기**
+  - **슬립버튼 1번 클릭 (연속 2번 클릭하면 수신 거절이 됨)**
+  - **혹은 볼륨버튼 아무거나 1번 클릭**
+- **~~아이폰 앱 전체를 강제 종료하기~~**
+  - ~~슬립버튼 길게 누르기 -> 밀어서 전원끄기 화면 나옴 -> 홈버튼을 길게 누르기~~
+  - ~~홈버튼 두번 클릭할 때 나오는 목록에서 표시는 되지만 메모리에서는 다 날아간 상태가 됩니다.~~
+  - 앱 실행상태에서 홈버튼을 길게 누르면 해당 앱만 강제 종료됩니다.
+- **무인코딩 동영상 + 자막 감상하기**
+  - [전체적인 설명](http://thefun-kr.tistory.com/862 "[http://thefun-kr.tistory.com/862]로 이동합니다.")
+  - [OPlayer 아이튠즈 링크](http://itunes.apple.com/us/app/oplayer/id344784375?mt=8 "[http://itunes.apple.com/us/app/oplayer/id344784375?mt=8]로 이동합니다.")
+  - [SMISyncW (SMI -> SRT 변환 가능) 다운로드 링크](http://simiy.cafe24.com/dboard/dboard.php?id=util "[http://simiy.cafe24.com/dboard/dboard.php?id=util]로 이동합니다.")
+- **각종 동영상 스트리밍 서비스**
+  - [http://ev7.net](http://ev7.net "[http://ev7.net]로 이동합니다.") (아이폰 사파리로 접속)
+  - [http://ivideo.agtown.net](http://ivideo.agtown.net "[http://ivideo.agtown.net]로 이동합니다.") (아이폰 사파리로 접속)
+  - [http://icinema.myhome.tv](http://icinema.myhome.tv "[http://icinema.myhome.tv]로 이동합니다.") (아이폰 사파리로 접속)
+  - [TVee](http://itunes.apple.com/kr/app/tvee/id370077878?mt=8 "[http://itunes.apple.com/kr/app/tvee/id370077878?mt=8]로 이동합니다.") (아이폰 앱, 현재 무료)
