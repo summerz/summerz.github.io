@@ -4,10 +4,54 @@
         <title>summerz.net Blog</title>
         <link>https://summerz.net/blog</link>
         <description>summerz.net Blog</description>
-        <lastBuildDate>Sun, 14 Jul 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[파일명에 'beacon'이 있다고 차단한다고?]]></title>
+            <link>https://summerz.net/blog/2026/08/26</link>
+            <guid>https://summerz.net/blog/2026/08/26</guid>
+            <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[요즘 순수 HTML + ES 모듈 + Three.js로, 서버 없이 브라우저에서만 도는 3D 월드 에디터를 만들고 있는데요. 이상하게 아무리 수정해도 아이폰에 반영이 안 되는 거예요.]]></description>
+            <content:encoded><![CDATA[<p>요즘 순수 HTML + ES 모듈 + Three.js로, 서버 없이 브라우저에서만 도는 3D 월드 에디터를 만들고 있는데요. 이상하게 아무리 수정해도 아이폰에 반영이 안 되는 거예요.</p>
+<p>증상부터 쓰자면 이렇습니다.</p>
+<ul>
+<li>맥에서 크롬/사파리, 안드로이드까지 전부 정상.</li>
+<li>그런데 아이폰 사파리에서만 예전 로딩 화면에서 멈추는 증상이 사라지지 않음. 심지어 과거 소스 같음.</li>
+<li>사이트 데이터 삭제하고, 리부팅 등등 다시 들어가도 똑같음. → 캐시 문제는 아님.</li>
+</ul>
+<p>데스크톱 완벽, Android 정상. 아이폰 사파리만 로딩 화면에 고착. 캐시를 지워도, 사파리 데이터를 날려도 같아요.</p>
+<p>하필이면 디버깅을 위해 넣은 코드가 살짝 이상해서 발견이 늦긴 했지만, 결론부터 말하면 범인은 내 코드도, 서버도 아니었습니다. <strong>파일 이름</strong>이었어요.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="beacon-이-뭐라고">beacon 이 뭐라고.<a class="hash-link" aria-label="Direct link to beacon 이 뭐라고." title="Direct link to beacon 이 뭐라고." href="https://summerz.net/blog/2026/08/26#beacon-%EC%9D%B4-%EB%AD%90%EB%9D%BC%EA%B3%A0">​</a></h2>
+<p>월드에 등대(lighthouse) 기능을 넣을 일이 있어서, 회전하는 빔을 담당하는 스크립트를 자연스럽게 <code>src/beacon.js</code>라고 지었죠. 등표, 등대, 등명대... beacon 이잖아요.</p>
+<div class="language-js codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-js codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token keyword module" style="color:#00009f">import</span><span class="token plain"> </span><span class="token imports punctuation" style="color:#393A34">{</span><span class="token imports"> </span><span class="token imports maybe-class-name">Beacon</span><span class="token imports"> </span><span class="token imports punctuation" style="color:#393A34">}</span><span class="token plain"> </span><span class="token keyword module" style="color:#00009f">from</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'./beacon.js'</span><span class="token punctuation" style="color:#393A34">;</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<p>이게 모든 문제의 시작이었습니다.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="디버깅-여정">디버깅 여정<a class="hash-link" aria-label="Direct link to 디버깅 여정" title="Direct link to 디버깅 여정" href="https://summerz.net/blog/2026/08/26#%EB%94%94%EB%B2%84%EA%B9%85-%EC%97%AC%EC%A0%95">​</a></h2>
+<p>처음 의심한 건 늘 그렇듯 서비스 워커랑 캐시였습니다. 근데 해당 없었어요. 사이트 데이터를 통째로 지워도 재현되니까, 처음부터 뭔가가 다르게 돌고 있는 거죠.</p>
+<p>사실 테일스케일 설정을 의심해서 엄청나게 시간을 많이 썼습니다. 하필이면 테일스케일 설정과 이용 방법을 그 때 즈음에 변경한 게 있어서 그게 문제의 원인이라고 너무 확신을 했던 거죠. 여기서 시간을 제일 많이 썼습니다.</p>
+<p>다음으로 서버 접근 로그를 확인했는데, 여기서 단서가 나왔습니다. <strong>아이폰에서 <code>beacon.js</code>를 요청한 기록 자체가 로그에 없더군요.</strong> 요청이 서버에 안 온 거예요. 맥 사파리로 접속하면 당연히 로그에 찍히고요. 같은 URL인데 기기에 따라 요청이 아예 안 나간다는 건, 클라이언트 단에서 보내기 전에 뭔가가 가로채고 있다는 뜻입니다.</p>
+<p>확인용으로 클라이언트 에러 비콘(<code>/__client-error</code>)을 설치해서 모듈 로드 실패를 감지해봤더니 역시, 아이폰에서만 해당 모듈의 로드가 실패하고 있었습니다. oTL</p>
+<p>결론을 말하자면, iOS의 <strong>콘텐츠 차단기(광고 차단기)</strong>. 차단기가 리소스 URL에 "beacon"이라는 문자열이 포함된 것을 잡아낸 겁니다. beacon 하면 추적 비콘(tracking beacon)이 먼저 떠오르니까요. <code>navigator.sendBeacon</code> 같은 API 이름과 겹치는 단어일수록 차단 리스트에 이미 들어가 있을 확률이 높습니다. 차단된 모듈 import는 스크립트 그래프 전체를 실패로 만들고, 그래서 무한 로딩. <code>src/beacon.js</code>는 광고도 아니고 추적기도 아닌데, 이름만으로 희생된 거죠.</p>
+<p>파일명을 <code>lighthouse-beam.js</code> 같은 걸로 바꾸고 바로 해결됐습니다.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="배운-것">배운 것<a class="hash-link" aria-label="Direct link to 배운 것" title="Direct link to 배운 것" href="https://summerz.net/blog/2026/08/26#%EB%B0%B0%EC%9A%B4-%EA%B2%83">​</a></h2>
+<ul>
+<li>콘텐츠 차단기는 DOM이 아니라 <strong>리소스 URL 패턴</strong>을 보더라. track, beacon, analytics, ads, pixel, collect, telemetry, fingerprint … 추적 관련 키워드가 담긴 파일·경로는 무고해도 희생될 수 있다.</li>
+<li>괜히 근거 없이 다른 애를 의심하지 말고 "서버에 요청이 안 온다 = 클라이언트가 보내기 전에 막혔다"로 인지하고 빨리 확인해야 한다. 네트워크 계층 분할이 디버깅 시간을 결정한다.</li>
+<li>방어책으로 에러 비콘(아이러니하게도)을 심어두고, 아무 정보 없는 무한 스피너는 최악의 실패 모드일 수 있다.</li>
+</ul>
+<hr>
+<p>오랫동안 "쿠키 때문에 안 되는" 시대를 살았는데, "파일 이름 때문에 안 되는" 시대가 된 줄 몰랐습니다. 변수명은 실행에 영향을 주지 않지만, URL은 코드가 아니라 데이터로 취급되더군요.</p>]]></content:encoded>
+            <category>something useful</category>
+            <category>개발</category>
+            <category>자바스크립트</category>
+            <category>아이폰</category>
+            <category>사파리</category>
+            <category>디버깅</category>
+        </item>
         <item>
             <title><![CDATA[나를 찾아줘]]></title>
             <link>https://summerz.net/blog/2024/07/14</link>
@@ -78,7 +122,7 @@
             <content:encoded><![CDATA[<p>아직 국내에서 아이폰5를 판매하지는 않지만, 해외는 이미 핸즈온 비디오와 리뷰들이 올라오고 있다.</p>
 <p>이미 수많은 리뷰들이 있기 때문에 굳이 거기에 더 보태서 이미 나와있는 이야기를 할 필요는 없을 것 같고, 아직 아이폰5를 만져보지는 않았지만 아이폰5에 대한 생각 몇 가지를 적어본다.</p>
 <p><img decoding="async" loading="lazy" src="https://summerz.net/assets/images/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202012-09-20%20%EC%98%A4%ED%9B%84%2011.53.48-87170774e49c0d890fe66da7a1e1b48c.png" width="1147" height="837" class="img_ev3q"> 작지만 큰 차이. 아이폰5</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="첫째-섬세한-외관-요즘-한국-언론식이라면-명품-외관이라는-표현도-가능할-듯">첫째, 섬세한 외관 (요즘 한국 언론식이라면 명품 외관이라는 표현도 가능할 듯)<a class="hash-link" aria-label="Direct link to 첫째, 섬세한 외관 (요즘 한국 �언론식이라면 명품 외관이라는 표현도 가능할 듯)" title="Direct link to 첫째, 섬세한 외관 (요즘 한국 언론식이라면 명품 외관이라는 표현도 가능할 듯)" href="https://summerz.net/blog/2012/09/21#%EC%B2%AB%EC%A7%B8-%EC%84%AC%EC%84%B8%ED%95%9C-%EC%99%B8%EA%B4%80-%EC%9A%94%EC%A6%98-%ED%95%9C%EA%B5%AD-%EC%96%B8%EB%A1%A0%EC%8B%9D%EC%9D%B4%EB%9D%BC%EB%A9%B4-%EB%AA%85%ED%92%88-%EC%99%B8%EA%B4%80%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%91%9C%ED%98%84%EB%8F%84-%EA%B0%80%EB%8A%A5%ED%95%A0-%EB%93%AF">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="첫째-섬세한-외관-요즘-한국-언론식이라면-명품-외관이라는-표현도-가능할-듯">첫째, 섬세한 외관 (요즘 한국 언론식이라면 명품 외관이라는 표현도 가능할 듯)<a class="hash-link" aria-label="Direct link to 첫째, 섬세한 외관 (요즘 한국 언론식이라면 명품 외관이라는 표현도 가능할 듯)" title="Direct link to 첫째, 섬세한 외관 (요즘 한국 언론식이라면 명품 외관이라는 표현도 가능할 듯)" href="https://summerz.net/blog/2012/09/21#%EC%B2%AB%EC%A7%B8-%EC%84%AC%EC%84%B8%ED%95%9C-%EC%99%B8%EA%B4%80-%EC%9A%94%EC%A6%98-%ED%95%9C%EA%B5%AD-%EC%96%B8%EB%A1%A0%EC%8B%9D%EC%9D%B4%EB%9D%BC%EB%A9%B4-%EB%AA%85%ED%92%88-%EC%99%B8%EA%B4%80%EC%9D%B4%EB%9D%BC%EB%8A%94-%ED%91%9C%ED%98%84%EB%8F%84-%EA%B0%80%EB%8A%A5%ED%95%A0-%EB%93%AF">​</a></h2>
 <p>요즘 같은 시대에는 2년에 한번씩 핸드폰을 바꾸는 것이 크게 이상한 일이 아니다. 단말기 가격을 최대 100만원 잡고 한달에 4만1천원 정도 (100만원 / 24개월 ≒ 4만1,600원)를 내면서 스마트폰을 사용하는 시대라는 뜻이다. 물론 이통사/제조사의 단말기 보조금을 받고, 나중에 이를 중고로 다시 파는 비용을 생각하면 이보다는 훨씬 저렴해지기는 한다.</p>
 <p>어쩄든 이렇게 누구나(...) 하지만 매우 비싸게(...) 스마트폰을 사용할 수 있는 시대에 애플은 마치 스위스산 고급 시계와 같은 표현들 - 장인이 만든 시계 (a finely craft watch), 크리스탈 다이아몬드로 비스듬하게 마감한 모서리를 느껴보세요. (A crystalline diamond cuts this beveled edge.) - 을 사용하고 있다. 심지어 뒷면은 몇백만원하는 노트북에 쓰이는 재질과 같다는 표현까지 하고 있다.</p>
 <p>불과 몇 년 전만 해도 우리나라에 팔리던 핸드폰들은 기능은 꽝이지만 디자인은 나름 멋진 폰들이 있었고, 그 중의 대표적인 것이 바로 LG전자의 프라다폰이었다. (그리고 삼성은 이 때도 역시 이 성공을 따라해 아르마니폰을 내놓았다.)</p>
@@ -542,53 +586,6 @@
             <category>media &amp; world</category>
             <category>리트윗</category>
             <category>트윗</category>
-        </item>
-        <item>
-            <title><![CDATA[노래하는 아빠와 딸 - Jorge & Alexa Narvaez]]></title>
-            <link>https://summerz.net/blog/2011/10/16</link>
-            <guid>https://summerz.net/blog/2011/10/16</guid>
-            <pubDate>Sun, 16 Oct 2011 00:00:00 GMT</pubDate>
-            <description><![CDATA[유튜브를 보다가 깜찍한 영상들을 발견했습니다. 아빠와 딸이 나란히 앉아서 노래를 부르는 영상인데 딸이 정말 귀엽네요. 아빠 역시 연주도 잘 하고 노래도 잘 하고요.]]></description>
-            <content:encoded><![CDATA[<p>유튜브를 보다가 깜찍한 영상들을 발견했습니다. 아빠와 딸이 나란히 앉아서 노래를 부르는 영상인데 딸이 정말 귀엽네요. 아빠 역시 연주도 잘 하고 노래도 잘 하고요.</p>
-<p>아빠는 호세 나바에즈, 딸은 알렉사 나바에즈. 알렉사는 미국 나이로 올해 6살이래요. 알렉사가 제법 아빠의 연주에 신경쓰며 진지하게 노래를 부르는 게 너무 귀여워요.</p>
-<figure class="mdFigure mdFigure--embed">
-<div class="ytEmbed"><iframe src="https://www.youtube-nocookie.com/embed/L64c5vT3NBw" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-<figcaption>
-<p>Home - Edward Sharpe and The Magnetic Zeros Acoustic Cover (이건 5살인 작년 말에 녹음한 거군요)</p>
-</figcaption></figure>
-<figure class="mdFigure mdFigure--embed">
-<div class="ytEmbed"><iframe src="https://www.youtube-nocookie.com/embed/M2WGaTr_7Io" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-<figcaption>
-<p>Be My Baby - The Ronettes Acoustic Cover</p>
-</figcaption></figure>
-<figure class="mdFigure mdFigure--embed">
-<div class="ytEmbed"><iframe src="https://www.youtube-nocookie.com/embed/tHqFWYYOUAM" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-<figcaption>
-<p>What's up (What's Going On)- 4 Non Blondes Acoustic Cover</p>
-</figcaption></figure>
-<figure class="mdFigure mdFigure--embed">
-<div class="ytEmbed"><iframe src="https://www.youtube-nocookie.com/embed/YBlLaOf1DV8" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-<figcaption>
-<p>Wake Me Up When September Ends - Green Day Acoustic Cover</p>
-</figcaption></figure>
-<hr>
-<p>그러더니 <a href="https://www.dailymotion.com/video/x8uwn7i" target="_blank" rel="noopener noreferrer">엘렌 드제너러스 쇼에도 출연</a>했습니다!</p>
-<p>엘렌 쇼에 나와서도 전혀 떨지 않고 노래를 잘 하더니, 바비 인형을 제일 좋아하는 알렉사가 바비 인형 자동차를 보고서도 관객석에 가서 관객과 포옹을 먼저 하고 돌아오다니. 정말 깜찍하고 귀엽습니다.</p>
-<p>그리고, 락 페스티벌에도 출연했네요.</p>
-<figure class="mdFigure mdFigure--embed">
-<div class="ytEmbed"><iframe src="https://www.youtube-nocookie.com/embed/vjTv_WZIVPQ" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
-<figcaption>
-<p>Indiefest 7 San Diego - Father and Daughter Jorge and Alexa Narvaez perform "Home"</p>
-</figcaption></figure>
-<p>참, 이 부녀가 부른 노래들이 아이튠즈에도 올라가 있더군요.</p>
-<ul>
-<li><a href="http://itunes.apple.com/us/album/home-feat.-alexa-narvaez-single/id448955222" target="_blank" rel="noopener noreferrer">Jorge Narvaez - Home (feat. Alexa Narvaez) - Single</a> at iTunes</li>
-<li><a href="http://itunes.apple.com/us/album/rolling-in-deep-feat.-alexa/id458629631" target="_blank" rel="noopener noreferrer">Jorge Narvaez - Rolling In the Deep (feat. Alexa Narvaez) - Single</a> at iTunes</li>
-<li><a href="http://itunes.apple.com/us/album/next-2-you-feat.-alexa-narvaez/id469528769" target="_blank" rel="noopener noreferrer">Jorge Narvaez - Next 2 You (feat. Alexa Narvaez) - Single</a> at iTunes</li>
-</ul>]]></content:encoded>
-            <category>hooked on music</category>
-            <category>아빠</category>
-            <category>딸</category>
         </item>
     </channel>
 </rss>
