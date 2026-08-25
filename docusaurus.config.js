@@ -5,6 +5,7 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import remarkBreaks from 'remark-breaks';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -73,6 +74,10 @@ const config = {
         blog: {
           // 기본 이미지 변환/자동링크보다 먼저 돌아야 image·text 노드를 볼 수 있다.
           beforeDefaultRemarkPlugins: [require('./src/remark/figures')],
+          // 티스토리에서 옮겨온 글은 한 줄이 한 문장이다. CommonMark 는 개행 1개를
+          // 공백으로 흘려보내니 줄 끝 공백 2칸에 의존하게 되는데, 그 2칸은 눈에
+          // 안 보여서 손으로 고칠 때마다 지워진다. 개행 1개를 그냥 <br> 로 본다.
+          remarkPlugins: [remarkBreaks],
           // 공개 상태는 프론트매터 draft 가 정한다. 없으면 공개, draft: true 면
           // 드래프트(개발 서버에서는 보이고 배포 빌드에서는 빠진다).
           // 태그를 안 단 글은 아직 정리가 덜 된 글이므로 공개를 막는다 - 조용히
