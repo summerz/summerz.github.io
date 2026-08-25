@@ -1,0 +1,48 @@
+/* 아카이브 페이지의 연도 카드(yearCard)와 같은 톤으로 맞췄다. */
+.categoryGrid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+@media (max-width: 996px) {
+  .categoryGrid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 480px) {
+  .categoryGrid {
+    grid-template-columns: 1fr;
+  }
+}
+
+.categoryCard {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: var(--ifm-global-radius);
+  background-color: var(--ifm-background-surface-color);
+  color: var(--ifm-font-color-base);
+  transition:
+    border-color 0.2s ease,
+    background-color 0.2s ease;
+}
+
+.categoryCard:hover {
+  border-color: var(--ifm-color-primary);
+  background-color: var(--ifm-hover-overlay, var(--ifm-color-emphasis-100));
+  color: var(--ifm-font-color-base);
+  text-decoration: none;
+}
+
+.categoryLabel {
+  font-weight: var(--ifm-font-weight-bold);
+}
+
+.categoryCount {
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-600);
+}

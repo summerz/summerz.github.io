@@ -3,6 +3,8 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import {useVisibleBlogSidebarItems} from '@docusaurus/theme-common/internal';
 import {NavbarSecondaryMenuFiller} from '@docusaurus/theme-common';
+import {blogCategories} from '../../../blogCategories';
+import blogCategoryCounts from '../../../generated/blogCategoryCounts.json';
 import styles from './styles.module.css';
 function BlogSidebarMobileSecondaryMenu({sidebar}) {
   const items = useVisibleBlogSidebarItems(sidebar.items);
@@ -24,6 +26,21 @@ function BlogSidebarMobileSecondaryMenu({sidebar}) {
           <b>더 이전 글 보기</b>
         </Link>
       </li>
+      <li className={clsx('menu__list-item', styles.categoriesTitle)}>카테고리</li>
+      {blogCategories.map((category) => (
+        <li key={category.permalink} className="menu__list-item">
+          <Link
+            isNavLink
+            to={category.permalink}
+            className="menu__link"
+            activeClassName="menu__link--active">
+            {category.label}{' '}
+            <span className={styles.categoryCount}>
+              ({blogCategoryCounts[category.label] ?? 0})
+            </span>
+          </Link>
+        </li>
+      ))}
     </ul>
   );
 }

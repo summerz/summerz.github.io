@@ -42,3 +42,14 @@
     display: none;
   }
 }
+
+/* 최신 글 nav 아래 카테고리 블록. sticky 스크롤은 최신 글 쪽에만 맡긴다 */
+.categoriesNav {
+  margin-top: 2rem;
+}
+
+/* 카테고리 옆 글 수 - 링크 색에 묻히지 않게 흐리게 */
+.categoryCount {
+  color: var(--ifm-color-emphasis-600);
+  font-size: 0.85rem;
+}

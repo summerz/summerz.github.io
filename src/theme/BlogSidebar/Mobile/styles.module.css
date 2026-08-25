@@ -2,3 +2,17 @@
 .moreLink {
   color: var(--ifm-link-color);
 }
+
+/* 카테고리 섹션 제목 - 메뉴 항목 사이에 작은 제목으로 */
+.categoriesTitle {
+  margin-top: 1.5rem;
+  font-size: 0.85rem;
+  font-weight: var(--ifm-font-weight-bold);
+  color: var(--ifm-color-emphasis-600);
+  text-transform: none;
+}
+
+/* 카테고리 옆 글 수 */
+.categoryCount {
+  color: var(--ifm-color-emphasis-600);
+}
