@@ -14,9 +14,7 @@ tags:
 
 <!-- truncate -->
 
-이번에도 역시 5편의 뮤직비디오.
-백문이 불여일견.
-역시 유튜빙.
+이번에도 역시 5편의 뮤직비디오. 백문이 불여일견. 역시 유튜빙.
 
 https://www.youtube.com/watch?v=s5FyfQDO5g0
 **Chemical Brothers - Let Forever Be**

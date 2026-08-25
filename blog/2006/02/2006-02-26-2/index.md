@@ -17,8 +17,7 @@ tags:
 신조어를 대할 때는 언제나 그 신조어의 어원에 대해 생각을 하게 된다. 이리저리 말을 조합해보면 의미가 떠오르는데, 펌킨족과 퍼뮤니케이션도 예외가 아니다.
 
 
-펌킨족 >> 펌KIN族
-퍼뮤니케이션 >> 펌 + communication
+펌킨족 >> 펌KIN族 퍼뮤니케이션 >> 펌 + communication
 
 
 '펌'을 즐기는(KIN) 사람들, 펌을 통해 이루어지는 커뮤니케이션이란다. 우리나라 사람들, 말을 조합하는 센스는 참으로 놀랍다. :)
@@ -92,10 +91,4 @@ tags:
 
 참고 및 관련 사이트
 
-[A Blogger's Monologue의 인터넷과 지적재산권](http://gatorlog.com/mt/archives/001095.html)
-[Creative Commons](http://creativecommons.org/)
-[오픈소스에 대한 정의](http://www.opensource.co.kr/help/)
-[김중태문화원 - 링크, 펌에 대한 이야기 정리](http://www.help119.co.kr/blog/archives/000543.html)
-[미디어오늘 - 인터넷 기사, 보도의 '기본'을 지키자](http://www.mediatoday.co.kr/news/read.php?idxno=31325&amp;amp;amp;amp;rsec=S1N3)
-[hof님의 fu\*\*뮤니케이션...](http://hof.pe.kr/b2/index.php?p=652&amp;amp;amp;amp;more=1&amp;amp;amp;amp;c=1&amp;amp;amp;amp;tb=1)
-[JH님의 펌글 논란에 대한 약간 다른 시각](http://interlude.pe.kr/tt/index.php?pl=112)
+[A Blogger's Monologue의 인터넷과 지적재산권](http://gatorlog.com/mt/archives/001095.html) [Creative Commons](http://creativecommons.org/) [오픈소스에 대한 정의](http://www.opensource.co.kr/help/) [김중태문화원 - 링크, 펌에 대한 이야기 정리](http://www.help119.co.kr/blog/archives/000543.html) [미디어오늘 - 인터넷 기사, 보도의 '기본'을 지키자](http://www.mediatoday.co.kr/news/read.php?idxno=31325&amp;amp;amp;amp;rsec=S1N3) [hof님의 fu\*\*뮤니케이션...](http://hof.pe.kr/b2/index.php?p=652&amp;amp;amp;amp;more=1&amp;amp;amp;amp;c=1&amp;amp;amp;amp;tb=1) [JH님의 펌글 논란에 대한 약간 다른 시각](http://interlude.pe.kr/tt/index.php?pl=112)

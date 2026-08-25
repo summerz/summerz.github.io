@@ -57,5 +57,4 @@ https://www.youtube.com/watch?v=bGBA_OzlPoU
 
 https://www.youtube.com/watch?v=s5FyfQDO5g0
 
-관련 글 : [미셸 공드리의 뮤직 비디오 #1](/blog/2006/09/21)
-관련 글 : [미셸 공드리의 뮤직 비디오 #2](/blog/2006/10/10)
+관련 글 : [미셸 공드리의 뮤직 비디오 #1](/blog/2006/09/21) 관련 글 : [미셸 공드리의 뮤직 비디오 #2](/blog/2006/10/10)

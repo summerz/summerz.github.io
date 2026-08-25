@@ -35,8 +35,7 @@ https://www.youtube.com/watch?v=8ZPKoZDhDC8
 張靚穎 - What's Up
 
 https://www.youtube.com/watch?v=5eZbCHCF-ro
-張靚穎 - Hero
-(유튜브에 이 곡 말고도 머라이어 캐리 곡을 부른 영상들이 좀 있군요.)
+張靚穎 - Hero (유튜브에 이 곡 말고도 머라이어 캐리 곡을 부른 영상들이 좀 있군요.)
 
 https://www.youtube.com/watch?v=CICWPySKN4Q
 張靚穎 - Don't Cry For Me Argentina
@@ -45,5 +44,4 @@ https://www.youtube.com/watch?v=VC2sN6lUxn0
 張靚穎 - How Do I Live
 
 https://www.youtube.com/watch?v=DynSuueEklo
-張靚穎 - Open Up Your Dreams
-(베이징 올림픽 주제곡은 [One World One Dream](http://www.youtube.com/watch?v=DOvSkSgtTXI) ?)
+張靚穎 - Open Up Your Dreams (베이징 올림픽 주제곡은 [One World One Dream](http://www.youtube.com/watch?v=DOvSkSgtTXI) ?)

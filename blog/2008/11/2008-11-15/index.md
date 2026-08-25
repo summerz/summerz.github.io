@@ -23,6 +23,4 @@ draft: true
 
   [![me2photo](http://farm4.static.flickr.com/3038/3028976693_38853af98c.jpg)](http://www.flickr.com/photos/19135130@N02/3028976693/)
 
-이 글은 [써머즈](http://me2day.net/summerz)님의
-[2008년 11월 14일](http://me2day.net/summerz/2008/11/14#21:12:16)의
-미투데이 내용입니다.
+이 글은 [써머즈](http://me2day.net/summerz)님의 [2008년 11월 14일](http://me2day.net/summerz/2008/11/14#21:12:16)의 미투데이 내용입니다.

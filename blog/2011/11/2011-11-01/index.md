@@ -27,8 +27,7 @@ tags:
 * * *
 
 <blockquote>
-2011-10-30
-(아이폰 팁) 확실히 "시간대 설정 중"을 끄니 배터리가 오래가는 것 같다. 설정 - 위치 서비스 - 시스템 서비스 들어가서 끄면 됨<a href="https://t.co/brtXAnAq">twitpic.com/788v4g </a>
+2011-10-30 (아이폰 팁) 확실히 "시간대 설정 중"을 끄니 배터리가 오래가는 것 같다. 설정 - 위치 서비스 - 시스템 서비스 들어가서 끄면 됨<a href="https://t.co/brtXAnAq">twitpic.com/788v4g </a>
 
 <img src="_blog_upload.jpg" />
 
@@ -50,8 +49,7 @@ tags:
 <blockquote>
 2011-10-30
 
-응? 구글이 다음을 인수할 지도 모른다는 루머? <a href="https://t.co/x1zlpAFS">economy.hankooki.com/lpage/industry...</a>
-= 구글이 다음을 노렸다는 것도 놀랍지만, SKT가 다음을 노리고 있다는 것도 놀랍다.
+응? 구글이 다음을 인수할 지도 모른다는 루머? <a href="https://t.co/x1zlpAFS">economy.hankooki.com/lpage/industry...</a> = 구글이 다음을 노렸다는 것도 놀랍지만, SKT가 다음을 노리고 있다는 것도 놀랍다.
 </blockquote>
 
 * * *

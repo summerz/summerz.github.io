@@ -17,8 +17,7 @@ tags:
 
 **첫번째 에피소드**
 
-[3ofthem.jpg](./3ofthem.jpg)
-데미안 라이스 (Damien Rice)가 부른 The Blower's Daughter의 후렴부가 모튼 하켓 (Morten Harket)의 "Can't Take My Eyes Off You"의 변주라는 건 익히 알고 있는 사실. 그러나 후렴부를 제외한 - "So it is..."으로 시작하는 첫 부분부터 "I can't take my eyes off you..." 로 시작하는 후렴부 전까지의 부분도 사실은 비틀즈 (Beatles) 곡의 리메이크였다는 새로운 사실. 즉, 비틀즈의 미공개 트랙이 남아있었단 뜻.
+[3ofthem.jpg](./3ofthem.jpg) 데미안 라이스 (Damien Rice)가 부른 The Blower's Daughter의 후렴부가 모튼 하켓 (Morten Harket)의 "Can't Take My Eyes Off You"의 변주라는 건 익히 알고 있는 사실. 그러나 후렴부를 제외한 - "So it is..."으로 시작하는 첫 부분부터 "I can't take my eyes off you..." 로 시작하는 후렴부 전까지의 부분도 사실은 비틀즈 (Beatles) 곡의 리메이크였다는 새로운 사실. 즉, 비틀즈의 미공개 트랙이 남아있었단 뜻.
 
 그리고, 비틀즈는 이 오리지널을 3가지 버전으로 후세에 남겼는데, (링고 스타 (Ringo Starr)를 제외한) 3명의 멤버가 각기 다른 버전으로 다른 가수들과 듀엣으로 부른 것이다.
 
@@ -26,8 +25,7 @@ tags:
 
 비틀즈가 자신들의 전성기 때 음악적인 실험에 매달리던 중 한 앨범을 제작할 당시 (아마도 <Sgt. Pepper`s Lonely Hearts Club Band> 즈음 이었던 듯) 사실 그들은 리듬감에 대한 시도를 밀어붙이고 있었다.
 
-[sgt\_peppers\_lonely\_hearts\_club\_band.jpg](./sgt_peppers_lonely_hearts_club_band.jpg)
-그리하여 전 멤버가 풀장에 들어가서 목만 내밀고 레코딩을 시도 하였는데, 당연히 드럼의 박자와 기타의 박자가 평범한 곡들 (뭍에서 녹음한 곡들)과는 다른 리듬감을 보여주게 되었다. 아, 대단한 비틀즈 같으니라고 !!! (게다가 시청각적인 느낌이 생생한 꿈이라니.)
+[sgt\_peppers\_lonely\_hearts\_club\_band.jpg](./sgt_peppers_lonely_hearts_club_band.jpg) 그리하여 전 멤버가 풀장에 들어가서 목만 내밀고 레코딩을 시도 하였는데, 당연히 드럼의 박자와 기타의 박자가 평범한 곡들 (뭍에서 녹음한 곡들)과는 다른 리듬감을 보여주게 되었다. 아, 대단한 비틀즈 같으니라고 !!! (게다가 시청각적인 느낌이 생생한 꿈이라니.)
 
 **왜?**
 
@@ -37,8 +35,7 @@ tags:
 
 **그리고,**
 
-데미안 라이스의 노래 몇 곡 - http://blog.naver.com/itel21/10000244567
-데미안 라이스 - The professor & La Fille Danse - http://blog.naver.com/pine2108/80019057251
+데미안 라이스의 노래 몇 곡 - http://blog.naver.com/itel21/10000244567 데미안 라이스 - The professor & La Fille Danse - http://blog.naver.com/pine2108/80019057251
 
 ※ 데미안 라이스 aka 다미엔 라이스, Damien Rice
 

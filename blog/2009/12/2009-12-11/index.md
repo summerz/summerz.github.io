@@ -12,8 +12,7 @@ tags:
   - "캐롤"
 ---
 
-![](./mzi.wgcwxcar.170x170-75.jpg)
-**[iTunes Holiday Sampler](http://itunes.apple.com/us/album/itunes-holiday-sampler/id344104720 "[http://itunes.apple.com/us/album/itunes-holiday-sampler/id344104720]로 이동합니다.")**
+![](./mzi.wgcwxcar.170x170-75.jpg) **[iTunes Holiday Sampler](http://itunes.apple.com/us/album/itunes-holiday-sampler/id344104720 "[http://itunes.apple.com/us/album/itunes-holiday-sampler/id344104720]로 이동합니다.")**
 
 <!-- truncate -->
 

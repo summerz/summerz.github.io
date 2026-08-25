@@ -36,5 +36,4 @@ tags:
 
 **관련 링크**
 
-[위키백과 - 인용](http://ko.wikipedia.org/wiki/인용)
-[김중태문화원 - 링크나 인용의 원저자에게 출처 표기에 대한 입장](http://www.dal.co.kr/blog/archives/000535.html)
+[위키백과 - 인용](http://ko.wikipedia.org/wiki/인용) [김중태문화원 - 링크나 인용의 원저자에게 출처 표기에 대한 입장](http://www.dal.co.kr/blog/archives/000535.html)

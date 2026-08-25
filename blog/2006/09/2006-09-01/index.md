@@ -56,5 +56,4 @@ tags:
 도연이 : (입꼬리가 씨익 올라가며) 히히히
 
 
-![doyeon-2.jpg](./doyeon-2.jpg)
-'저 예쁘죠?' 하는 포즈
+![doyeon-2.jpg](./doyeon-2.jpg) '저 예쁘죠?' 하는 포즈

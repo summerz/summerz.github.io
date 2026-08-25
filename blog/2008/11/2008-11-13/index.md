@@ -15,6 +15,4 @@ draft: true
 
 <!-- truncate -->
 
-이 글은 [써머즈](http://me2day.net/summerz)님의
-[2008년 11월 12일](http://me2day.net/summerz/2008/11/12#23:26:41)의
-미투데이 내용입니다.
+이 글은 [써머즈](http://me2day.net/summerz)님의 [2008년 11월 12일](http://me2day.net/summerz/2008/11/12#23:26:41)의 미투데이 내용입니다.

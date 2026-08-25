@@ -26,9 +26,7 @@ tags:
 
 **관련글**
 
-**SKT의 뮤직자유이용권 이야기**
-**SKT의 뮤직자유이용권 이야기 그 후**
-**SKT 뮤직자유이용권, 결국 요금 청구**
+**SKT의 뮤직자유이용권 이야기** **SKT의 뮤직자유이용권 이야기 그 후** **SKT 뮤직자유이용권, 결국 요금 청구**
 
 
 저에겐 일상이 바빠지는 바람에 결국 항의를 계속하지 못하고 지나갔던 기억이죠.
@@ -39,8 +37,7 @@ tags:
 
 ![](./nate_moa.jpg)
 
-아니, 이건 또 어디서 듣도 보도 못한 화면과 로고인가!
-네이트 모아? NATE라고 적혀있는 걸로 보아 분명히 SKT와 관련이 있는 거겠군요. 인터넷을 찾아봤더니 바로 기사가 나오는군요.
+아니, 이건 또 어디서 듣도 보도 못한 화면과 로고인가! 네이트 모아? NATE라고 적혀있는 걸로 보아 분명히 SKT와 관련이 있는 거겠군요. 인터넷을 찾아봤더니 바로 기사가 나오는군요.
 
 > 나도 모르게 휴대폰 대기화면이 바뀌는 현상때문에 SK텔레콤 가입자들 중 많은 사람들이 고통 받고 있다.
 >
@@ -77,8 +74,7 @@ SKT 입장에서 보자면 예전에는 뮤직자유이용권 경우처럼 고�
 **하지만 제 생각엔 그냥 고객센터 (114)에 전화해서 해지해달라고 하면 될 것 같아요.**
 
 
-[![](./skt-moa-unregister.gif)](http://moa.nate.com/New_MoA_Web_Phone/New_MoA_Web_Phone2/outsider/MoA_Join/Moa_join05.htm)
-\*\*99 + NATE 로 들어가라는 건 위 그림처럼 [네이트에 적혀있는 방법](http://moa.nate.com/New_MoA_Web_Phone/New_MoA_Web_Phone2/outsider/MoA_Join/Moa_join05.htm)인데, 생각할 수록 기분 나쁜 건 이 과정에서 별도의 수신료가 든다는 겁니다.
+[![](./skt-moa-unregister.gif)](http://moa.nate.com/New_MoA_Web_Phone/New_MoA_Web_Phone2/outsider/MoA_Join/Moa_join05.htm) \*\*99 + NATE 로 들어가라는 건 위 그림처럼 [네이트에 적혀있는 방법](http://moa.nate.com/New_MoA_Web_Phone/New_MoA_Web_Phone2/outsider/MoA_Join/Moa_join05.htm)인데, 생각할 수록 기분 나쁜 건 이 과정에서 별도의 수신료가 든다는 겁니다.
 
 고객의 동의도 받지 않고 서비스 가입시켜놓고 해지하려면 돈이 든다니, 게다가 핸드폰 인터페이스에 익숙하지 않은 분들은 어떻게 해지하는지 잘 몰라 한참 헤매다 보면 수신료가 더 나올지도 모르는데, 이거 좀 너무한 거 아닌가요?
 

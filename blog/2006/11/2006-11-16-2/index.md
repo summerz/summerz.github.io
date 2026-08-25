@@ -13,9 +13,7 @@ tags:
   - "반복"
 ---
 
-**<Paper Sky>**
-director : Marco Perugini (Italy)
-music : La Noyee by Yann Tiersen (Amelie soundtrack)
+**<Paper Sky>** director : Marco Perugini (Italy) music : La Noyee by Yann Tiersen (Amelie soundtrack)
 
 <!-- truncate -->
 

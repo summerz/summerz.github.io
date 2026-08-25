@@ -19,15 +19,13 @@ tags:
 
 <!-- truncate -->
 
-![](./img_0210_lip1771.png)
-seoul bus
+![](./img_0210_lip1771.png) seoul bus
 
 고등학생이 만들어서, 무료여서 그리고 무엇보다 편리해서 많은 사람들이 좋아하는 아이폰용 어플리케이션이죠.
 
 그런데, 며칠 전 서울 버스 앱이 제대로 작동하지 않고 종료된다는 이야기가 들리더니 그 이유가 서울시에서 정보를 빼오지 못하게 막았기 때문이라는 소문이 들렸습니다. 나중에 알고보니 정보를 막은 것은 경기도 쪽이라고 하더군요. 결국에는 **[아고라 청원](http://agora.media.daum.net/petition/view?id=86748 "[http://agora.media.daum.net/petition/view?id=86748]로 이동합니다.")**까지 올라오게 됐고요.
 
-![](./agora.gif)
-[다음 아고라 - 서울시 버스 API를 막지마세요.](http://agora.media.daum.net/petition/view?id=86748 "[http://agora.media.daum.net/petition/view?id=86748]로 이동합니다.")
+![](./agora.gif) [다음 아고라 - 서울시 버스 API를 막지마세요.](http://agora.media.daum.net/petition/view?id=86748 "[http://agora.media.daum.net/petition/view?id=86748]로 이동합니다.")
 
 트위터에서도 아고라에서도 비난 여론이 컸죠. 시민들이 편리하게 이용하던 것을 오히려 더 장려는 못할 망정 왜 막았냐는 거죠. 불을 붙인 건 다음 아고라 자유토론방에 올라온 **[필독 ★ 버스교통정보, 공익을 위한 개발에 수익이 왠 말이더냐?](http://bbs1.agora.media.daum.net/gaia/do/debate/read?bbsId=D003&articleId=3213239 "[http://bbs1.agora.media.daum.net/gaia/do/debate/read?bbsId=D003&articleId=3213239]로 이동합니다.")** 라는 글이었죠. 서울시 교통정보센터에 연락을 해봤더니 '실시간 교통 정보는 앞으로 수익형으로 전환되어 개인이 만든다고 하여도 곧 정보를 받아볼 수 없을 거라 한다'는 답변을 받았다는 거였죠.
 

@@ -10,17 +10,14 @@ tags:
   - "크롭 서클"
 ---
 
-장소는 미국 오레곤주의 포틀랜드와 살렘 사이 지역이군요.
-잘 만들었네요. :)
+장소는 미국 오레곤주의 포틀랜드와 살렘 사이 지역이군요. 잘 만들었네요. :)
 
 <!-- truncate -->
 
-![](./google_map-firefox-logo-1.png)
-[잘 만들었습니다.](http://maps.google.com/?ie=UTF8&om=1&z=16&ll=45.123785,-123.113962&spn=0.012112,0.024097&t=h)
+![](./google_map-firefox-logo-1.png) [잘 만들었습니다.](http://maps.google.com/?ie=UTF8&om=1&z=16&ll=45.123785,-123.113962&spn=0.012112,0.024097&t=h)
 
 
-![](./google_map-firefox-logo-2.png)
-[가까이서 봐도 잘 만들었네요.](http://maps.google.com/?ie=UTF8&om=1&z=16&ll=45.123785,-123.113962&spn=0.012112,0.024097&t=h)
+![](./google_map-firefox-logo-2.png) [가까이서 봐도 잘 만들었네요.](http://maps.google.com/?ie=UTF8&om=1&z=16&ll=45.123785,-123.113962&spn=0.012112,0.024097&t=h)
 
 
 **관련 링크**

@@ -10,8 +10,7 @@ tags:
   - "갱스터"
 ---
 
-무간도, 無間道, Infernal Affairs
-디파티드, The Departed
+무간도, 無間道, Infernal Affairs 디파티드, The Departed
 
 <!-- truncate -->
 

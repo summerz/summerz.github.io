@@ -23,8 +23,7 @@ tags:
 - [http://itunes.apple.com/app/skype/id304878510?mt=8](http://itunes.apple.com/app/skype/id304878510?mt=8) (스카이프 앱)
 - [http://itunes.apple.com/app/twitter/id333903271?mt=8](http://itunes.apple.com/app/twitter/id333903271?mt=8) (트위터 앱)
 
-참고로 .com과 app 사이에  국가 코드가 들어갈 수 있습니다. ...com/kr/app/... 이나 ...com/us/app/... 처럼 말이죠.
-그렇다면 한번쯤 mt=8 이 뭘 뜻하는지 궁금하신 적이 있지 않나요? 주소창에 ?mt=8 을 빼고 입력해도 페이지는 제대로 뜨거든요. 저 쓸데없는 것 같은 mt=8 은 뭘 뜻하는 걸까요?
+참고로 .com과 app 사이에  국가 코드가 들어갈 수 있습니다. ...com/kr/app/... 이나 ...com/us/app/... 처럼 말이죠. 그렇다면 한번쯤 mt=8 이 뭘 뜻하는지 궁금하신 적이 있지 않나요? 주소창에 ?mt=8 을 빼고 입력해도 페이지는 제대로 뜨거든요. 저 쓸데없는 것 같은 mt=8 은 뭘 뜻하는 걸까요?
 
 - mt=8
 - media type = 8th

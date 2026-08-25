@@ -14,8 +14,7 @@ tags:
 
 <!-- truncate -->
 
-![](./twitterkr_sample.png)
-트위터에서 작성한 트윗의 예입니다.
+![](./twitterkr_sample.png) 트위터에서 작성한 트윗의 예입니다.
 
 ## ① 이기적인 해쉬태그가 불편해
 

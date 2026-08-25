@@ -9,8 +9,7 @@ tags:
   - "합성"
 ---
 
-이미지에 텍스트를 합성해 주는 사이트입니다. 재밌네요.
-주소는 http://says-it.com
+이미지에 텍스트를 합성해 주는 사이트입니다. 재밌네요. 주소는 http://says-it.com
 
 <!-- truncate -->
 
@@ -24,8 +23,7 @@ tags:
 
 ![seal.gif](./seal.gif)
 
-![ticket.jpg](./ticket.jpg)
-꺄아아아악- 오빠~~~~
+![ticket.jpg](./ticket.jpg) 꺄아아아악- 오빠~~~~
 
 ![cassette.jpg](./cassette.jpg)
 

@@ -13,15 +13,13 @@ tags:
   - "명분"
 ---
 
-![iHate Flash](http://farm5.static.flickr.com/4036/4564272842_eb974fd2d8.jpg)
-iHate Flash by [Wise\_photo](http://www.flickr.com/photos/47724978@N06)
+![iHate Flash](http://farm5.static.flickr.com/4036/4564272842_eb974fd2d8.jpg) iHate Flash by [Wise\_photo](http://www.flickr.com/photos/47724978@N06)
 
 <!-- truncate -->
 
 잡스의 막가파적인 공세로 끝나버릴 것 같은 애플과 어도비의 싸움이 어도비가 수줍은 반격을 시작하면서 흥미진진해지고 있습니다.
 
-![flash on ipad](http://images.appleinsider.com/ipad-flash-100129-4.png)
-(출처 : appleinsider.com)
+![flash on ipad](http://images.appleinsider.com/ipad-flash-100129-4.png) (출처 : appleinsider.com)
 
 스티브 잡스는 [**아이패드를 처음 소개하는 자리**](http://www.youtube.com/watch?v=YkvCR3aAl1U "[http://www.youtube.com/watch?v=YkvCR3aAl1U]로 이동합니다.")에서 대놓고 플래시가 떠 있어야 할 자리에 [**조그만 선물박스가 보이는 화면을 보여주며**](http://www.youtube.com/watch?v=RGPdv7dr_cI "[http://www.youtube.com/watch?v=RGPdv7dr_cI]로 이동합니다.") 어도비를 긁기 시작했죠.
 

@@ -123,8 +123,7 @@ tags:
   
 텍스트큐브닷컴의 경우 단순히 뒤에 포스트의 번호만 다는 방식으로 포스트 구분을 하고 있지만 과거 버전과의 호환성을 유지하기 위해서 여전히 index.php?pl=113 같은 방식을 지원하고 있었다.  
   
-그래서 아래와 같은 코드를 만들어서 (www.)summerz.pe.kr/blog/index.php?pl=xxx 로 오는 방문객을
-blog.summerz.pe.kr/index.php?pl=xxx 로 리다이렉팅 시키도록 기존 태터툴즈 클래식의 index.php 최상단에 코딩했다. (참고: 발로 짠 소스임 -\_-)  
+그래서 아래와 같은 코드를 만들어서 (www.)summerz.pe.kr/blog/index.php?pl=xxx 로 오는 방문객을 blog.summerz.pe.kr/index.php?pl=xxx 로 리다이렉팅 시키도록 기존 태터툴즈 클래식의 index.php 최상단에 코딩했다. (참고: 발로 짠 소스임 -\_-)  
   
 
 <?  

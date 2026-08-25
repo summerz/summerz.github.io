@@ -10,13 +10,11 @@ tags:
   - "전태일"
 ---
 
-![](./empas-jti-1.png)
-2006년 11월 13일 [엠파스 스킨](http://empas.com)
+![](./empas-jti-1.png) 2006년 11월 13일 [엠파스 스킨](http://empas.com)
 
 <!-- truncate -->
 
-![](./empas-jti-2.png)
-[엠파스 스킨 블로그의 글](http://blog.empas.com/skinblog/read.html?a=16667092)
+![](./empas-jti-2.png) [엠파스 스킨 블로그의 글](http://blog.empas.com/skinblog/read.html?a=16667092)
 
 **관련 링크**
 

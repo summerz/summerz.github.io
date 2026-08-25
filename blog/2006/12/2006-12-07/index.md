@@ -29,7 +29,6 @@ https://www.youtube.com/watch?v=8fZqJEi7KMQ
 >
 >**[oceans.greenpeace.org](http://oceans.greenpeace.org)**
 
-숨소리 하나로 패스트 포워딩되는 영상에 '그 무엇'을 불어 넣어 준다.
-지구가 숨을 쉰다.
+숨소리 하나로 패스트 포워딩되는 영상에 '그 무엇'을 불어 넣어 준다. 지구가 숨을 쉰다.
 
 *acoustic mind, technically*

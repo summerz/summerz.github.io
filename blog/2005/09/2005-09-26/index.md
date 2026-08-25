@@ -31,8 +31,7 @@ tags:
 마지막으로 한가지. 난 비기독교인이라 그런지 간혹 기독교와 관련된 짧은 꼭지들이 있는 것이 개인적으로는 살짝 아쉽다. (추가) 여러 종교인들이 번갈아 가며 쓰는 것도 좋을 듯 하다.  
   
 관련 링크들)  
-[**고래가 그랬어 홈페이지**](http://www.goraeya.co.kr<br />
-)  
+[**고래가 그랬어 홈페이지**](http://www.goraeya.co.kr<br /> )  
 [**"누가 그래? 고래가 그랬어!" - 편집장 인터뷰 (오마이뉴스)**](http://www.ohmynews.com/articleview/article_view.asp?at_code=173986)  
 [**인권운동사랑방**](http://www.sarangbang.or.kr/)  
 [**규항넷**](http://gyuhang.net)  

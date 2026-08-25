@@ -10,8 +10,7 @@ tags:
   - "네이트온"
 ---
 
-![](http://farm4.static.flickr.com/3466/3383916444_c17344b56e.jpg)
-[Twitter bird logo icon illustration](http://www.flickr.com/photos/73532212@N00/3383916444 "Twitter bird logo icon illustration")  Twitter bird logo icon illustration by [Matt Hamm](http://www.flickr.com/photos/73532212@N00) [저작자 표시비영리](http://creativecommons.org/licenses/by-nc/2.0/kr/) |
+![](http://farm4.static.flickr.com/3466/3383916444_c17344b56e.jpg) [Twitter bird logo icon illustration](http://www.flickr.com/photos/73532212@N00/3383916444 "Twitter bird logo icon illustration")  Twitter bird logo icon illustration by [Matt Hamm](http://www.flickr.com/photos/73532212@N00) [저작자 표시비영리](http://creativecommons.org/licenses/by-nc/2.0/kr/) |
 
 <!-- truncate -->
 

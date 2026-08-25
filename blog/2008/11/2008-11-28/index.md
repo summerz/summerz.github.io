@@ -20,6 +20,4 @@ draft: true
   (me2mobile 오늘 하루 종일 이 노래 이 부분이 머리 속에 맴맴)
   [2008-11-27 23:35:06](http://me2day.net/summerz/2008/11/27#23:35:06 "퍼머링크")
 
-이 글은 [써머즈](http://me2day.net/summerz)님의
-[2008년 11월 27일](http://me2day.net/summerz/2008/11/27#02:49:21)의
-미투데이 내용입니다.
+이 글은 [써머즈](http://me2day.net/summerz)님의 [2008년 11월 27일](http://me2day.net/summerz/2008/11/27#02:49:21)의 미투데이 내용입니다.

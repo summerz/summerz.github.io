@@ -21,8 +21,7 @@ tags:
 
 아이폰에서 3G나 와이파이를 통해 스트리밍 방송을 볼 수 있는 Pocket TV 라는 앱이 있습니다.
 
-![](./mzi.frzqcsnw.175x175-75.jpg)
-**[Pocket TV (무료) 받으러 가기](http://itunes.apple.com/kr/app/pocket-tv/id411708416?mt=8 "[http://itunes.apple.com/kr/app/pocket-tv/id411708416?mt=8]로 이동합니다.")**
+![](./mzi.frzqcsnw.175x175-75.jpg) **[Pocket TV (무료) 받으러 가기](http://itunes.apple.com/kr/app/pocket-tv/id411708416?mt=8 "[http://itunes.apple.com/kr/app/pocket-tv/id411708416?mt=8]로 이동합니다.")**
 
 앱을 처음 받으면 아무 채널도 등록이 되어 있지 않는데, 아래와 같은 방법으로 처리하면 채널 리스트를 얻을 수 있습니다.
 

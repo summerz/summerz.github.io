@@ -17,8 +17,7 @@ tags:
 
 <!-- truncate -->
 
-![bob\_dylan-rolling\_stones\_cover.jpg](./bob_dylan-rolling_stones_cover.jpg)
-[**링크 : Rolling Stones - The Genius of Bob Dylan** (영문기사)](http://www.rollingstone.com/news/story/11216877/the_modern_times_of_bob_dylan_a_legend_comes_to_grips_with_his_iconic_status/)
+![bob\_dylan-rolling\_stones\_cover.jpg](./bob_dylan-rolling_stones_cover.jpg) [**링크 : Rolling Stones - The Genius of Bob Dylan** (영문기사)](http://www.rollingstone.com/news/story/11216877/the_modern_times_of_bob_dylan_a_legend_comes_to_grips_with_his_iconic_status/)
 
 하지만, 그는 롤링 스톤즈와의 인터뷰에서 현대의 (Modern) 음악에 대해 다소 시니컬한 반응을 드러냈다. **요즘 레코딩된 앨범들의 음질은 매우 형편없다 (You listen to these modern records, they're atrocious)**는 것이었다. 심지어 자신의 앨범에 대해서도 녹음 당시 스튜디오에서 직접 들었던 것이 녹음해서 CD에 실린 것보다 10배는 더 좋을 것이라고 말하기도 했다.
 
@@ -54,8 +53,7 @@ mp3는 한동안 여러모로 시장에서 지탄을 받고 있었다. 적어도
 
 일반인이 들을 때 CD는 충분히 좋은 퀄리티를 자랑한다고 알려져 있다. 하지만, 그동안 인간이 진화한 걸까? 사람들은 CD의 음질로도 모자라 이제 더 좋은 소리를 담을 수 있는 매체를 개발했고 개발하고 있다. DVD-A와 SACD가 바로 그것이다. 간단하게 말해 이 두 매체는 48 kHz / 24 bit 이상으로 샘플링한 소리를 (0과 1을 통해) 담고 있다. 실제로 이러한 매체가 들려주는 소리는 CD보다 월등함을 자랑한다. 하지만, 한편으로는 이런 생각이 든다. **"그래봐야 0과 1을 이용해 자연계에 존재하는 소리를 흉내낼 뿐이잖아."** 즉, 곡선의 형태로 존재하던 음파 (wave)는 디지털에서는 연속된 계단의 형태로 존재한다는 뜻이다. 그 계단을 작게 만들 순 있지만 없앨 수는 없다.
 
-![sampling\_sound.gif](./sampling_sound.gif)
-이미지 출처 : http://www.softlookup.com
+![sampling\_sound.gif](./sampling_sound.gif) 이미지 출처 : http://www.softlookup.com
 
 **4. 다시 LP와 CD 그리고 mp3**
 

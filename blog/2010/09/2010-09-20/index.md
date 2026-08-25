@@ -37,17 +37,12 @@ tags:
 
 씁쓸합니다.
 
-![](./a_g_c.jpg)
-[**Australasian Gaming Council**](http://www.austgamingcouncil.org.au/ "[http://www.austgamingcouncil.org.au/]로 이동합니다.")
+![](./a_g_c.jpg) [**Australasian Gaming Council**](http://www.austgamingcouncil.org.au/ "[http://www.austgamingcouncil.org.au/]로 이동합니다.")
 
-![](./g_h.jpg)
-[**Gambling Help**](http://www.gamblinghelp.nsw.gov.au/ "[http://www.gamblinghelp.nsw.gov.au/]로 이동합니다.")
+![](./g_h.jpg) [**Gambling Help**](http://www.gamblinghelp.nsw.gov.au/ "[http://www.gamblinghelp.nsw.gov.au/]로 이동합니다.")
 
-![](./gra.jpg)
-[**Gambling Research Australia**](http://www.gamblingresearch.org.au/ "[http://www.gamblingresearch.org.au/]로 이동합니다.")
+![](./gra.jpg) [**Gambling Research Australia**](http://www.gamblingresearch.org.au/ "[http://www.gamblingresearch.org.au/]로 이동합니다.")
 
-![](./o_l_g_r.jpg)
-[**NSW Office of Liquor Gaming and Racing**](http://www.olgr.nsw.gov.au/ "[http://www.olgr.nsw.gov.au/]로 이동합니다.")
+![](./o_l_g_r.jpg) [**NSW Office of Liquor Gaming and Racing**](http://www.olgr.nsw.gov.au/ "[http://www.olgr.nsw.gov.au/]로 이동합니다.")
 
-![](./g_a_c.jpg)
-[**Problem Gambling Help SA**](http://www.problemgambling.sa.gov.au/ "[http://www.problemgambling.sa.gov.au/]로 이동합니다.")
+![](./g_a_c.jpg) [**Problem Gambling Help SA**](http://www.problemgambling.sa.gov.au/ "[http://www.problemgambling.sa.gov.au/]로 이동합니다.")

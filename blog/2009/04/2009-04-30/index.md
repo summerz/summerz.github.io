@@ -18,8 +18,7 @@ tags:
 
 #
 
-[외국 포럼의 한 유저가 캐논 DSLR에 스테디캠 붙여서 찍은
-영상](http://blog.vams.co.kr/cb/upload/blog1/200904/20090430/12410575531516_51769.swf)을 봤는데... 와- 정말 대단하더군요.카메라 하나로 이 정도를 뽑을 수 있다니 놀라운 시대입니다. [카메라 회사에서 직접 보여주던 샘플 영상](http://www.usa.canon.com/dlc/controller?act=GetArticleAct&articleID=2326)을 볼 때와는 받아들여지는 느낌이 많이 다릅니다.
+[외국 포럼의 한 유저가 캐논 DSLR에 스테디캠 붙여서 찍은 영상](http://blog.vams.co.kr/cb/upload/blog1/200904/20090430/12410575531516_51769.swf)을 봤는데... 와- 정말 대단하더군요.카메라 하나로 이 정도를 뽑을 수 있다니 놀라운 시대입니다. [카메라 회사에서 직접 보여주던 샘플 영상](http://www.usa.canon.com/dlc/controller?act=GetArticleAct&articleID=2326)을 볼 때와는 받아들여지는 느낌이 많이 다릅니다.
 
 #
 

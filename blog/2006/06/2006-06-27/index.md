@@ -75,95 +75,65 @@ Tears For Fears는 1980년대 뉴웨이브 대표 밴드 중 하나입니다. �
 
 **가사 보기**
 
-All around me are familiar faces
-Worn out places worn out faces
+All around me are familiar faces Worn out places worn out faces
 
-내 주위를 둘러싼 것들은 모두 낯익은 얼굴들
-지겨운 곳들 지겨운 얼굴들
+내 주위를 둘러싼 것들은 모두 낯익은 얼굴들 지겨운 곳들 지겨운 얼굴들
 
-Bright and early for their daily races
-Going nowhere, going nowhere
+Bright and early for their daily races Going nowhere, going nowhere
 
-일상을 위해 밝은 표정으로
-어디로도 가지 않지, 어디로도 가지 않아
+일상을 위해 밝은 표정으로 어디로도 가지 않지, 어디로도 가지 않아
 
-Their tears are filling up their glasses
-No expression, no expression
+Their tears are filling up their glasses No expression, no expression
 
-눈물은 술잔을 채우고
-어떤 감정도 없이, 어떤 표정도 없이
+눈물은 술잔을 채우고 어떤 감정도 없이, 어떤 표정도 없이
 
-Hide my head I want to drown my sorrow
-No tomorrow, no tomorrow
+Hide my head I want to drown my sorrow No tomorrow, no tomorrow
 
-고개를 숙였지 슬픔에 빠지고 싶어서
-내일은 없어, 내일 따윈 없어
+고개를 숙였지 슬픔에 빠지고 싶어서 내일은 없어, 내일 따윈 없어
 
-And I find it kinda funny, I find it kinda sad
-The dreams in which I’m dying are the best I’ve ever had
+And I find it kinda funny, I find it kinda sad The dreams in which I’m dying are the best I’ve ever had
 
-좀 웃긴 걸 알아냈어, 좀 슬프기도 해
-그 중에 내가 죽는 꿈이 최고였지
+좀 웃긴 걸 알아냈어, 좀 슬프기도 해 그 중에 내가 죽는 꿈이 최고였지
 
-I find it hard to tell you, I find it hard to take
-When people run in circles it’s a very very
+I find it hard to tell you, I find it hard to take When people run in circles it’s a very very
 
-네게 말하기 어렵다는 걸 알아, 받아들이기 어렵다는 것도 알아
-사람들이 원을 그리며 달리는 여기는 아주 아주
+네게 말하기 어렵다는 걸 알아, 받아들이기 어렵다는 것도 알아 사람들이 원을 그리며 달리는 여기는 아주 아주
 
-Mad world
-Mad world
+Mad world Mad world
 
-미친 세상이야
-미친 세상이야
+미친 세상이야 미친 세상이야
 
-Children waiting for the day they feel good
-Happy birthday, happy birthday
+Children waiting for the day they feel good Happy birthday, happy birthday
 
-아이들은 행복한 날을 기다리지
-행복한 생일, 생일 축하해
+아이들은 행복한 날을 기다리지 행복한 생일, 생일 축하해
 
-Made to feel the way that every child should
-Sit and listen sit and listen
+Made to feel the way that every child should Sit and listen sit and listen
 
-다른 애들처럼 즐거워 하려면
-앉아서 들어봐. 자, 앉아서 들어봐
+다른 애들처럼 즐거워 하려면 앉아서 들어봐. 자, 앉아서 들어봐
 
-Went to school and I was very nervous
-No one knew me no one knew me
+Went to school and I was very nervous No one knew me no one knew me
 
-학교에 갔는데 정말 불안했어
-아무도 날 몰랐거든 아무도 날 알아보지 못했어
+학교에 갔는데 정말 불안했어 아무도 날 몰랐거든 아무도 날 알아보지 못했어
 
-Hello teacher tell me what’s my lesson
-Look right through me look right through me
+Hello teacher tell me what’s my lesson Look right through me look right through me
 
-선생님, 제 수업은 뭐죠?
-날 똑바로 쳐다봐, 날 똑바로 쳐다봐
+선생님, 제 수업은 뭐죠? 날 똑바로 쳐다봐, 날 똑바로 쳐다봐
 
-And I find it kinda funny, I find it kinda sad
-The dreams in which I’m dying are the best I’ve ever had
+And I find it kinda funny, I find it kinda sad The dreams in which I’m dying are the best I’ve ever had
 
-좀 웃긴 걸 알아냈어, 좀 슬프기도 해
-그 중에 내가 죽는 꿈이 최고였지
+좀 웃긴 걸 알아냈어, 좀 슬프기도 해 그 중에 내가 죽는 꿈이 최고였지
 
-I find it hard to tell you, I find it hard to take
-When people run in circles it’s a very very
+I find it hard to tell you, I find it hard to take When people run in circles it’s a very very
 
-네게 말하기 어렵다는 걸 알아, 받아들이기 어렵다는 것도 알아
-사람들이 원을 그리며 달리는 여기는 아주 아주
+네게 말하기 어렵다는 걸 알아, 받아들이기 어렵다는 것도 알아 사람들이 원을 그리며 달리는 여기는 아주 아주
 
-Mad world
-Mad world
+Mad world Mad world
 
-미친 세상이야
-미친 세상이야
+미친 세상이야 미친 세상이야
 
-Enlarge your world
-Mad world
+Enlarge your world Mad world
 
-네 세계를 넓혀봐
-미친 세상을
+네 세계를 넓혀봐 미친 세상을
 
 
 

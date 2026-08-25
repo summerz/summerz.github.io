@@ -15,8 +15,7 @@ tags:
 
 <!-- truncate -->
 
-![](./balance_cnj.jpg)
-**그 중 [균형 연작 3편 보러가기 클릭](http://blog.daum.net/jnjoon/12311697 "[http://blog.daum.net/jnjoon/12311697]로 이동합니다.") (참고로 조남준 화백의 블로그입니다. 트위터는 [@cnjoon](http://twitter.com/cnjoon "[http://twitter.com/cnjoon]로 이동합니다."))**
+![](./balance_cnj.jpg) **그 중 [균형 연작 3편 보러가기 클릭](http://blog.daum.net/jnjoon/12311697 "[http://blog.daum.net/jnjoon/12311697]로 이동합니다.") (참고로 조남준 화백의 블로그입니다. 트위터는 [@cnjoon](http://twitter.com/cnjoon "[http://twitter.com/cnjoon]로 이동합니다."))**
 
 **연재물 중 114편을 추린 시사SF의 단행본도 나와있습니다. [예스24는 여기](http://www.yes24.com/24/goods/2382263?CategoryNumber=001001008003005&scode=033&srank=2 "[http://www.yes24.com/24/goods/2382263?CategoryNumber=001001008003005&scode=033&srank=2]로 이동합니다.")로, [알라딘은 여기](http://www.aladdin.co.kr/shop/wproduct.aspx?isbn=8972785458 "[http://www.aladdin.co.kr/shop/wproduct.aspx?isbn=8972785458]로 이동합니다.")로.**
 

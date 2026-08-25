@@ -31,7 +31,6 @@ http://www.youtube.com/watch?v=pm7JGIRle1A
 
 뭐, 모르죠. [노회찬 대표](http://www.nanjoong.net/ "[http://www.nanjoong.net/]로 이동합니다.")가 [아이폰, 블랙베리의 쌍권총을 차고 다니는 것](http://www.nanjoong.net/g4/bbs/board.php?bo_table=nanjoong&wr_id=29402 "[http://www.nanjoong.net/g4/bbs/board.php?bo_table=nanjoong&wr_id=29402]로 이동합니다.")처럼 박진영도 아이폰, 옴니아 쌍권총을 차고 다닐지도요.
 
-![](./hcroh.jpg)
-KBS 감성다큐 미지수 출연 중 - 왼손엔 블랙베리, 오른손엔 아이폰.
+![](./hcroh.jpg) KBS 감성다큐 미지수 출연 중 - 왼손엔 블랙베리, 오른손엔 아이폰.
 
 그렇다면, 똑똑한 사람이라는 평을 듣는 박진영이 옴니아에서 멀티터치가 안된다는 걸 모른 채 가지고 다닌다는 건 옴니아에게는 굴욕일까요? 모르죠, 광고 모델하면서 저렇게 TV 프로그램에까지 옴니아 들고 시연하는 걸 찍어주는 성의에 삼성에서는 감동했을지도.

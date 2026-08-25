@@ -38,8 +38,7 @@ tags:
 
 ![](./comscore-smartphone-iphone-total-mobile-usage-by-gender-may.gif)
 
-EU3 : 프랑스, 독일, 영국을 모두 합친 수입니다.
-Smartphones : 윈도우즈, 팜, 심비안을 OS로 사용하는 폰들입니다.
+EU3 : 프랑스, 독일, 영국을 모두 합친 수입니다. Smartphones : 윈도우즈, 팜, 심비안을 OS로 사용하는 폰들입니다.
 
 
 물론 이 자료도 2008년도 자료이기 때문에 2009년도 자료가 있으면 또 다르다고 할 수 있겠죠.

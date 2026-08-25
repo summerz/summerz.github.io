@@ -37,5 +37,4 @@ Secret Sunshine
 
 [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://imdb.com/title/tt0817225/) / [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=48747) / [![](http://summerz.pe.kr/img/icon-rt-small.gif)](http://www.rottentomatoes.com/m/secret_sunshine/)
 
-p.s. 뜬금없지만 한 가지 덧붙이자면,
-이창동 감독과 장진 감독은 서로 비교하기에는 스타일이 너무 다른 감독이지만 여러 모로 비교를 하게 돼. 연극계 장진은 연극적인 (비영화적인) 영화를 만드는 반면 소설가 출신 이창동은 지극히 영화적인 영화를 만드는 것 같아.
+p.s. 뜬금없지만 한 가지 덧붙이자면, 이창동 감독과 장진 감독은 서로 비교하기에는 스타일이 너무 다른 감독이지만 여러 모로 비교를 하게 돼. 연극계 장진은 연극적인 (비영화적인) 영화를 만드는 반면 소설가 출신 이창동은 지극히 영화적인 영화를 만드는 것 같아.
