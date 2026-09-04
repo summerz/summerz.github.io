@@ -14,6 +14,9 @@
   --ifm-color-primary-lighter: #359962;
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
+  --inline-code-background: rgba(46, 133, 85, 0.1);
+  --inline-code-border: rgba(46, 133, 85, 0.2);
+  --inline-code-color: #1f6045;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
@@ -26,7 +29,21 @@
   --ifm-color-primary-light: #29d5b0;
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
+  --inline-code-background: rgba(37, 194, 160, 0.12);
+  --inline-code-border: rgba(79, 221, 191, 0.24);
+  --inline-code-color: #8de3cc;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* 백틱 하나로 감싼 인라인 코드는 본문과 구분하되 코드 블록에는 적용하지 않는다. */
+.markdown :not(pre) > code {
+  padding: 0.08em 0.34em;
+  border: 1px solid var(--inline-code-border);
+  border-radius: 0.3rem;
+  background-color: var(--inline-code-background);
+  color: var(--inline-code-color);
+  font-size: 0.9em;
+  font-weight: 550;
 }
 
 /* 프론트매터에 draft: true 인 글 표시(src/theme/BlogPostItem/Header/Title).

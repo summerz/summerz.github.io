@@ -44,7 +44,7 @@ git 인증을 gh가 대신한다는 뜻입니다. 따라서 `GH_TOKEN`을 바꾸
 
 GitHub 리포의 remote URL은 보통 `https://github.com/OWNER/PROJECT.git` 또는 `git@github.com:OWNER/PROJECT.git` 형태입니다. 따라서 URL에서 `OWNER` 부분만 꺼내면 어느 개인이나 조직의 리포인지 알 수 있습니다. 아래 코드는 이 `OWNER`를 실제 로그인할 GitHub 계정으로 매핑합니다. 조직이 소유한 리포라도 그 조직에 접근하는 개인 계정의 토큰을 써야 하기 때문에 이 매핑 단계가 필요합니다.
 
-```zsh
+```bash
 # ~/.zshrc — cd 할 때마다 origin 소유자로 계정을 고른다
 typeset -gA _gh_tok_cache
 
