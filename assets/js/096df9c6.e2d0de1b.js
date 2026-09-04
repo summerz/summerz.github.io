@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksummerz=self.webpackChunksummerz||[]).push([[258360],{749491:a=>{a.exports=JSON.parse('{"tag":{"label":"FTA","permalink":"/blog/tags/fta","allTagsPath":"/blog/tags","count":8,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/fta","page":1,"postsPerPage":10,"totalPages":1,"totalCount":8,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
