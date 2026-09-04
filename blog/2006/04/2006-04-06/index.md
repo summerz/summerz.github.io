@@ -41,13 +41,13 @@ tags:
 영화는 중반부를 넘길 때 쯤에 사실 대회에 출전하는 학생들 모두가 '패배'에 대한 두려움을 가지고 있음을 드러냅니다. 그들은 이길 때도 질 때도, 언젠가는 '패배하고 말거라는 저주'에 걸려있는 거죠. 그러나, 그 저주는 비정상적인 타인들에 의해 걸렸다 하더라도 풀 수 있는 사람은 본인 밖에 없는 거겠죠. 사실 그 저주는 실제하는 것도 아니고요. 아이들은 승리를 통해 그걸 배웁니다.
 
   
-**\*1** 덩달아 역시 알 파치노 주연의 <도니 브레스코>도 생각나는군요. 그는 정말 한물갔지만 여전히 마음 한 구석에 정열을 간직한 인물을 연기하는데 최고 중의 한 명인 듯 합니다.  
+<span id="574-1"></span>**\*1** 덩달아 역시 알 파치노 주연의 <도니 브레스코>도 생각나는군요. 그는 정말 한물갔지만 여전히 마음 한 구석에 정열을 간직한 인물을 연기하는데 최고 중의 한 명인 듯 합니다.
   
-**\*2** 사운드트랙에는 인디씬에서 유명하다면 유명한 Explosions in the Sky가 참여하고 있습니다.  
+<span id="574-2"></span>**\*2** 사운드트랙에는 인디씬에서 유명하다면 유명한 Explosions in the Sky가 참여하고 있습니다.
   
-**\*3** 추락하는 걸 알면서도 그대로 행동하는 캐릭터 역시 알 파치노에게 잘 어울립니다.  
+<span id="574-3"></span>**\*3** 추락하는 걸 알면서도 그대로 행동하는 캐릭터 역시 알 파치노에게 잘 어울립니다.
   
-**\*4** 국가대항전 스포츠 경기에 열광하는 우리나라의 사정이 이보다 더하면 더했지 덜할 것 같지는 않다는 생각이 잠깐 들었습니다.  
+<span id="574-4"></span>**\*4** 국가대항전 스포츠 경기에 열광하는 우리나라의 사정이 이보다 더하면 더했지 덜할 것 같지는 않다는 생각이 잠깐 들었습니다.
   
 <투 포 더 머니> [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://us.imdb.com/title/tt0417217/) / [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=43613) / [![](http://summerz.pe.kr/img/icon-rt-small.gif)](http://www.rottentomatoes.com/m/two_for_the_money/)  
 <프라이데이 나잇 라이트> [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://www.imdb.com/title/tt0390022/) / [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=39483) / [![](http://summerz.pe.kr/img/icon-rt-small.gif)](http://www.rottentomatoes.com/m/friday_night_lights/)

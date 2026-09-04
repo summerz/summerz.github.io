@@ -53,7 +53,7 @@ tags:
 4. 스코시즈 감독은 앞으로 헐리우드 영화를 만드느니 [다큐멘터리나 단편 영화를 만드는데 열중하겠다](http://dvdtopic.cine21.com/Articles/article_view.php?mm=007001004&article_id=34866)고 이미 밝힌 상태.
 
   
-**\*1** producer와 executive Producer의 차이는 뭘까? [<필름 2.0>](http://www.film2.co.kr)의 [**"김세윤 기자의 궁금증 클리닉"**](http://www.film2.co.kr/community/QandA/QandA_final.asp?mkey=117)에 나온다.  
+<span id="512-1"></span>**\*1** producer와 executive Producer의 차이는 뭘까? [<필름 2.0>](http://www.film2.co.kr)의 [**"김세윤 기자의 궁금증 클리닉"**](http://www.film2.co.kr/community/QandA/QandA_final.asp?mkey=117)에 나온다.
   
 [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://www.imdb.com/title/tt0407887/) / [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=41672) / [![](http://summerz.pe.kr/img/icon-rt-small.gif)](http://www.rottentomatoes.com/m/departed/)  
   

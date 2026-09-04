@@ -56,6 +56,6 @@ aka 유령 신부
 [**StopMotionAnimation.com Photo Gallery featuring Corpse Bride**](http://www.stopmotionanimation.com/photos/cb/show/pages/pdale_jpg.htm)
 
   
-**\*1** 확실히 빅 피쉬 (Big Fish) 때부터 순해지는 느낌이다. 악동 이미지가 조금씩 사라진다.  
+<span id="526-1"></span>**\*1** 확실히 빅 피쉬 (Big Fish) 때부터 순해지는 느낌이다. 악동 이미지가 조금씩 사라진다.
   
 [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://us.imdb.com/title/tt0121164/) / [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=42842) / [![](http://summerz.pe.kr/img/icon-rt-small.gif)](http://www.rottentomatoes.com/m/corpse_bride/)

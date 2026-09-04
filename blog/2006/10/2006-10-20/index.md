@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=NnNA305kWcw
 
 여담이지만, 데뷔 앨범에서는 초초초초대박을 터트리신 마이크 아저씨, 그 이후로는 제대로 힘을 못써서 안타까워요.
 
-- 관련 글 : [**John Lennon과 Moonlight Shadow**](/blog/2006/11/2006-11-17)
+- 관련 글 : [**John Lennon과 Moonlight Shadow**](/blog/2006/11/17)
 
 https://www.youtube.com/watch?v=YMPrl-9g42g
 **Aselin Debison - Over the Rainbow / What a Wonderful World**

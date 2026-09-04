@@ -33,6 +33,6 @@ tags:
 또한 그들은 일본 전통 음악계에서의 활동도 눈에 띠는데, 가부키(歌舞伎) 창설 400주년 기념 <뮤지컬 오쿠니(ミュ?ジカル阿?)>의 극중곡을 자신들의 오리지널 곡으로 구성하여 절찬을 받기도 했으며, 이 뮤지컬의 배우로서도 출연하기도 했다. (이상 포노 http://www.phono.co.kr 에서 발췌)
 
   
-\*1 한참을 왜 그랬을까 의아해했던 걸로 보아 나에게는 지브리 스튜디오 작품에 대한 어떤 기대치 같은 게 있나보다.  
+<span id="492-1"></span>\*1 한참을 왜 그랬을까 의아해했던 걸로 보아 나에게는 지브리 스튜디오 작품에 대한 어떤 기대치 같은 게 있나보다.
   
 [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://imdb.com/title/tt0110008/) / [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=22749) / [![](http://summerz.pe.kr/img/icon-rt-small.gif)](http://www.rottentomatoes.com/m/1148583-pom_poko/)

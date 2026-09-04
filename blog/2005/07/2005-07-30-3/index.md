@@ -16,7 +16,7 @@ tags:
 음악을 듣고 싶으면 화면 상단 좌측의 **play bgm** 을 클릭해 주세요.  
   
 
-[play bgm](../ie_dummy.php)  |
+**play bgm**  |
 
   
   

@@ -50,13 +50,13 @@ tags:
   
   
   
-**\*1** 예전 씨네 21에 기사가 실렸었다.  
+<span id="513-1"></span>**\*1** 예전 씨네 21에 기사가 실렸었다.
 - <시티 오브 갓> 탄생비화 [[1]](http://www.cine21.com/Magazine/mag_pub_view.php?mm=005001001&mag_id=34686), [[2]](http://www.cine21.com/Index/magazine.php?mm=005001001&mag_id=34687) (글 오정연)  
 - [간교한 유혹의 기술, <시티 오브 갓>](http://www.cine21.com/Magazine/mag_pub_view.php?mm=005004004&mag_id=35014) (글 허문영)  
   
-**\*2** 레이첼 바이스 (Rachel Weisz)는 이 영화로 [63회 골든 글러브 여우조연상 (best supporting actress)을 받았다](http://www.hfpa.org/videogallery/video/49346/index.html).  
+<span id="513-2"></span>**\*2** 레이첼 바이스 (Rachel Weisz)는 이 영화로 [63회 골든 글러브 여우조연상 (best supporting actress)을 받았다](http://www.hfpa.org/videogallery/video/49346/index.html).
   
-**\*3** 레이프 파인즈 (Ralph Fiennes)의 역할은 알게 모르게 잉글리쉬 페이션트 (English Patient)에서 그가 연기했던 역할과 알게 모르게 닮아있다.  
+<span id="513-3"></span>**\*3** 레이프 파인즈 (Ralph Fiennes)의 역할은 알게 모르게 잉글리쉬 페이션트 (English Patient)에서 그가 연기했던 역할과 알게 모르게 닮아있다.
   
 
 **참고**  

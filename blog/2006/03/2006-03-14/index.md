@@ -114,6 +114,6 @@ aka 메디컬 드라마 하우스
 [Medical Review of House](http://www.politedissent.com/house_pd.html) (<하우스>에 나왔던 의학정보들)
 
   
-**\*1** 데이딧 쇼어는 실제로 셜록 홈즈를 모델로 그레고리 하우스라는 인물을 만들어냈다고 한다.  
+<span id="551-1"></span>**\*1** 데이딧 쇼어는 실제로 셜록 홈즈를 모델로 그레고리 하우스라는 인물을 만들어냈다고 한다.
   
 [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://us.imdb.com/title/tt0412142/)

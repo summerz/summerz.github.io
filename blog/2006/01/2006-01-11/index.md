@@ -32,8 +32,8 @@ tags:
 **음악감독** <진주만>, <리크루트>, <베이직>의 클라우스 바델트.
 
   
-\*1 <리크루트>의 각본은 이 영화를 감독한 커트 위머 (Kurt Wimmer)가 썼다.  
+<span id="497-1"></span>\*1 <리크루트>의 각본은 이 영화를 감독한 커트 위머 (Kurt Wimmer)가 썼다.
   
-\*2 물론 그 이전 작품들도 괜찮은 것들이 많았으나 그것들은 한스 짐머 등 다른 음악가들의 보조를 맞추는 역할이라고나 할까?  
+<span id="497-2"></span>\*2 물론 그 이전 작품들도 괜찮은 것들이 많았으나 그것들은 한스 짐머 등 다른 음악가들의 보조를 맞추는 역할이라고나 할까?
   
 [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://imdb.com/title/tt0238380/) / [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=36484) / [![](http://summerz.pe.kr/img/icon-rt-small.gif)](http://www.rottentomatoes.com/m/equilibrium/)

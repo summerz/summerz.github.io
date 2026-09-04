@@ -11,7 +11,7 @@ import remarkBreaks from 'remark-breaks';
 const config = {
   title: 'summerz.net',
   // tagline: 'tagline',
-  // favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://summerz.net',
@@ -24,12 +24,11 @@ const config = {
   organizationName: 'summerz', // Usually your GitHub org/user name.
   projectName: 'summerz.github.io', // Usually your repo name.
 
-  // 'throw' 였으나, 옛 자체 CMS 시절 글에 ./?pl=NNN 식 내부 링크나 프로토콜 없는
-  // 링크(www.foo.com)처럼 진짜로 죽은 링크가 섞여 있어(변환 버그가 아니라 원본
-  // 콘텐츠 자체의 문제) 전체 글을 변환하면 빌드가 막힌다. 여전히 경고로는 보이므로
-  // 회귀는 계속 눈에 띈다.
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  // 복구한 레거시 글도 내부 링크를 검증해 새 회귀가 배포되지 않게 한다.
+  onBrokenLinks: 'throw',
+  // 레거시 각주 링크는 본문에 직접 넣은 HTML id를 가리킨다. 실제 페이지에서는
+  // 정상 동작하지만 Docusaurus의 정적 앵커 수집기가 raw HTML id를 인식하지 못한다.
+  onBrokenAnchors: 'ignore',
   trailingSlash: false,
   deploymentBranch: 'gh-pages',
 
@@ -38,6 +37,9 @@ const config = {
   // (.mdx 는 그대로 MDX 로 파싱됨 - 기존 글은 JSX/import 를 쓰지 않아 안전.)
   markdown: {
     format: 'detect',
+    hooks: {
+      onBrokenMarkdownLinks: 'throw',
+    },
   },
 
   scripts: [
@@ -72,6 +74,13 @@ const config = {
           //   'https://github.com/summerz/summerz.github.io/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          // 예전 CMS에서 옮겨온 인라인 태그가 수백 개라 tags.yml로
+          // 관리하지 않는다. 태그 페이지는 그대로 생성하되 미등록
+          // 태그 경고만 끄고, 카테고리 메타데이터만 tags.yml에서 관리한다.
+          onInlineTags: 'ignore',
+          // 일부 짧은 레거시 글은 본문 전체가 목록 미리보기여도 충분하다.
+          // 해당 글마다 의미 없는 truncate 마커를 넣으라는 경고는 끈다.
+          onUntruncatedBlogPosts: 'ignore',
           // 기본 이미지 변환/자동링크보다 먼저 돌아야 image·text 노드를 볼 수 있다.
           beforeDefaultRemarkPlugins: [require('./src/remark/figures')],
           // 티스토리에서 옮겨온 글은 한 줄이 한 문장이다. CommonMark 는 개행 1개를

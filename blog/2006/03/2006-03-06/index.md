@@ -90,8 +90,8 @@ Technique: Brush and Indian Ink, watercolor
 <Father and Daughter (아버지와 딸)> [[보기]](http://blog.empas.com/nemo11/read.html?a=12422178) [[보기 #2]](http://bbs3.tvpot.media.daum.net/griffin/do/videoLink?bbsId=S001&articleId=189&pageIndex=1&searchKey=&searchValue=)
 
   
-**\*1** 작품 속 인물들의 표정은 잘 묘사되지 않지만 관객들에게 강한 인상을 남기는 건 두독 드 비트 감독의 특징입니다. 이러한 특징은 <아버지와 딸>에서 절정이었다고나 할까요?  
+<span id="544-1"></span>**\*1** 작품 속 인물들의 표정은 잘 묘사되지 않지만 관객들에게 강한 인상을 남기는 건 두독 드 비트 감독의 특징입니다. 이러한 특징은 <아버지와 딸>에서 절정이었다고나 할까요?
   
-**\*2** 윤심덕의 "사의 찬미"로 잘 알려진 노래지요.  
+<span id="544-2"></span>**\*2** 윤심덕의 "사의 찬미"로 잘 알려진 노래지요.
   
 [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://www.imdb.com/title/tt0110547/)

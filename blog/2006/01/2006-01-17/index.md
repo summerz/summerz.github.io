@@ -37,7 +37,7 @@ It's all gone wrong... but he made it again.
 참고로 이 영화는 피트 통에 관한 이야기가 아니라 **DJ 프랭키 와일드 (Frankie Wilde)**에 관한 이야기이다.
 
   
-\*1 뽕끼 섞인 우리나라의 주류 댄스음악을 이야기하는 것이 아님.  
-\*2 이미지나 사운드는 이른바 활자 매체의 이해를 돕기 위해 확장된 도구라는 생각을 가진 사람들, 많다.  
+<span id="504-1"></span>\*1 뽕끼 섞인 우리나라의 주류 댄스음악을 이야기하는 것이 아님.
+<span id="504-2"></span>\*2 이미지나 사운드는 이른바 활자 매체의 이해를 돕기 위해 확장된 도구라는 생각을 가진 사람들, 많다.
   
 [![](http://summerz.pe.kr/img/icon-imdb-small.gif)](http://us.imdb.com/title/tt0388139/) / [![](http://summerz.pe.kr/img/icon-naver-small.gif)](http://movie.naver.com/movie/bi/mi/basic.nhn?code=40598) / [![](http://summerz.pe.kr/img/icon-rt-small.gif)](http://www.rottentomatoes.com/m/its_all_gone_pete_tong/)
