@@ -16,6 +16,7 @@ export const blogCategories = [
   {label: 'lovely cinema', permalink: '/blog/tags/lovely-cinema'},
   {label: 'my life in Sydney', permalink: '/blog/tags/my-life-in-sydney'},
   {label: 'my view & mind', permalink: '/blog/tags/my-view-mind'},
+  {label: 'mind & machine', permalink: '/blog/tags/mind-machine'},
   {label: 'recharge my life', permalink: '/blog/tags/recharge-my-life'},
   {label: 'for blah.blah.blog', permalink: '/blog/tags/for-blah-blah-blog'},
   {label: 'audio & sound', permalink: '/blog/tags/audio-sound'},
