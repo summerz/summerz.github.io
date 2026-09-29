@@ -1,1 +1,0 @@
-"use strict";(globalThis.webpackChunksummerz||=[]).push([[345239],{164822(t){t.exports=JSON.parse('{"tag":{"label":"TFN","permalink":"/blog/tags/tfn","allTagsPath":"/blog/tags","count":3,"unlisted":false},"listMetadata":{"permalink":"/blog/tags/tfn","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
