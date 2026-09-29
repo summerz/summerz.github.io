@@ -74,6 +74,7 @@ const config = {
           //   'https://github.com/summerz/summerz.github.io/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
+          blogTitle: '블로그',
           // 예전 CMS에서 옮겨온 인라인 태그가 수백 개라 tags.yml로
           // 관리하지 않는다. 태그 페이지는 그대로 생성하되 미등록
           // 태그 경고만 끄고, 카테고리 메타데이터만 tags.yml에서 관리한다.
@@ -109,7 +110,7 @@ const config = {
           postsPerPage: 10,
           showReadingTime: true,
           blogSidebarCount: 10,
-          blogSidebarTitle: 'Recent posts (10)',
+          blogSidebarTitle: '최근 글 (10)',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -146,8 +147,8 @@ const config = {
           //   position: 'left',
           //   label: 'Tutorial',
           // },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/blog/archive', label: '아카이브', position: 'left'},
+          {to: '/blog', label: '블로그', position: 'left'},
+          {to: '/projects', label: '작업 서랍', position: 'left'},
           // {
           //   href: 'https://github.com/facebook/docusaurus',
           //   label: 'GitHub',

@@ -121,12 +121,12 @@ export default function BlogArchive({archive}) {
 
   const title = translate({
     id: 'theme.blog.archive.title',
-    message: '전체 글 아카이브',
+    message: '블로그 아카이브',
     description: 'The page & hero title of the blog archive page',
   });
   const description = translate({
     id: 'theme.blog.archive.description',
-    message: '연도별로 정리된 전체 글 목록입니다.',
+    message: '블로그에 쓴 글을 연도별로 모았습니다.',
     description: 'The page & hero description of the blog archive page',
   });
 

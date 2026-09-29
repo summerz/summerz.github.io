@@ -37,7 +37,7 @@ export default function BlogSidebarDesktop({sidebar}) {
             ))}
             <li className={styles.sidebarItem}>
               <Link to="/blog/archive" className={styles.sidebarMoreLink}>
-                <b>더 이전 글 보기</b>
+                <b>블로그 아카이브</b>
               </Link>
             </li>
           </ul>
