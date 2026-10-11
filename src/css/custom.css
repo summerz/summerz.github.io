@@ -158,3 +158,120 @@ blockquote {
   overflow: visible;
   display: block;
 }
+
+/* 작업 서랍의 프로젝트 목록 */
+main:has(.projectShelfGrid) .col--8 {
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+main:has(.projectShelfGrid) article {
+  max-width: 72rem;
+  margin-inline: auto;
+}
+
+.projectShelfIntro {
+  max-width: 42rem;
+  margin-bottom: 2.5rem;
+  color: var(--ifm-color-emphasis-700);
+  font-size: 1.08rem;
+}
+
+.projectShelfGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2.25rem;
+  padding-bottom: 2rem;
+}
+
+.projectShelfItem {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  padding: 0.7rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 0.75rem;
+  background: var(--ifm-background-surface-color);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.045);
+  color: inherit;
+  text-decoration: none;
+  transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.projectShelfItem:hover {
+  border-color: var(--ifm-color-primary);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.1);
+  color: inherit;
+  text-decoration: none;
+  transform: translateY(-2px);
+}
+
+.projectShelfItem:focus-visible {
+  outline: 3px solid var(--ifm-color-primary);
+  outline-offset: 6px;
+}
+
+.projectShelfImage {
+  display: block;
+  overflow: hidden;
+  aspect-ratio: 8 / 5;
+  border-radius: 0.4rem;
+  background: var(--ifm-color-emphasis-100);
+}
+
+.projectShelfImage img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 250ms ease;
+}
+
+.projectShelfItem:hover .projectShelfImage img,
+.projectShelfItem:focus-visible .projectShelfImage img {
+  transform: scale(1.025);
+}
+
+.projectShelfText {
+  display: block;
+  padding: 0.9rem 0.4rem 0.45rem;
+}
+
+.projectShelfTitle {
+  display: block;
+  color: var(--ifm-heading-color);
+  font-size: 1.3rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+.projectShelfDescription {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--ifm-color-emphasis-700);
+  line-height: 1.65;
+}
+
+@media (min-width: 1200px) {
+  .projectShelfGrid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 767px) {
+  .projectShelfIntro {
+    margin-bottom: 2rem;
+  }
+
+  .projectShelfGrid {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.75rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .projectShelfItem,
+  .projectShelfImage img {
+    transition: none;
+  }
+}
