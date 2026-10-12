@@ -1,6 +1,6 @@
 ---
 slug: 2026/10/03
-title: 범인이 누군지는 중요하지 않았던 암살자(들)
+title: 범인이 누군지는 중요하지 않았던 <암살자(들)>
 authors: summerz
 tags:
   - "lovely cinema"
