@@ -2,11 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://summerz.net/blog</id>
     <title>summerz.net Blog</title>
-    <updated>2026-10-10T00:00:00.000Z</updated>
+    <updated>2026-10-12T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://summerz.net/blog"/>
     <subtitle>summerz.net Blog</subtitle>
     <icon>https://summerz.net/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 시대, 아직은(?) 사람]]></title>
+        <id>https://summerz.net/blog/2026/10/12</id>
+        <link href="https://summerz.net/blog/2026/10/12"/>
+        <updated>2026-10-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[요즘 AI 에이전트로 무언가를 만드는 걸 짬짬이 하고 있는데, 반복하다 보니 무언가 감이 잡히는 것도 있고, 여전히 잘 안 되는 것도 있더라고요. 그리고 나도 모르게 잘 됐던 걸 반복하고 있고요.]]></summary>
+        <content type="html"><![CDATA[<p>요즘 AI 에이전트로 무언가를 만드는 걸 짬짬이 하고 있는데, 반복하다 보니 무언가 감이 잡히는 것도 있고, 여전히 잘 안 되는 것도 있더라고요. 그리고 나도 모르게 잘 됐던 걸 반복하고 있고요.</p>
+<div class="ytEmbed"><iframe src="https://www.youtube-nocookie.com/embed/GLvFTMtw4Jk" title="YouTube video player" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe></div>
+<p>스트라이프 디자인 총괄 케이티 딜의 강연을 듣다 보니 마음이 동했습니다. 요즘 AI로 뭔가를 만들어 보면서 느끼는 것들과 맥락이 닿는 부분이 있었거든요.</p>
+<hr>
+<p>얼마 전에도 사람들과 이야기를 좀 했는데, 제가 강조했던 것도 '판단'이었어요. 기계의 결과를 믿지 말고 사람이 판단해야 한다는 것. AI는 사람들의 지시를 빠르게 수행한 후 자꾸 다음 지시를 재촉합니다. 그리고 보통 사람이 끌려가죠. 달콤한 유혹이거든요. 이걸 벌써 만들었다고? 그럼 다음 작업의 결과도 보고 싶은 거예요. 또 해봐, 또 해봐... 마치 재롱잔치의 아기들 보며 박수치는 것처럼.</p>
+<p>분명히 도구는 바뀌었어요. 도구가 바뀌니 사람은 하지 않았던 작업을 맡아서 해야 합니다. 기계(AI)가 이것도, 저것도 자기가 할 줄 안다며 사람이 하던 일을 가져가고 있고, 개발 쪽은 확실히 그렇습니다. 그래서, 사람은 도구를 바꿔 쥐고, 예전에 하지 않았던 일을 혹은 예전에 덜 했던 일을 찾아서 해야 하더라고요.</p>
+<p>예전에는 무언가를 만들면서 이렇게 많이 판단하지 않았던 것 같아요. 그때는 '만들면 다행'이고, '이 정도면 훌륭했'다고 생각했던 적이 많았던 것 같거든요. 그런데, 지금은 기계가 코딩을 해주니, 내 생각이 너무 빨리 검증이 되는 거예요. 처음 시작은 '이런 거 만들면 재밌겠지?'였는데, 얼마 안 지나 '이거 재밌는 게 맞나? 지금 잘 하고 있는 게 맞나?' 하는 생각이 드는 거죠. 그럼 다시 원점부터 생각합니다. '이게 의미 있는 게 맞나?'</p>
+<p>문제는 고민하고 있는 와중에도 마치 프리스비 기다리는 강아지처럼 기계는 다음 일거리를 달라고 재촉을 한다는 거죠. 이때 거기에 끌려가면 망하는 겁니다. 내 가벼운 생각 사이에 숨어있던 작은 가치를 발견하고 닦고 들여다봐야 하는데, 기계에 이끌려 멀리 가버리고 맙니다.</p>
+<hr>
+<p>그래서인지 요즘에는 확실히 무언가를 만들면 배우는 것 같다는 느낌도 들어요. 그리고 내 의도를 곱씹게 됩니다. 원래 생각은 뭐였는지 찬찬히 생각하게 되고요. 계속 판단을 해야 해요. 기계는 아직까지는 재촉을 할 뿐이고, 판단은 사람이 해야 하니까. 아직까지는 사람이 할 일이 있는 것 같아요.</p>]]></content>
+        <author>
+            <name>summerz</name>
+        </author>
+        <category label="mind & machine" term="mind & machine"/>
+        <category label="AI" term="AI"/>
+        <category label="AI 에이전트" term="AI 에이전트"/>
+        <category label="판단" term="판단"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원작을 잘못 짐작해서 더 놀랐던 <룩 백>]]></title>
         <id>https://summerz.net/blog/2026/10/10</id>
@@ -30,7 +54,7 @@
         <category label="우정" term="우정"/>
     </entry>
     <entry>
-        <title type="html"><![CDATA[범인이 누군지는 중요하지 않았던 암살자(들)]]></title>
+        <title type="html"><![CDATA[범인이 누군지는 중요하지 않았던 <암살자(들)>]]></title>
         <id>https://summerz.net/blog/2026/10/03</id>
         <link href="https://summerz.net/blog/2026/10/03"/>
         <updated>2026-10-03T00:00:00.000Z</updated>
@@ -566,63 +590,5 @@
             <name>summerz</name>
         </author>
         <category label="hooked on music" term="hooked on music"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[my tweets, retweeted (2011년, 45번째 주)]]></title>
-        <id>https://summerz.net/blog/2011/11/01</id>
-        <link href="https://summerz.net/blog/2011/11/01"/>
-        <updated>2011-11-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[지난 주 제가 날린 트윗들 중 리트윗 받은 글들만.]]></summary>
-        <content type="html"><![CDATA[<p>지난 주 제가 날린 트윗들 중 리트윗 받은 글들만.</p>
-<blockquote>
-2011-10-30
-<p>14개; RT @sungchi: 전 10개 맞았어요;; RT @xguru HTML5 기본에 대해 얼마나 아는지 테스트해보는 퀴즈<a href="https://t.co/pLArJfN2" target="_blank" rel="noopener noreferrer" class="">j.mp/taTXqm</a> 총 18문제인데.. 2개 틀렸네요 ㅠㅠ</p>
-<p>= HTML5에 관심있는 분들은 테스트 고고씽;</p>
-</blockquote>
-<hr>
-<blockquote>
-2011-10-30 (아이폰 팁) 확실히 "시간대 설정 중"을 끄니 배터리가 오래가는 것 같다. 설정 - 위치 서비스 - 시스템 서비스 들어가서 끄면 됨<a href="https://t.co/brtXAnAq" target="_blank" rel="noopener noreferrer" class="">twitpic.com/788v4g </a>
-<img decoding="async" loading="lazy" src="https://summerz.net/blog/2011/11/_blog_upload.jpg" class="img_ev3q">
-<p>= 약간이지만 확실히 나아졌다는 느낌이 듭니다.</p>
-</blockquote>
-<hr>
-<blockquote>
-2011-10-30
-<p>진사마가 나꼼수에 대해 "야담과 실화. 저열하고 비열한 공격. 언젠가 똑같이 당할 겁니다." 라고 했다는데 100% 동감하면서도 난 진사마가 대구의 밤문화 어쩌고 하는 식으로 깐죽거리는 것도 좋아하는데;</p>
-<p>= 한 쪽에서 저열하고 비열하게 하지 않는다고 다른 쪽에서도 비열하지 않게 하지 않으리란 보장이 없다는 게 함정?</p>
-</blockquote>
-<hr>
-<blockquote>
-2011-10-30
-<p>응? 구글이 다음을 인수할 지도 모른다는 루머? <a href="https://t.co/x1zlpAFS" target="_blank" rel="noopener noreferrer" class="">economy.hankooki.com/lpage/industry...</a> = 구글이 다음을 노렸다는 것도 놀랍지만, SKT가 다음을 노리고 있다는 것도 놀랍다.</p>
-</blockquote>
-<hr>
-<blockquote>
-<strong>2011-10-28</strong>
-<p><strong>정말 요즘 정동영을 보면 예전의 그 정동영이 맞나 싶다. 과거가 어쨌든 지금은 민주당에서 제일 나은 듯.</strong></p>
-<p>= 정말 놀라울 뿐. ㄷㄷㄷ 지금의 정동영이라면 그의 유일한 단점이 민주당 소속이라는 것일 뿐일 정도다. 놀랍지 않은가.</p>
-</blockquote>
-<hr>
-<blockquote>
-2011-10-28
-<p>(유튜브) 휘어지는 스마트폰, 새로운 인터페이스 (비틀기), 노키아 키네틱 디바이스 <a href="https://t.co/QT2WFFx7" target="_blank" rel="noopener noreferrer" class="">youtube.com/watch?v=b4jKWT...</a> 역시 노키아!</p>
-<iframe width="100%" height="315" src="https://www.youtube-nocookie.com/embed/sSUJepHJ_ZQ?si=aidO-RP-bZFRu43w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
-</blockquote>
-<hr>
-<blockquote>
-2011-10-24
-<p>안철수연구소 오늘 상한가. 벌써 주당 10만원. 확실히 이건 비정상이다.</p>
-<p>= 주식이 무슨 like 버튼도 아니고, 아고라 서명도 아니고... 관계자가 뉴스에 오르내리면 주가가 오르는 건 도대체 뭘까?</p>
-</blockquote>]]></content>
-        <author>
-            <name>summerz</name>
-        </author>
-        <category label="media & world" term="media & world"/>
-        <category label="SKT" term="SKT"/>
-        <category label="구글" term="구글"/>
-        <category label="아이폰" term="아이폰"/>
-        <category label="다음" term="다음"/>
-        <category label="노키아" term="노키아"/>
-        <category label="HTML5" term="HTML5"/>
     </entry>
 </feed>
