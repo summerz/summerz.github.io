@@ -46,6 +46,13 @@ main :not(pre) > code {
   font-weight: 550;
 }
 
+/* 링크가 걸린 인라인 코드는 링크 색으로 칠해 클릭할 수 있다는 걸 드러낸다. */
+main a > code {
+  border-color: color-mix(in srgb, var(--ifm-link-color) 35%, transparent);
+  background-color: color-mix(in srgb, var(--ifm-link-color) 10%, transparent);
+  color: var(--ifm-link-color);
+}
+
 /* 프론트매터에 draft: true 인 글 표시(src/theme/BlogPostItem/Header/Title).
    배포 빌드에는 드래프트가 없으므로 개발 서버에서만 보인다. */
 .draftBadge {
