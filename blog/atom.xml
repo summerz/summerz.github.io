@@ -2,11 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://summerz.net/blog</id>
     <title>summerz.net Blog</title>
-    <updated>2026-10-27T00:00:00.000Z</updated>
+    <updated>2026-11-04T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://summerz.net/blog"/>
     <subtitle>summerz.net Blog</subtitle>
     <icon>https://summerz.net/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이폰 홈 화면 앱 위의 그림자, 이번에는 시스템 블러]]></title>
+        <id>https://summerz.net/blog/2026/11/04</id>
+        <link href="https://summerz.net/blog/2026/11/04"/>
+        <updated>2026-11-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[지난번에는 아이폰 홈 화면 앱 위의 흰 띠를 잡았습니다. 문서 전체가 아래로 밀려 있던 문제였죠. 그런데 다른 앱을 만들다가 또 비슷한 걸 만났습니다. 다크 테마에서 앱 제목과 프로필 아이콘 윗부분이 또 뿌옇게 보이는 거예요.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.summerz.net/blog/2026/10/20" target="_blank" rel="noopener noreferrer" class="">지난번에는 아이폰 홈 화면 앱 위의 흰 띠를 잡았습니다.</a> 문서 전체가 아래로 밀려 있던 문제였죠. 그런데 다른 앱을 만들다가 또 비슷한 걸 만났습니다. 다크 테마에서 앱 제목과 프로필 아이콘 윗부분이 또 뿌옇게 보이는 거예요.</p>
+<p>한 번 겪었으니 이번엔 금방 끝나겠거니 했습니다. 화면이 비슷하게 망가졌다고 원인까지 같지는 않더군요.</p>
+<p>다른 앱이었는데요, 똑같이 웹 앱(<code>PWA</code>)으로 만들고 있었습니다.</p>
+<p>다크 테마에서 상단 제목 윗부분과 프로필 아이콘 상단이 흐려졌습니다. 라이트 테마에서는 같은 흰 그림자가 보이지 않았고요. 하단 안전 여백(<code>safe area</code>) 문제는 이미 따로 해결한 상태였고요. 기존 글에서 쓴 복구 로직으로 해결되는지도 체크해봤거든요. <code>scrollY</code>가 음수이거나 문서가 아래로 밀렸을 때 <code>window.scrollTo(0, 0)</code>으로 되돌리는 방식이요. 그런데 아니네요?</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="역시-진단부터">역시 진단부터<a href="https://summerz.net/blog/2026/11/04#%EC%97%AD%EC%8B%9C-%EC%A7%84%EB%8B%A8%EB%B6%80%ED%84%B0" class="hash-link" aria-label="Direct link to 역시 진단부터" title="Direct link to 역시 진단부터" translate="no">​</a></h2>
+<p>로컬 테스트 서버에서만 쓰는 레이아웃 진단을 넣었습니다. 화면 요소의 좌표와 CSS 페인트 속성을 수집하는 진단입니다. 홈 화면에 설치한 앱을 실제 아이폰에서 열어 확인한 값은 이랬습니다. 좌표와 크기는 CSS 픽셀 기준입니다.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>항목</th><th>측정값</th></tr></thead><tbody><tr><td>기기 화면</td><td>375×812</td></tr><tr><td>웹 콘텐츠 영역</td><td>375×768</td></tr><tr><td><code>window.scrollY</code></td><td>0</td></tr><tr><td><code>visualViewport.offsetTop</code></td><td>0</td></tr><tr><td><code>html</code>, <code>body</code>, <code>root</code>의 y 좌표</td><td>모두 0</td></tr><tr><td>제목 영역</td><td>y=16, 높이 44</td></tr><tr><td>하단 메뉴의 아래 끝</td><td>768</td></tr><tr><td>하단 안전 여백</td><td>31px</td></tr></tbody></table>
+<p>잘못된 게 없네요? 제목을 감싸는 레이어와 그 상위 노드들도 확인했습니다. <code>filter</code>, <code>backdrop-filter</code>, <code>box-shadow</code>, <code>text-shadow</code>가 전부 <code>none</code>이었습니다. 상태표시줄 설정인 <code>apple-mobile-web-app-status-bar-style</code>도 <code>default</code>였고요. 조사한 앱 레이어에는 저 그림자를 그릴 속성이 없었습니다.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="이번에는-시스템이-그리는-블러">이번에는 시스템이 그리는 블러<a href="https://summerz.net/blog/2026/11/04#%EC%9D%B4%EB%B2%88%EC%97%90%EB%8A%94-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4-%EA%B7%B8%EB%A6%AC%EB%8A%94-%EB%B8%94%EB%9F%AC" class="hash-link" aria-label="Direct link to 이번에는 시스템이 그리는 블러" title="Direct link to 이번에는 시스템이 그리는 블러" translate="no">​</a></h2>
+<p>단서가 된 건 <a href="https://zenn.dev/uakihir0/articles/260920-ios27-pwa-blur" target="_blank" rel="noopener noreferrer" class="">Zenn의 실기기 실험과 WebKit 소스 분석 글</a>이었습니다. 화면 가장자리에 운영체제가 그리는 효과인 <code>scroll edge effect</code>를 다루는데, 상단 고정 요소의 배경색을 이용해 시스템 블러에 대응하는 방법이 나옵니다. <a href="https://tips.ojapp.app/en/ios-27-pwa-top-blur-workaround-2/" target="_blank" rel="noopener noreferrer" class="">OJapp의 실험 글</a>에서도 헤더까지 번지는 블러와 상단 고정 요소를 이용한 우회를 확인할 수 있었습니다.</p>
+<p>지난 글에서 의심했다가 그때의 원인은 아니라고 판단했던 바로 그 계열의 동작입니다. 겉보기만으로 구분하기 어려운 두 문제가 있었던 거죠.</p>
+<p>핵심은 화면 위에 불투명한 띠를 덧그리는 데 있지 않았습니다. <code>WebKit</code>이 상단 고정 요소의 배경색을 읽도록 하되, 그 요소 자체는 아무것도 칠하지 않게 만드는 방식이었습니다. 빈 요소에 배경색을 주고, 배경을 글자 모양으로 잘라 내는 <code>background-clip: text</code>를 적용합니다. 글자가 없으니 실제로 칠해지는 부분도 없습니다.</p>
+<p>여기서 높이가 하필 11px인 이유도 나옵니다. <a href="https://raw.githubusercontent.com/WebKit/WebKit/main/Source/WebCore/page/LocalFrameView.cpp" target="_blank" rel="noopener noreferrer" class="">WebKit의 <code>LocalFrameView::fixedContainerEdges</code> 소스</a>에는 <code>thinBorderWidth = 10</code>이라는 경계가 있습니다. 배경색을 읽는 경로에서 너비나 높이가 이 값 이하이면 제외합니다. 11px는 그 경계를 넘기려는 값입니다. 앱 제목 위에 여백 11px를 추가하자는 뜻이 아니었어요.</p>
+<p>색을 가져올 때도 화면에 칠해진 픽셀을 읽는 대신 렌더러의 스타일에서 배경색을 얻습니다. 배경색을 갖고 있지만 눈에는 보이지 않는 요소를 두는 방식이 가능한 이유입니다.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="보이지-않는-고정-요소-하나">보이지 않는 고정 요소 하나<a href="https://summerz.net/blog/2026/11/04#%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EB%8A%94-%EA%B3%A0%EC%A0%95-%EC%9A%94%EC%86%8C-%ED%95%98%EB%82%98" class="hash-link" aria-label="Direct link to 보이지 않는 고정 요소 하나" title="Direct link to 보이지 않는 고정 요소 하나" translate="no">​</a></h2>
+<p>우선 첫 페인트 전에 홈 화면에서 실행한 앱인지 판별해 <code>html</code>에 속성을 붙입니다. 아래 스크립트는 <code>head</code> 안에 둡니다.</p>
+<div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">script</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token script language-javascript"></span><br></div><div class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript keyword control-flow" style="color:#00009f">if</span><span class="token script language-javascript"> </span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript"></span><br></div><div class="token-line" style="color:#393A34"><span class="token script language-javascript">    </span><span class="token script language-javascript dom variable" style="color:#36acaa">navigator</span><span class="token script language-javascript punctuation" style="color:#393A34">.</span><span class="token script language-javascript property-access">standalone</span><span class="token script language-javascript"> </span><span class="token script language-javascript operator" style="color:#393A34">===</span><span class="token script language-javascript"> </span><span class="token script language-javascript boolean" style="color:#36acaa">true</span><span class="token script language-javascript"> </span><span class="token script language-javascript operator" style="color:#393A34">||</span><span class="token script language-javascript"></span><br></div><div class="token-line" style="color:#393A34"><span class="token script language-javascript">    </span><span class="token script language-javascript function" style="color:#d73a49">matchMedia</span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript string" style="color:#e3116c">"(display-mode: standalone)"</span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript punctuation" style="color:#393A34">.</span><span class="token script language-javascript property-access">matches</span><span class="token script language-javascript"></span><br></div><div class="token-line" style="color:#393A34"><span class="token script language-javascript">  </span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript"> </span><span class="token script language-javascript dom variable" style="color:#36acaa">document</span><span class="token script language-javascript punctuation" style="color:#393A34">.</span><span class="token script language-javascript property-access">documentElement</span><span class="token script language-javascript punctuation" style="color:#393A34">.</span><span class="token script language-javascript method function property-access" style="color:#d73a49">setAttribute</span><span class="token script language-javascript punctuation" style="color:#393A34">(</span><span class="token script language-javascript string" style="color:#e3116c">"data-standalone"</span><span class="token script language-javascript punctuation" style="color:#393A34">,</span><span class="token script language-javascript"> </span><span class="token script language-javascript string" style="color:#e3116c">""</span><span class="token script language-javascript punctuation" style="color:#393A34">)</span><span class="token script language-javascript punctuation" style="color:#393A34">;</span><span class="token script language-javascript"></span><br></div><div class="token-line" style="color:#393A34"><span class="token script language-javascript"></span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">script</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><br></div></code></pre></div></div>
+<p>그리고 <code>body</code> 안에서 앱 루트 앞에 빈 요소를 하나 둡니다. 화면 읽기 프로그램이 읽을 내용도 없으니 <code>aria-hidden</code>을 붙였습니다.</p>
+<div class="language-html codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-html codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">id</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">ios-status-background</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">aria-hidden</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">true</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token tag punctuation" style="color:#393A34">&lt;</span><span class="token tag" style="color:#00009f">div</span><span class="token tag" style="color:#00009f"> </span><span class="token tag attr-name" style="color:#00a4db">id</span><span class="token tag attr-value punctuation attr-equals" style="color:#393A34">=</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag attr-value" style="color:#e3116c">root</span><span class="token tag attr-value punctuation" style="color:#393A34">"</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><span class="token tag punctuation" style="color:#393A34">&lt;/</span><span class="token tag" style="color:#00009f">div</span><span class="token tag punctuation" style="color:#393A34">&gt;</span><br></div></code></pre></div></div>
+<p>스타일은 이렇습니다. 기본적으로 숨겨 두고, iOS용 CSS 기능 검사와 설치형 실행 조건을 함께 만족할 때만 적용합니다.</p>
+<div class="language-css codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-css codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token selector id" style="color:#00009f">#ios-status-background</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token property" style="color:#36acaa">display</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> none</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain" style="display:inline-block"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token atrule rule" style="color:#00a4db">@supports</span><span class="token atrule" style="color:#00a4db"> </span><span class="token atrule punctuation" style="color:#393A34">(</span><span class="token atrule property" style="color:#36acaa">-webkit-touch-callout</span><span class="token atrule punctuation" style="color:#393A34">:</span><span class="token atrule" style="color:#00a4db"> none</span><span class="token atrule punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token selector" style="color:#00009f">html</span><span class="token selector attribute punctuation" style="color:#393A34">[</span><span class="token selector attribute attr-name" style="color:#00a4db">data-standalone</span><span class="token selector attribute punctuation" style="color:#393A34">]</span><span class="token selector" style="color:#00009f"> </span><span class="token selector id" style="color:#00009f">#ios-status-background</span><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">{</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">display</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> block</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">position</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> fixed</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">inset</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> </span><span class="token number" style="color:#36acaa">0</span><span class="token plain"> </span><span class="token number" style="color:#36acaa">0</span><span class="token plain"> auto</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">height</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> </span><span class="token number" style="color:#36acaa">11</span><span class="token unit">px</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">z-index</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> </span><span class="token number" style="color:#36acaa">2147483647</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">pointer-events</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> none</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">background-color</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> inherit</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">-webkit-background-clip</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> text</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">    </span><span class="token property" style="color:#36acaa">background-clip</span><span class="token punctuation" style="color:#393A34">:</span><span class="token plain"> text</span><span class="token punctuation" style="color:#393A34">;</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain">  </span><span class="token punctuation" style="color:#393A34">}</span><span class="token plain"></span><br></div><div class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token punctuation" style="color:#393A34">}</span><br></div></code></pre></div></div>
+<p><code>position: fixed</code>이므로 본문 공간을 차지하지 않고, <code>pointer-events: none</code>이므로 아래 버튼을 누르는 데도 끼어들지 않습니다. 높은 <code>z-index</code>는 상단 배경색을 샘플링할 때 이 요소를 후보로 잡도록 하려는 설정입니다.</p>
+<p>배경색은 별도로 하드코딩하지 않았습니다. 기존 <code>AppearanceProvider</code>가 테마에 따라 <code>html</code>과 <code>body</code>의 배경색을 설정하고 있어서, <code>inherit</code>로 그 색을 받으면 됩니다. 다크는 <code>#0A1118</code>, 라이트는 <code>#F3F6F9</code>입니다. CSS 배경색은 기본적으로 상속되지 않으니 여기서는 <code>inherit</code>를 명시했습니다.</p>
+<p>실제 화면에 검은 띠나 흰 띠를 얹어 가리는 방식은 아닙니다. 요소의 사각형은 존재하지만, 빈 텍스트로 배경을 잘라 놓아서 색 띠는 그리지 않습니다. 보이는 그림자를 없애려고 보이지 않는 요소를 넣는다니, 설명하면서도 좀 이상하긴 하지만(...), 뭐 그렇습니다. 앞에 가짜를 둬서 막는 거죠.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="브라우저에서-확인한-것과-아이폰에서-확인한-것">브라우저에서 확인한 것과 아이폰에서 확인한 것<a href="https://summerz.net/blog/2026/11/04#%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%ED%99%95%EC%9D%B8%ED%95%9C-%EA%B2%83%EA%B3%BC-%EC%95%84%EC%9D%B4%ED%8F%B0%EC%97%90%EC%84%9C-%ED%99%95%EC%9D%B8%ED%95%9C-%EA%B2%83" class="hash-link" aria-label="Direct link to 브라우저에서 확인한 것과 아이폰에서 확인한 것" title="Direct link to 브라우저에서 확인한 것과 아이폰에서 확인한 것" translate="no">​</a></h2>
+<p>앱 쪽 타입 검사와 기존 테스트 55개는 통과했습니다. 다만 이것으로 아이폰의 시스템 블러가 없어졌다고 말할 수는 없죠.</p>
+<p>데스크톱의 <code>Playwright WebKit</code>에서는 테스트 중에만 iOS 전용 CSS 조건을 강제로 활성화했습니다. 거기서 확인한 건 다크·라이트 배경색 상속, 높이 11px의 고정 위치, <code>pointer-events: none</code>입니다. 보정 요소를 표시했을 때와 숨겼을 때 상단 11px의 스크린샷 픽셀도 같았습니다. 실제 색 띠를 덧그리지 않는다는 확인까지 한 겁니다. 이 테스트 브라우저의 너비는 402px로, 실기기의 375px와 구분했습니다.</p>
+<p>최종 확인은 홈 화면에 설치한 아이폰 앱에서 했습니다. 이건 시스템 블러를 끄는 공식 CSS API가 아니라 특정 iOS와 WebKit의 상단 배경색 판별 동작을 이용한 우회라서, 운영체제가 바뀌면 다시 확인해야 합니다. 이번에 해결을 확인한 범위도 실제 테스트한 설치형 아이폰 PWA입니다. 다크에서만 그림자가 보였던 내부 이유까지 밝혀낸 것은 아니고요.</p>
+<p>다음에 또 비슷한 띠가 나타나면 적어도 <code>scrollY</code>부터 보게 되겠죠. 이제 의심할 원인도 두 개가 됐습니다.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="관련-링크">관련 링크<a href="https://summerz.net/blog/2026/11/04#%EA%B4%80%EB%A0%A8-%EB%A7%81%ED%81%AC" class="hash-link" aria-label="Direct link to 관련 링크" title="Direct link to 관련 링크" translate="no">​</a></h2>
+<ul>
+<li class=""><a href="https://www.summerz.net/blog/2026/10/20" target="_blank" rel="noopener noreferrer" class="">이전 글: 아이폰 홈 화면 앱 위의 흰 띠, 범인은 블러가 아니었다</a></li>
+<li class=""><a href="https://zenn.dev/uakihir0/articles/260920-ios27-pwa-blur" target="_blank" rel="noopener noreferrer" class="">Zenn: iOS 27 PWA 상단 블러의 실기기 실험과 WebKit 소스 분석</a></li>
+<li class=""><a href="https://tips.ojapp.app/en/ios-27-pwa-top-blur-workaround-2/" target="_blank" rel="noopener noreferrer" class="">OJapp: iOS 27 PWA 상단 블러를 피하는 실험적 방법</a></li>
+<li class=""><a href="https://raw.githubusercontent.com/WebKit/WebKit/main/Source/WebCore/page/LocalFrameView.cpp" target="_blank" rel="noopener noreferrer" class="">WebKit LocalFrameView.cpp 원문: fixedContainerEdges</a></li>
+</ul>]]></content>
+        <author>
+            <name>summerz</name>
+        </author>
+        <category label="something useful" term="something useful"/>
+        <category label="아이폰" term="아이폰"/>
+        <category label="PWA" term="PWA"/>
+        <category label="WebKit" term="WebKit"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블로고스피어는 쓰레기장이라는 말이 20년 전에도 있었지]]></title>
         <id>https://summerz.net/blog/2026/10/27</id>
@@ -248,7 +339,7 @@
 <p>두 번째 칸이 제일 중요해 보여요. 바꿀 것만 적어두면, 그 주변을 어디까지 건드려도 되는지는 에이전트가 알아서 판단하게 되니까요.</p>
 <p>그런데, 이게 규칙을 강화할수록 생산성은 낮아지고 토큰과 시간은 무지막지하게 소비되는, 그런 트레이드오프가 있긴 하죠.</p>
 <hr>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="긴-지시문은-생각보다-힘이-없다">긴 지시문은 생각보다 힘이 없다<a href="https://summerz.net/blog/2026/09/16#%EA%B8%B4-%EC%A7%80%EC%8B%9C%EB%AC%B8%EC%9D%80-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%ED%9E%98%EC%9D%B4-%EC%97%86%EB%8B%A4" class="hash-link" aria-label="Direct link to 긴 지시문은 생각보다 힘이 없다" title="Direct link to 긴 지시문�은 생각보다 힘이 없다" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="긴-지시문은-생각보다-힘이-없다">긴 지시문은 생각보다 힘이 없다<a href="https://summerz.net/blog/2026/09/16#%EA%B8%B4-%EC%A7%80%EC%8B%9C%EB%AC%B8%EC%9D%80-%EC%83%9D%EA%B0%81%EB%B3%B4%EB%8B%A4-%ED%9E%98%EC%9D%B4-%EC%97%86%EB%8B%A4" class="hash-link" aria-label="Direct link to 긴 지시문은 생각보다 힘이 없다" title="Direct link to 긴 지시문은 생각보다 힘이 없다" translate="no">​</a></h2>
 <p>이 대목이 제일 뜨끔했습니다. 저도&nbsp;<code>CLAUDE.md</code>를 적다 보면 금방 길어지거든요.</p>
 <p>OpenAI 팀은 문서만으로는 에이전트가 만든 코드베이스의 일관성을 유지할 수 없다고 결론 내렸습니다. 한동안은 금요일마다 손으로 AI가 어질러 놓은 걸 치웠는데, 그게 주당 20%였다고 해요. 나흘 일하고 하루 치우는 셈이죠.</p>
 <p>그래서 한 게 문서의 지시를 실행 규칙으로 승격시키는 거였습니다. 도메인을 고정된 레이어로 나누고 허용된 의존 방향을 커스텀 lint와 구조 테스트로 강제했어요. 로깅 방식, 스키마/타입 명명, 파일 크기 같은 것도 lint로 검사합니다. 재미있는 디테일 하나는 <strong>lint 오류 메시지 안에 에이전트가 읽을 수정 지시를 넣었다</strong>는 겁니다. 문서에 적어두고 읽어주길 바라는 대신, 틀린 순간에 손에 쥐여주는 거죠.</p>
@@ -501,7 +592,7 @@
 <p>이 시계, 한화로 3억이 넘는다고 한다</p>
 </figcaption></figure>
 <p>안드로이드가 아직 쫒아오지 못한 소프트웨어보다 외형에 신경을 쓴 것이라 생각한다. 현재 안드로이드 폰들은 플라스틱 케이스가 대부분이고 이런 디테일은 대부분 없다. 즉, 허를 찔렀다고 봐도 좋을 듯 하다. 이로써 앞으로 한동안 고급 외형에 대한 이슈에서도 애플이 먼저 한발 담궜다고 볼 수 있지 않을까. 다이아몬드로 깎은 외형. 몇백만원짜리 제품(노트북)에 쓰이는 것과 같은 재질, 티는 잘 안나지만 본인은 알아보는 그 말끔함과 그로 인한 허세.</p>
-<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="둘째-앞뒷면을-가리지-않는-커넥터---라이트닝">둘째, 앞뒷면을 가리지 않는 커넥터 - 라이트닝<a href="https://summerz.net/blog/2012/09/21#%EB%91%98%EC%A7%B8-%EC%95%9E%EB%92%B7%EB%A9%B4%EC%9D%84-%EA%B0%80%EB%A6%AC%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%BB%A4%EB%84%A5%ED%84%B0---%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%8B%9D" class="hash-link" aria-label="Direct link to 둘째, 앞뒷면을 가리지 않는 커넥터 - 라이트닝" title="Direct link to 둘째, 앞뒷면을 가리지 않는 �커넥터 - 라이트닝" translate="no">​</a></h2>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="둘째-앞뒷면을-가리지-않는-커넥터---라이트닝">둘째, 앞뒷면을 가리지 않는 커넥터 - 라이트닝<a href="https://summerz.net/blog/2012/09/21#%EB%91%98%EC%A7%B8-%EC%95%9E%EB%92%B7%EB%A9%B4%EC%9D%84-%EA%B0%80%EB%A6%AC%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%BB%A4%EB%84%A5%ED%84%B0---%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%8B%9D" class="hash-link" aria-label="Direct link to 둘째, 앞뒷면을 가리지 않는 커넥터 - 라이트닝" title="Direct link to 둘째, 앞뒷면을 가리지 않는 커넥터 - 라이트닝" translate="no">​</a></h2>
 <p>기존의 30핀 커넥터를 버리고 새로운 커넥터를 사용한다고 욕을 많이 먹고 있지만, 사실 이것은 필연적이다. 애플이 기존의 아이폰에서 레티나 디스플레이를 채용하고, 이번에 다시 16:9 의 화면을 채용하는 것만큼이나 언젠가는 해야할 일이다.</p>
 <p>애플의 초슬림 노트북인 맥북에어 시리즈를 보다보면 맥북에어의 가장 두꺼운 부분이 USB 커넥터 때문인 것과 같은 느낌을 받을 때가 있다. 즉, 기술이 발전하다 보면 언젠가는 새로운 기술이 도입될 필요가 있다는 것이다.</p>
 <p>기존의 아이폰, 아이팟, 아이패드 사용자들에게는 기존의 30핀을 사용할 수 없게 되니 원성을 많이 들을 수 있으나 결국은 큰 문제가 되지 않을 뿐더러 편리하다는 느낌을 줄 수 있을 것 같다. 앞뒷면을 가리지 않기 때문이다. 기존의 각종 커넥터들 중에 앞뒷면을 가리지 않는 커넥터가 있었던가? 우리나라의 접지가 없는 220V 전원 어뎁터를 제외하고는 본 적이 없는 듯 하다.</p>
@@ -609,46 +700,5 @@
             <name>summerz</name>
         </author>
         <category label="my view & mind" term="my view & mind"/>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문득, 싸이의 강남 스타일 확산 경로?]]></title>
-        <id>https://summerz.net/blog/2012/08/10</id>
-        <link href="https://summerz.net/blog/2012/08/10"/>
-        <updated>2012-08-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[문득 "싸이 '강남스타일' 글로벌 확산 경로"라는 글을 봤는데, 그 글은 트위터에서의 급격한 확산지를 저스틴 비버의 매니저인 스쿠터 브라운의 트윗을 꼽고 있다.]]></summary>
-        <content type="html"><![CDATA[<p>문득 <a href="https://venturesquare.net/2976" target="_blank" rel="noopener noreferrer" class="">"싸이 '강남스타일' 글로벌 확산 경로"</a>라는 글을 봤는데, 그 글은 트위터에서의 급격한 확산지를 저스틴 비버의 매니저인 스쿠터 브라운의 트윗을 꼽고 있다.</p>
-<blockquote class="twitter-tweet"><p>HOW DID I NOT SIGN THIS GUY!?!??! <a href="https://t.co/i9s2rwKx" target="_blank" rel="noopener noreferrer" class="">youtu.be/9bZkp7q19f0</a> GANGNAM STYLE!!!! <a href="https://twitter.com/search/?q=%23THEGREATEST" target="_blank" rel="noopener noreferrer" class="">#THEGREATEST</a></p>
-— Scooter Braun (@scooterbraun) <a href="https://twitter.com/scooterbraun/status/230382776401154048" target="_blank" rel="noopener noreferrer" class="">July 31, 2012</a></blockquote>
-<p>2012년 7월 31일자 트윗이고, 현재 리트윗 1,136회, 즐겨찾기 575회를 거두고 있다.</p>
-<p>그 글에서 이와 같은 근거를 topsy에서 키워드 gangnam style로 검색한 것을 근거로 잡고 있는데, 일종의 글로벌 스타 중에서 스쿠터 브라운 보다 먼저 트윗을 한 사람이 있다.</p>
-<p>바로 T-Pain.</p>
-<blockquote class="twitter-tweet"><p>Words cannot even describe how amazing this video is... <a href="https://t.co/FoO0Pt25" target="_blank" rel="noopener noreferrer" class="">youtube.com/watch?v=9bZkp7…</a></p>
-— T-Pain (@TPAIN) <a href="https://twitter.com/TPAIN/status/229693595437912064" target="_blank" rel="noopener noreferrer" class="">July 29, 2012</a></blockquote>
-<p>T-Pain은 gangnam style 이라는 단어를 사용하지 않았지만 똑같은 유튜브 비디오를 링크해서 2012년 7월 29일에 트윗했다. 참고로 이 트윗은 현재 리트윗 2,367회, 즐겨찾기 836회를 기록 중이다.</p>
-<hr>
-<p>그리고 그 글에서는 언급하고 있지는 않지만 그 외에 스쿠터 브라운 수준의 영향을 준 매체/사람이 더 있다면 아마도,</p>
-<p>2012년 7월 28일에 로비 윌리엄스가 블로그에 쓴 <a href="https://www.robbiewilliams.com/news-blogs/trying-to-figure-out-which-tracks-stay-the-album" target="_blank" rel="noopener noreferrer" class="">"TRYING TO FIGURE OUT WHICH TRACKS STAY ON THE ALBUM"</a> 이라는 글이 그 중의 하나일 것이고, (현재까지 댓글이 900개 이상 달렸다)</p>
-<p>2012년 8월 1일의 조쉬 그로반의 트윗이 그 중의 하나일 것이고,</p>
-<blockquote class="twitter-tweet"><p>It's a Gangnam Style world, we're just living in it. Amazing video. <a href="https://t.co/7DbkFSEn" target="_blank" rel="noopener noreferrer" class="">bit.ly/PVPJ4p</a></p>
-— josh groban (@joshgroban) <a href="https://twitter.com/joshgroban/status/230459113790902272" target="_blank" rel="noopener noreferrer" class="">August 1, 2012</a></blockquote>
-<p>2012년 8월 2일 CNN 이 <a href="https://edition.cnn.com/video/?/video/world/2012/08/02/wr-gangnam-style-goes-viral-in-rap-video.cnn" target="_blank" rel="noopener noreferrer" class="">"GANGNAM STYLE" GOES VIRAL</a> 이라고 방영한 뉴스클립도 한몫 했을 것이다.</p>
-<hr>
-<p>재밌는 건 구글 트렌드로 <a href="https://www.google.com/trends/?q=gangnam+style&amp;ctab=0&amp;geo=all&amp;date=mtd&amp;sort=0" target="_blank" rel="noopener noreferrer" class="">gangnam style</a>을 확인해 보면, 검색 지역 순위에 싱가폴이 1등이라는 점. 도시 순으로 따져야 캘리포니아의 샌디에고와 샌프란시스코가 4, 5위를 차지하고 있다. 음악 관련 키워드의 경우 구글과 트위터, 유튜브가 관계는 있지만 아주 밀접하지는 않는다는 뜻일까?</p>
-<hr>
-<p>싸이는 유튜브에 <a href="https://www.youtube.com/user/officialpsy" target="_blank" rel="noopener noreferrer" class="">공식 채널</a>을 운영하고 있고, 각종 패러디 영상이나 리액션 비디오를 제외하고 다른 사용자들이 뮤직비디오를 다시 올리는 건 막고 있다. 즉, 뮤직 비디오 유통을 한 곳으로 통일하고 있다는 뜻.</p>
-<p>뮤직비디오가 나온지는 3주가 조금 넘었고, 글로벌 버프를 받은 건 약 2주 정도 지난 현재, 조회수는 2천1백만 회. 유튜브 쪽에서 발생하는 광고 수익이 얼마나 될까? 국내 음원 사이트에서 정액제를 통해 벌어들이는 비용과 비교해서 공개해보면 재밌을 것 같다.</p>
-<hr>
-<p>참고로 YG 가수들과 비교해 본다면,</p>
-<p>거의 11개월 전 (2011년 6월 27일)에 올라온 2NE1의 내가 제일 잘 나가 뮤직비디오는 MTV IGGY 에서 베스트 뉴 밴드로 선정되는 엄청난 버프를 받고 현재 4천9백만 조회수를 기록 중. 대충 계산해 보면 월 평균 445만 페이지뷰.</p>
-<p>대략 4개월 반 전 (2012년 3월 6일)에 나온 빅뱅의 판타스틱 베이비 뮤직비디오는 3천6백만 조회수를 기록 중. 역시 대충 계산해 보면 월 평균 8백만 페이지뷰.</p>
-<p>싸이의 강남스타일은 나온지 3주쯤 됐으니 월 평균으로 따지면 2천8백만 페이지뷰. 물론 해외 팬덤이 없는 싸이의 경우 지속적으로 이 숫자를 유지하기는 힘들겠지.</p>
-<hr>
-<p>싸이의 강남 스타일을 처음 듣지마자 기본 루프가 2NE1의 <a href="https://www.youtube.com/watch?v=j7_lSP8Vc3o" target="_blank" rel="noopener noreferrer" class="">내가 제일 잘 나가</a>와 유사하다고 생각했는데, 표절이니 뭐니 이런 게 아니라 이런 장르의 곡들이 가진 유사성이 잘 느껴졌다는 뜻. 그리고, 중간의 브릿지 부분의 가사나 비트 역시 DJ DOC의 <a href="https://www.youtube.com/watch?v=RmVbF_FVkzw" target="_blank" rel="noopener noreferrer" class="">나 이런 사람이야</a>와 상당히 유사한데, 그도 그럴 게 '강남 스타일'과 '나 이런 사람이야'의 작사/작곡가가 동일하다. 두 곡 모두 작사는 싸이/이하늘, 작곡은 싸이/유건형(언타이틀). 실제로 '나 이런 사람이야'는 원래 싸이 노래였는데, 이하늘에게 들려줬다가 뺏긴 곡.</p>
-<p>뮤직 비디오가 코믹하면서 셔플이 가미된 음악 때문에 아시아의 <a href="https://www.youtube.com/watch?v=KQ6zr6kCPj8" target="_blank" rel="noopener noreferrer" class="">Party Rock Anthem</a> 이라고 하는 사람들도 더러 있다. 몸치 입장에서 보면 사실 말춤이나 토끼춤셔플 댄스나 어떻게 보면 그게 그거 아닌가 싶기도 하다. (물론 이주노는 토끼춤과 셔플댄스의 차이를 몸소 시범을 통해 보인 적이 있다. <a href="https://tvpot.daum.net/clip/ClipView.do?clipid=36614534&amp;rtes=y" target="_blank" rel="noopener noreferrer" class="">1분 15초부터 보면 된다</a>)</p>
-<p>하지만 발음 때문인지 정작 영어권에서는 <a href="https://www.google.co.kr/search?q=Open+Condom+Style&amp;rlz=1C1CHFA_enKR484KR484&amp;sugexp=chrome,mod=19&amp;sourceid=chrome&amp;ie=UTF-8" target="_blank" rel="noopener noreferrer" class="">Open Condom Style</a>, 일본 쪽에서는 <a href="https://www.google.co.kr/search?q=oppai&amp;rlz=1C1CHFA_enKR484KR484&amp;sugexp=chrome,mod=19&amp;sourceid=chrome&amp;ie=UTF-8#hl=ko&amp;newwindow=1&amp;rlz=1C1CHFA_enKR484KR484&amp;sclient=psy-ab&amp;q=oppai+gundam+style&amp;oq=oppai+gundam+style&amp;gs_l=serp.3...3641.10350.0.10441.33.28.4.0.0.4.161.3031.3j22.27.0...0.0...1c.E08RVCL-PbA&amp;pbx=1&amp;bav=on.2,or.r_gc.r_pw.r_cp.r_qf.&amp;fp=7035bf5f7859e262&amp;biw=1380&amp;bih=1002" target="_blank" rel="noopener noreferrer" class="">Oppai Gundam Style</a> 이라고 들린다고. 강남 스타일의 원래 가사가 내포하는 뜻이 성적 어필인데, 가사의 뜻이 안통하더라도 뮤직 비디오를 보면서 자연스럽게 그 쪽이 연상되서 그렇게 들리는 게 아닌가 하는 근거없는 추측도;</p>]]></content>
-        <author>
-            <name>summerz</name>
-        </author>
-        <category label="media & world" term="media & world"/>
     </entry>
 </feed>
